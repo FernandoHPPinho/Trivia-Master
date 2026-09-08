@@ -1,0 +1,1570 @@
+[
+  {
+    "code": "DZ",
+    "en": "Algeria",
+    "pt": "Argélia",
+    "capitalEn": "Algiers",
+    "capitalPt": "Argel",
+    "flag": "🇩🇿"
+  },
+  {
+    "code": "AO",
+    "en": "Angola",
+    "pt": "Angola",
+    "capitalEn": "Luanda",
+    "capitalPt": "Luanda",
+    "flag": "🇦🇴"
+  },
+  {
+    "code": "BJ",
+    "en": "Benin",
+    "pt": "Benin",
+    "capitalEn": "Porto-Novo",
+    "capitalPt": "Porto-Novo",
+    "flag": "🇧🇯"
+  },
+  {
+    "code": "BW",
+    "en": "Botswana",
+    "pt": "Botsuana",
+    "capitalEn": "Gaborone",
+    "capitalPt": "Gaborone",
+    "flag": "🇧🇼"
+  },
+  {
+    "code": "BF",
+    "en": "Burkina Faso",
+    "pt": "Burquina Faso",
+    "capitalEn": "Ouagadougou",
+    "capitalPt": "Uagadugu",
+    "flag": "🇧🇫"
+  },
+  {
+    "code": "BI",
+    "en": "Burundi",
+    "pt": "Burundi",
+    "capitalEn": "Gitega",
+    "capitalPt": "Gitega",
+    "flag": "🇧🇮"
+  },
+  {
+    "code": "CV",
+    "en": "Cabo Verde",
+    "pt": "Cabo Verde",
+    "capitalEn": "Praia",
+    "capitalPt": "Praia",
+    "flag": "🇨🇻"
+  },
+  {
+    "code": "CM",
+    "en": "Cameroon",
+    "pt": "Camarões",
+    "capitalEn": "Yaoundé",
+    "capitalPt": "Iaundé",
+    "flag": "🇨🇲"
+  },
+  {
+    "code": "CF",
+    "en": "Central African Republic",
+    "pt": "República Centro-Africana",
+    "capitalEn": "Bangui",
+    "capitalPt": "Bangui",
+    "flag": "🇨🇫"
+  },
+  {
+    "code": "TD",
+    "en": "Chad",
+    "pt": "Chade",
+    "capitalEn": "N'Djamena",
+    "capitalPt": "Ndjamena",
+    "flag": "🇹🇩"
+  },
+  {
+    "code": "KM",
+    "en": "Comoros",
+    "pt": "Comores",
+    "capitalEn": "Moroni",
+    "capitalPt": "Moroni",
+    "flag": "🇰🇲"
+  },
+  {
+    "code": "CD",
+    "en": "Democratic Republic of the Congo",
+    "pt": "República Democrática do Congo",
+    "capitalEn": "Kinshasa",
+    "capitalPt": "Kinshasa",
+    "flag": "🇨🇩"
+  },
+  {
+    "code": "CG",
+    "en": "Republic of the Congo",
+    "pt": "República do Congo",
+    "capitalEn": "Brazzaville",
+    "capitalPt": "Brazzaville",
+    "flag": "🇨🇬"
+  },
+  {
+    "code": "DJ",
+    "en": "Djibouti",
+    "pt": "Djibuti",
+    "capitalEn": "Djibouti",
+    "capitalPt": "Djibuti",
+    "flag": "🇩🇯"
+  },
+  {
+    "code": "EG",
+    "en": "Egypt",
+    "pt": "Egito",
+    "capitalEn": "Cairo",
+    "capitalPt": "Cairo",
+    "flag": "🇪🇬"
+  },
+  {
+    "code": "GQ",
+    "en": "Equatorial Guinea",
+    "pt": "Guiné Equatorial",
+    "capitalEn": "Malabo",
+    "capitalPt": "Malabo",
+    "flag": "🇬🇶"
+  },
+  {
+    "code": "ER",
+    "en": "Eritrea",
+    "pt": "Eritreia",
+    "capitalEn": "Asmara",
+    "capitalPt": "Asmara",
+    "flag": "🇪🇷"
+  },
+  {
+    "code": "SZ",
+    "en": "Eswatini",
+    "pt": "Essuatíni",
+    "capitalEn": "Mbabane",
+    "capitalPt": "Mbabane",
+    "flag": "🇸🇿"
+  },
+  {
+    "code": "ET",
+    "en": "Ethiopia",
+    "pt": "Etiópia",
+    "capitalEn": "Addis Ababa",
+    "capitalPt": "Adis Abeba",
+    "flag": "🇪🇹"
+  },
+  {
+    "code": "GA",
+    "en": "Gabon",
+    "pt": "Gabão",
+    "capitalEn": "Libreville",
+    "capitalPt": "Libreville",
+    "flag": "🇬🇦"
+  },
+  {
+    "code": "GM",
+    "en": "Gambia",
+    "pt": "Gâmbia",
+    "capitalEn": "Banjul",
+    "capitalPt": "Banjul",
+    "flag": "🇬🇲"
+  },
+  {
+    "code": "GH",
+    "en": "Ghana",
+    "pt": "Gana",
+    "capitalEn": "Accra",
+    "capitalPt": "Acra",
+    "flag": "🇬🇭"
+  },
+  {
+    "code": "GN",
+    "en": "Guinea",
+    "pt": "Guiné",
+    "capitalEn": "Conakry",
+    "capitalPt": "Conacri",
+    "flag": "🇬🇳"
+  },
+  {
+    "code": "GW",
+    "en": "Guinea-Bissau",
+    "pt": "Guiné-Bissau",
+    "capitalEn": "Bissau",
+    "capitalPt": "Bissau",
+    "flag": "🇬🇼"
+  },
+  {
+    "code": "CI",
+    "en": "Ivory Coast",
+    "pt": "Costa do Marfim",
+    "capitalEn": "Yamoussoukro",
+    "capitalPt": "Iamussucro",
+    "flag": "🇨🇮"
+  },
+  {
+    "code": "KE",
+    "en": "Kenya",
+    "pt": "Quênia",
+    "capitalEn": "Nairobi",
+    "capitalPt": "Nairóbi",
+    "flag": "🇰🇪"
+  },
+  {
+    "code": "LS",
+    "en": "Lesotho",
+    "pt": "Lesoto",
+    "capitalEn": "Maseru",
+    "capitalPt": "Maseru",
+    "flag": "🇱🇸"
+  },
+  {
+    "code": "LR",
+    "en": "Liberia",
+    "pt": "Libéria",
+    "capitalEn": "Monrovia",
+    "capitalPt": "Monróvia",
+    "flag": "🇱🇷"
+  },
+  {
+    "code": "LY",
+    "en": "Libya",
+    "pt": "Líbia",
+    "capitalEn": "Tripoli",
+    "capitalPt": "Trípoli",
+    "flag": "🇱🇾"
+  },
+  {
+    "code": "MG",
+    "en": "Madagascar",
+    "pt": "Madagascar",
+    "capitalEn": "Antananarivo",
+    "capitalPt": "Antananarivo",
+    "flag": "🇲🇬"
+  },
+  {
+    "code": "MW",
+    "en": "Malawi",
+    "pt": "Malawi",
+    "capitalEn": "Lilongwe",
+    "capitalPt": "Lilongwe",
+    "flag": "🇲🇼"
+  },
+  {
+    "code": "ML",
+    "en": "Mali",
+    "pt": "Mali",
+    "capitalEn": "Bamako",
+    "capitalPt": "Bamaco",
+    "flag": "🇲🇱"
+  },
+  {
+    "code": "MR",
+    "en": "Mauritania",
+    "pt": "Mauritânia",
+    "capitalEn": "Nouakchott",
+    "capitalPt": "Nuaquechott",
+    "flag": "🇲🇷"
+  },
+  {
+    "code": "MU",
+    "en": "Mauritius",
+    "pt": "Maurícia",
+    "capitalEn": "Port Louis",
+    "capitalPt": "Port Louis",
+    "flag": "🇲🇺"
+  },
+  {
+    "code": "MA",
+    "en": "Morocco",
+    "pt": "Marrocos",
+    "capitalEn": "Rabat",
+    "capitalPt": "Rabat",
+    "flag": "🇲🇦"
+  },
+  {
+    "code": "MZ",
+    "en": "Mozambique",
+    "pt": "Moçambique",
+    "capitalEn": "Maputo",
+    "capitalPt": "Maputo",
+    "flag": "🇲🇿"
+  },
+  {
+    "code": "NA",
+    "en": "Namibia",
+    "pt": "Namíbia",
+    "capitalEn": "Windhoek",
+    "capitalPt": "Windhoek",
+    "flag": "🇳🇦"
+  },
+  {
+    "code": "NE",
+    "en": "Niger",
+    "pt": "Níger",
+    "capitalEn": "Niamey",
+    "capitalPt": "Niamei",
+    "flag": "🇳🇪"
+  },
+  {
+    "code": "NG",
+    "en": "Nigeria",
+    "pt": "Nigéria",
+    "capitalEn": "Abuja",
+    "capitalPt": "Abuja",
+    "flag": "🇳🇬"
+  },
+  {
+    "code": "RW",
+    "en": "Rwanda",
+    "pt": "Ruanda",
+    "capitalEn": "Kigali",
+    "capitalPt": "Kigali",
+    "flag": "🇷🇼"
+  },
+  {
+    "code": "ST",
+    "en": "Sao Tome and Principe",
+    "pt": "São Tomé e Príncipe",
+    "capitalEn": "São Tomé",
+    "capitalPt": "São Tomé",
+    "flag": "🇸🇹"
+  },
+  {
+    "code": "SN",
+    "en": "Senegal",
+    "pt": "Senegal",
+    "capitalEn": "Dakar",
+    "capitalPt": "Dakar",
+    "flag": "🇸🇳"
+  },
+  {
+    "code": "SC",
+    "en": "Seychelles",
+    "pt": "Seicheles",
+    "capitalEn": "Victoria",
+    "capitalPt": "Victoria",
+    "flag": "🇸🇨"
+  },
+  {
+    "code": "SL",
+    "en": "Sierra Leone",
+    "pt": "Serra Leoa",
+    "capitalEn": "Freetown",
+    "capitalPt": "Freetown",
+    "flag": "🇸🇱"
+  },
+  {
+    "code": "SO",
+    "en": "Somalia",
+    "pt": "Somália",
+    "capitalEn": "Mogadishu",
+    "capitalPt": "Mogadíscio",
+    "flag": "🇸🇴"
+  },
+  {
+    "code": "ZA",
+    "en": "South Africa",
+    "pt": "África do Sul",
+    "capitalEn": "Pretoria",
+    "capitalPt": "Pretória",
+    "flag": "🇿🇦"
+  },
+  {
+    "code": "SS",
+    "en": "South Sudan",
+    "pt": "Sudão do Sul",
+    "capitalEn": "Juba",
+    "capitalPt": "Juba",
+    "flag": "🇸🇸"
+  },
+  {
+    "code": "SD",
+    "en": "Sudan",
+    "pt": "Sudão",
+    "capitalEn": "Khartoum",
+    "capitalPt": "Cartum",
+    "flag": "🇸🇩"
+  },
+  {
+    "code": "TZ",
+    "en": "Tanzania",
+    "pt": "Tanzânia",
+    "capitalEn": "Dodoma",
+    "capitalPt": "Dodoma",
+    "flag": "🇹🇿"
+  },
+  {
+    "code": "TG",
+    "en": "Togo",
+    "pt": "Togo",
+    "capitalEn": "Lomé",
+    "capitalPt": "Lomé",
+    "flag": "🇹🇬"
+  },
+  {
+    "code": "TN",
+    "en": "Tunisia",
+    "pt": "Tunísia",
+    "capitalEn": "Tunis",
+    "capitalPt": "Tunes",
+    "flag": "🇹🇳"
+  },
+  {
+    "code": "UG",
+    "en": "Uganda",
+    "pt": "Uganda",
+    "capitalEn": "Kampala",
+    "capitalPt": "Campala",
+    "flag": "🇺🇬"
+  },
+  {
+    "code": "ZM",
+    "en": "Zambia",
+    "pt": "Zâmbia",
+    "capitalEn": "Lusaka",
+    "capitalPt": "Lusaka",
+    "flag": "🇿🇲"
+  },
+  {
+    "code": "ZW",
+    "en": "Zimbabwe",
+    "pt": "Zimbábue",
+    "capitalEn": "Harare",
+    "capitalPt": "Harare",
+    "flag": "🇿🇼"
+  },
+  {
+    "code": "AG",
+    "en": "Antigua and Barbuda",
+    "pt": "Antígua e Barbuda",
+    "capitalEn": "Saint John's",
+    "capitalPt": "Saint John's",
+    "flag": "🇦🇬"
+  },
+  {
+    "code": "AR",
+    "en": "Argentina",
+    "pt": "Argentina",
+    "capitalEn": "Buenos Aires",
+    "capitalPt": "Buenos Aires",
+    "flag": "🇦🇷"
+  },
+  {
+    "code": "BS",
+    "en": "Bahamas",
+    "pt": "Bahamas",
+    "capitalEn": "Nassau",
+    "capitalPt": "Nassau",
+    "flag": "🇧🇸"
+  },
+  {
+    "code": "BB",
+    "en": "Barbados",
+    "pt": "Barbados",
+    "capitalEn": "Bridgetown",
+    "capitalPt": "Bridgetown",
+    "flag": "🇧🇧"
+  },
+  {
+    "code": "BZ",
+    "en": "Belize",
+    "pt": "Belize",
+    "capitalEn": "Belmopan",
+    "capitalPt": "Belmopan",
+    "flag": "🇧🇿"
+  },
+  {
+    "code": "BO",
+    "en": "Bolivia",
+    "pt": "Bolívia",
+    "capitalEn": "Sucre",
+    "capitalPt": "Sucre",
+    "flag": "🇧🇴"
+  },
+  {
+    "code": "BR",
+    "en": "Brazil",
+    "pt": "Brasil",
+    "capitalEn": "Brasília",
+    "capitalPt": "Brasília",
+    "flag": "🇧🇷"
+  },
+  {
+    "code": "CA",
+    "en": "Canada",
+    "pt": "Canadá",
+    "capitalEn": "Ottawa",
+    "capitalPt": "Ottawa",
+    "flag": "🇨🇦"
+  },
+  {
+    "code": "CL",
+    "en": "Chile",
+    "pt": "Chile",
+    "capitalEn": "Santiago",
+    "capitalPt": "Santiago",
+    "flag": "🇨🇱"
+  },
+  {
+    "code": "CO",
+    "en": "Colombia",
+    "pt": "Colômbia",
+    "capitalEn": "Bogotá",
+    "capitalPt": "Bogotá",
+    "flag": "🇨🇴"
+  },
+  {
+    "code": "CR",
+    "en": "Costa Rica",
+    "pt": "Costa Rica",
+    "capitalEn": "San José",
+    "capitalPt": "San José",
+    "flag": "🇨🇷"
+  },
+  {
+    "code": "CU",
+    "en": "Cuba",
+    "pt": "Cuba",
+    "capitalEn": "Havana",
+    "capitalPt": "Havana",
+    "flag": "🇨🇺"
+  },
+  {
+    "code": "DM",
+    "en": "Dominica",
+    "pt": "Dominica",
+    "capitalEn": "Roseau",
+    "capitalPt": "Roseau",
+    "flag": "🇩🇲"
+  },
+  {
+    "code": "DO",
+    "en": "Dominican Republic",
+    "pt": "República Dominicana",
+    "capitalEn": "Santo Domingo",
+    "capitalPt": "Santo Domingo",
+    "flag": "🇩🇴"
+  },
+  {
+    "code": "EC",
+    "en": "Ecuador",
+    "pt": "Equador",
+    "capitalEn": "Quito",
+    "capitalPt": "Quito",
+    "flag": "🇪🇨"
+  },
+  {
+    "code": "SV",
+    "en": "El Salvador",
+    "pt": "El Salvador",
+    "capitalEn": "San Salvador",
+    "capitalPt": "San Salvador",
+    "flag": "🇸🇻"
+  },
+  {
+    "code": "GD",
+    "en": "Grenada",
+    "pt": "Granada",
+    "capitalEn": "Saint George's",
+    "capitalPt": "Saint George's",
+    "flag": "🇬🇩"
+  },
+  {
+    "code": "GT",
+    "en": "Guatemala",
+    "pt": "Guatemala",
+    "capitalEn": "Guatemala City",
+    "capitalPt": "Cidade da Guatemala",
+    "flag": "🇬🇹"
+  },
+  {
+    "code": "GY",
+    "en": "Guyana",
+    "pt": "Guiana",
+    "capitalEn": "Georgetown",
+    "capitalPt": "Georgetown",
+    "flag": "🇬🇾"
+  },
+  {
+    "code": "HT",
+    "en": "Haiti",
+    "pt": "Haiti",
+    "capitalEn": "Port-au-Prince",
+    "capitalPt": "Port-au-Prince",
+    "flag": "🇭🇹"
+  },
+  {
+    "code": "HN",
+    "en": "Honduras",
+    "pt": "Honduras",
+    "capitalEn": "Tegucigalpa",
+    "capitalPt": "Tegucigalpa",
+    "flag": "🇭🇳"
+  },
+  {
+    "code": "JM",
+    "en": "Jamaica",
+    "pt": "Jamaica",
+    "capitalEn": "Kingston",
+    "capitalPt": "Kingston",
+    "flag": "🇯🇲"
+  },
+  {
+    "code": "MX",
+    "en": "Mexico",
+    "pt": "México",
+    "capitalEn": "Mexico City",
+    "capitalPt": "Cidade do México",
+    "flag": "🇲🇽"
+  },
+  {
+    "code": "NI",
+    "en": "Nicaragua",
+    "pt": "Nicarágua",
+    "capitalEn": "Managua",
+    "capitalPt": "Manágua",
+    "flag": "🇳🇮"
+  },
+  {
+    "code": "PA",
+    "en": "Panama",
+    "pt": "Panamá",
+    "capitalEn": "Panama City",
+    "capitalPt": "Cidade do Panamá",
+    "flag": "🇵🇦"
+  },
+  {
+    "code": "PY",
+    "en": "Paraguay",
+    "pt": "Paraguai",
+    "capitalEn": "Asunción",
+    "capitalPt": "Assunção",
+    "flag": "🇵🇾"
+  },
+  {
+    "code": "PE",
+    "en": "Peru",
+    "pt": "Peru",
+    "capitalEn": "Lima",
+    "capitalPt": "Lima",
+    "flag": "🇵🇪"
+  },
+  {
+    "code": "KN",
+    "en": "Saint Kitts and Nevis",
+    "pt": "São Cristóvão e Névis",
+    "capitalEn": "Basseterre",
+    "capitalPt": "Basseterre",
+    "flag": "🇰🇳"
+  },
+  {
+    "code": "LC",
+    "en": "Saint Lucia",
+    "pt": "Santa Lúcia",
+    "capitalEn": "Castries",
+    "capitalPt": "Castries",
+    "flag": "🇱🇨"
+  },
+  {
+    "code": "VC",
+    "en": "Saint Vincent and the Grenadines",
+    "pt": "São Vicente e Granadinas",
+    "capitalEn": "Kingstown",
+    "capitalPt": "Kingstown",
+    "flag": "🇻🇨"
+  },
+  {
+    "code": "SR",
+    "en": "Suriname",
+    "pt": "Suriname",
+    "capitalEn": "Paramaribo",
+    "capitalPt": "Paramaribo",
+    "flag": "🇸🇷"
+  },
+  {
+    "code": "TT",
+    "en": "Trinidad and Tobago",
+    "pt": "Trindade e Tobago",
+    "capitalEn": "Port of Spain",
+    "capitalPt": "Port of Spain",
+    "flag": "🇹🇹"
+  },
+  {
+    "code": "US",
+    "en": "United States",
+    "pt": "Estados Unidos",
+    "capitalEn": "Washington, D.C.",
+    "capitalPt": "Washington, D.C.",
+    "flag": "🇺🇸"
+  },
+  {
+    "code": "UY",
+    "en": "Uruguay",
+    "pt": "Uruguai",
+    "capitalEn": "Montevideo",
+    "capitalPt": "Montevidéu",
+    "flag": "🇺🇾"
+  },
+  {
+    "code": "VE",
+    "en": "Venezuela",
+    "pt": "Venezuela",
+    "capitalEn": "Caracas",
+    "capitalPt": "Caracas",
+    "flag": "🇻🇪"
+  },
+  {
+    "code": "AF",
+    "en": "Afghanistan",
+    "pt": "Afeganistão",
+    "capitalEn": "Kabul",
+    "capitalPt": "Cabul",
+    "flag": "🇦🇫"
+  },
+  {
+    "code": "AM",
+    "en": "Armenia",
+    "pt": "Armênia",
+    "capitalEn": "Yerevan",
+    "capitalPt": "Erevã",
+    "flag": "🇦🇲"
+  },
+  {
+    "code": "AZ",
+    "en": "Azerbaijan",
+    "pt": "Azerbaijão",
+    "capitalEn": "Baku",
+    "capitalPt": "Baku",
+    "flag": "🇦🇿"
+  },
+  {
+    "code": "BH",
+    "en": "Bahrain",
+    "pt": "Bahrein",
+    "capitalEn": "Manama",
+    "capitalPt": "Manama",
+    "flag": "🇧🇭"
+  },
+  {
+    "code": "BD",
+    "en": "Bangladesh",
+    "pt": "Bangladesh",
+    "capitalEn": "Dhaka",
+    "capitalPt": "Daca",
+    "flag": "🇧🇩"
+  },
+  {
+    "code": "BT",
+    "en": "Bhutan",
+    "pt": "Butão",
+    "capitalEn": "Thimphu",
+    "capitalPt": "Timphu",
+    "flag": "🇧🇹"
+  },
+  {
+    "code": "BN",
+    "en": "Brunei",
+    "pt": "Brunei",
+    "capitalEn": "Bandar Seri Begawan",
+    "capitalPt": "Bandar Seri Begawan",
+    "flag": "🇧🇳"
+  },
+  {
+    "code": "KH",
+    "en": "Cambodia",
+    "pt": "Camboja",
+    "capitalEn": "Phnom Penh",
+    "capitalPt": "Phnom Penh",
+    "flag": "🇰🇭"
+  },
+  {
+    "code": "CN",
+    "en": "China",
+    "pt": "China",
+    "capitalEn": "Beijing",
+    "capitalPt": "Pequim",
+    "flag": "🇨🇳"
+  },
+  {
+    "code": "CY",
+    "en": "Cyprus",
+    "pt": "Chipre",
+    "capitalEn": "Nicosia",
+    "capitalPt": "Nicósia",
+    "flag": "🇨🇾"
+  },
+  {
+    "code": "GE",
+    "en": "Georgia",
+    "pt": "Geórgia",
+    "capitalEn": "Tbilisi",
+    "capitalPt": "Tbilisi",
+    "flag": "🇬🇪"
+  },
+  {
+    "code": "IN",
+    "en": "India",
+    "pt": "Índia",
+    "capitalEn": "New Delhi",
+    "capitalPt": "Nova Délhi",
+    "flag": "🇮🇳"
+  },
+  {
+    "code": "ID",
+    "en": "Indonesia",
+    "pt": "Indonésia",
+    "capitalEn": "Jakarta",
+    "capitalPt": "Jacarta",
+    "flag": "🇮🇩"
+  },
+  {
+    "code": "IR",
+    "en": "Iran",
+    "pt": "Irã",
+    "capitalEn": "Tehran",
+    "capitalPt": "Teerã",
+    "flag": "🇮🇷"
+  },
+  {
+    "code": "IQ",
+    "en": "Iraq",
+    "pt": "Iraque",
+    "capitalEn": "Baghdad",
+    "capitalPt": "Bagdá",
+    "flag": "🇮🇶"
+  },
+  {
+    "code": "IL",
+    "en": "Israel",
+    "pt": "Israel",
+    "capitalEn": "Jerusalem",
+    "capitalPt": "Jerusalém",
+    "flag": "🇮🇱"
+  },
+  {
+    "code": "JP",
+    "en": "Japan",
+    "pt": "Japão",
+    "capitalEn": "Tokyo",
+    "capitalPt": "Tóquio",
+    "flag": "🇯🇵"
+  },
+  {
+    "code": "JO",
+    "en": "Jordan",
+    "pt": "Jordânia",
+    "capitalEn": "Amman",
+    "capitalPt": "Amã",
+    "flag": "🇯🇴"
+  },
+  {
+    "code": "KZ",
+    "en": "Kazakhstan",
+    "pt": "Cazaquistão",
+    "capitalEn": "Astana",
+    "capitalPt": "Astana",
+    "flag": "🇰🇿"
+  },
+  {
+    "code": "KW",
+    "en": "Kuwait",
+    "pt": "Kuwait",
+    "capitalEn": "Kuwait City",
+    "capitalPt": "Cidade do Kuwait",
+    "flag": "🇰🇼"
+  },
+  {
+    "code": "KG",
+    "en": "Kyrgyzstan",
+    "pt": "Quirguistão",
+    "capitalEn": "Bishkek",
+    "capitalPt": "Bisqueque",
+    "flag": "🇰🇬"
+  },
+  {
+    "code": "LA",
+    "en": "Laos",
+    "pt": "Laos",
+    "capitalEn": "Vientiane",
+    "capitalPt": "Vientiane",
+    "flag": "🇱🇦"
+  },
+  {
+    "code": "LB",
+    "en": "Lebanon",
+    "pt": "Líbano",
+    "capitalEn": "Beirut",
+    "capitalPt": "Beirute",
+    "flag": "🇱🇧"
+  },
+  {
+    "code": "MY",
+    "en": "Malaysia",
+    "pt": "Malásia",
+    "capitalEn": "Kuala Lumpur",
+    "capitalPt": "Kuala Lumpur",
+    "flag": "🇲🇾"
+  },
+  {
+    "code": "MV",
+    "en": "Maldives",
+    "pt": "Maldivas",
+    "capitalEn": "Malé",
+    "capitalPt": "Malé",
+    "flag": "🇲🇻"
+  },
+  {
+    "code": "MN",
+    "en": "Mongolia",
+    "pt": "Mongólia",
+    "capitalEn": "Ulaanbaatar",
+    "capitalPt": "Ulan Bator",
+    "flag": "🇲🇳"
+  },
+  {
+    "code": "MM",
+    "en": "Myanmar",
+    "pt": "Mianmar",
+    "capitalEn": "Naypyidaw",
+    "capitalPt": "Naypyidaw",
+    "flag": "🇲🇲"
+  },
+  {
+    "code": "NP",
+    "en": "Nepal",
+    "pt": "Nepal",
+    "capitalEn": "Kathmandu",
+    "capitalPt": "Catmandu",
+    "flag": "🇳🇵"
+  },
+  {
+    "code": "KP",
+    "en": "North Korea",
+    "pt": "Coreia do Norte",
+    "capitalEn": "Pyongyang",
+    "capitalPt": "Pyongyang",
+    "flag": "🇰🇵"
+  },
+  {
+    "code": "OM",
+    "en": "Oman",
+    "pt": "Omã",
+    "capitalEn": "Muscat",
+    "capitalPt": "Mascate",
+    "flag": "🇴🇲"
+  },
+  {
+    "code": "PK",
+    "en": "Pakistan",
+    "pt": "Paquistão",
+    "capitalEn": "Islamabad",
+    "capitalPt": "Islamabade",
+    "flag": "🇵🇰"
+  },
+  {
+    "code": "PS",
+    "en": "Palestine",
+    "pt": "Palestina",
+    "capitalEn": "Ramallah",
+    "capitalPt": "Ramallah",
+    "flag": "🇵🇸"
+  },
+  {
+    "code": "PH",
+    "en": "Philippines",
+    "pt": "Filipinas",
+    "capitalEn": "Manila",
+    "capitalPt": "Manila",
+    "flag": "🇵🇭"
+  },
+  {
+    "code": "QA",
+    "en": "Qatar",
+    "pt": "Catar",
+    "capitalEn": "Doha",
+    "capitalPt": "Doha",
+    "flag": "🇶🇦"
+  },
+  {
+    "code": "SA",
+    "en": "Saudi Arabia",
+    "pt": "Arábia Saudita",
+    "capitalEn": "Riyadh",
+    "capitalPt": "Riade",
+    "flag": "🇸🇦"
+  },
+  {
+    "code": "SG",
+    "en": "Singapore",
+    "pt": "Singapura",
+    "capitalEn": "Singapore",
+    "capitalPt": "Singapura",
+    "flag": "🇸🇬"
+  },
+  {
+    "code": "KR",
+    "en": "South Korea",
+    "pt": "Coreia do Sul",
+    "capitalEn": "Seoul",
+    "capitalPt": "Seul",
+    "flag": "🇰🇷"
+  },
+  {
+    "code": "LK",
+    "en": "Sri Lanka",
+    "pt": "Sri Lanka",
+    "capitalEn": "Colombo",
+    "capitalPt": "Colombo",
+    "flag": "🇱🇰"
+  },
+  {
+    "code": "SY",
+    "en": "Syria",
+    "pt": "Síria",
+    "capitalEn": "Damascus",
+    "capitalPt": "Damasco",
+    "flag": "🇸🇾"
+  },
+  {
+    "code": "TJ",
+    "en": "Tajikistan",
+    "pt": "Tajiquistão",
+    "capitalEn": "Dushanbe",
+    "capitalPt": "Dushanbe",
+    "flag": "🇹🇯"
+  },
+  {
+    "code": "TH",
+    "en": "Thailand",
+    "pt": "Tailândia",
+    "capitalEn": "Bangkok",
+    "capitalPt": "Bangcoc",
+    "flag": "🇹🇭"
+  },
+  {
+    "code": "TL",
+    "en": "Timor-Leste",
+    "pt": "Timor-Leste",
+    "capitalEn": "Dili",
+    "capitalPt": "Díli",
+    "flag": "🇹🇱"
+  },
+  {
+    "code": "TR",
+    "en": "Turkey",
+    "pt": "Turquia",
+    "capitalEn": "Ankara",
+    "capitalPt": "Ancara",
+    "flag": "🇹🇷"
+  },
+  {
+    "code": "TM",
+    "en": "Turkmenistan",
+    "pt": "Turcomenistão",
+    "capitalEn": "Ashgabat",
+    "capitalPt": "Asgabate",
+    "flag": "🇹🇲"
+  },
+  {
+    "code": "AE",
+    "en": "United Arab Emirates",
+    "pt": "Emirados Árabes Unidos",
+    "capitalEn": "Abu Dhabi",
+    "capitalPt": "Abu Dhabi",
+    "flag": "🇦🇪"
+  },
+  {
+    "code": "UZ",
+    "en": "Uzbekistan",
+    "pt": "Uzbequistão",
+    "capitalEn": "Tashkent",
+    "capitalPt": "Tasquente",
+    "flag": "🇺🇿"
+  },
+  {
+    "code": "VN",
+    "en": "Vietnam",
+    "pt": "Vietnã",
+    "capitalEn": "Hanoi",
+    "capitalPt": "Hanói",
+    "flag": "🇻🇳"
+  },
+  {
+    "code": "YE",
+    "en": "Yemen",
+    "pt": "Iêmen",
+    "capitalEn": "Sana'a",
+    "capitalPt": "Sanaa",
+    "flag": "🇾🇪"
+  },
+  {
+    "code": "AL",
+    "en": "Albania",
+    "pt": "Albânia",
+    "capitalEn": "Tirana",
+    "capitalPt": "Tirana",
+    "flag": "🇦🇱"
+  },
+  {
+    "code": "AD",
+    "en": "Andorra",
+    "pt": "Andorra",
+    "capitalEn": "Andorra la Vella",
+    "capitalPt": "Andorra-a-Velha",
+    "flag": "🇦🇩"
+  },
+  {
+    "code": "AT",
+    "en": "Austria",
+    "pt": "Áustria",
+    "capitalEn": "Vienna",
+    "capitalPt": "Viena",
+    "flag": "🇦🇹"
+  },
+  {
+    "code": "BY",
+    "en": "Belarus",
+    "pt": "Bielorrússia",
+    "capitalEn": "Minsk",
+    "capitalPt": "Minsk",
+    "flag": "🇧🇾"
+  },
+  {
+    "code": "BE",
+    "en": "Belgium",
+    "pt": "Bélgica",
+    "capitalEn": "Brussels",
+    "capitalPt": "Bruxelas",
+    "flag": "🇧🇪"
+  },
+  {
+    "code": "BA",
+    "en": "Bosnia and Herzegovina",
+    "pt": "Bósnia e Herzegovina",
+    "capitalEn": "Sarajevo",
+    "capitalPt": "Sarajevo",
+    "flag": "🇧🇦"
+  },
+  {
+    "code": "BG",
+    "en": "Bulgaria",
+    "pt": "Bulgária",
+    "capitalEn": "Sofia",
+    "capitalPt": "Sófia",
+    "flag": "🇧🇬"
+  },
+  {
+    "code": "HR",
+    "en": "Croatia",
+    "pt": "Croácia",
+    "capitalEn": "Zagreb",
+    "capitalPt": "Zagreb",
+    "flag": "🇭🇷"
+  },
+  {
+    "code": "CZ",
+    "en": "Czech Republic",
+    "pt": "República Tcheca",
+    "capitalEn": "Prague",
+    "capitalPt": "Praga",
+    "flag": "🇨🇿"
+  },
+  {
+    "code": "DK",
+    "en": "Denmark",
+    "pt": "Dinamarca",
+    "capitalEn": "Copenhagen",
+    "capitalPt": "Copenhague",
+    "flag": "🇩🇰"
+  },
+  {
+    "code": "EE",
+    "en": "Estonia",
+    "pt": "Estônia",
+    "capitalEn": "Tallinn",
+    "capitalPt": "Tallinn",
+    "flag": "🇪🇪"
+  },
+  {
+    "code": "FI",
+    "en": "Finland",
+    "pt": "Finlândia",
+    "capitalEn": "Helsinki",
+    "capitalPt": "Helsinque",
+    "flag": "🇫🇮"
+  },
+  {
+    "code": "FR",
+    "en": "France",
+    "pt": "França",
+    "capitalEn": "Paris",
+    "capitalPt": "Paris",
+    "flag": "🇫🇷"
+  },
+  {
+    "code": "DE",
+    "en": "Germany",
+    "pt": "Alemanha",
+    "capitalEn": "Berlin",
+    "capitalPt": "Berlim",
+    "flag": "🇩🇪"
+  },
+  {
+    "code": "GR",
+    "en": "Greece",
+    "pt": "Grécia",
+    "capitalEn": "Athens",
+    "capitalPt": "Atenas",
+    "flag": "🇬🇷"
+  },
+  {
+    "code": "HU",
+    "en": "Hungary",
+    "pt": "Hungria",
+    "capitalEn": "Budapest",
+    "capitalPt": "Budapeste",
+    "flag": "🇭🇺"
+  },
+  {
+    "code": "IS",
+    "en": "Iceland",
+    "pt": "Islândia",
+    "capitalEn": "Reykjavik",
+    "capitalPt": "Reykjavik",
+    "flag": "🇮🇸"
+  },
+  {
+    "code": "IE",
+    "en": "Ireland",
+    "pt": "Irlanda",
+    "capitalEn": "Dublin",
+    "capitalPt": "Dublin",
+    "flag": "🇮🇪"
+  },
+  {
+    "code": "IT",
+    "en": "Italy",
+    "pt": "Itália",
+    "capitalEn": "Rome",
+    "capitalPt": "Roma",
+    "flag": "🇮🇹"
+  },
+  {
+    "code": "XK",
+    "en": "Kosovo",
+    "pt": "Kosovo",
+    "capitalEn": "Pristina",
+    "capitalPt": "Pristina",
+    "flag": "🇽🇰"
+  },
+  {
+    "code": "LV",
+    "en": "Latvia",
+    "pt": "Letônia",
+    "capitalEn": "Riga",
+    "capitalPt": "Riga",
+    "flag": "🇱🇻"
+  },
+  {
+    "code": "LI",
+    "en": "Liechtenstein",
+    "pt": "Liechtenstein",
+    "capitalEn": "Vaduz",
+    "capitalPt": "Vaduz",
+    "flag": "🇱🇮"
+  },
+  {
+    "code": "LT",
+    "en": "Lithuania",
+    "pt": "Lituânia",
+    "capitalEn": "Vilnius",
+    "capitalPt": "Vilnius",
+    "flag": "🇱🇹"
+  },
+  {
+    "code": "LU",
+    "en": "Luxembourg",
+    "pt": "Luxemburgo",
+    "capitalEn": "Luxembourg",
+    "capitalPt": "Luxemburgo",
+    "flag": "🇱🇺"
+  },
+  {
+    "code": "MT",
+    "en": "Malta",
+    "pt": "Malta",
+    "capitalEn": "Valletta",
+    "capitalPt": "Valeta",
+    "flag": "🇲🇹"
+  },
+  {
+    "code": "MD",
+    "en": "Moldova",
+    "pt": "Moldávia",
+    "capitalEn": "Chisinau",
+    "capitalPt": "Chisinau",
+    "flag": "🇲🇩"
+  },
+  {
+    "code": "MC",
+    "en": "Monaco",
+    "pt": "Mônaco",
+    "capitalEn": "Monaco",
+    "capitalPt": "Mônaco",
+    "flag": "🇲🇨"
+  },
+  {
+    "code": "ME",
+    "en": "Montenegro",
+    "pt": "Montenegro",
+    "capitalEn": "Podgorica",
+    "capitalPt": "Podgorica",
+    "flag": "🇲🇪"
+  },
+  {
+    "code": "NL",
+    "en": "Netherlands",
+    "pt": "Países Baixos",
+    "capitalEn": "Amsterdam",
+    "capitalPt": "Amsterdã",
+    "flag": "🇳🇱"
+  },
+  {
+    "code": "MK",
+    "en": "North Macedonia",
+    "pt": "Macedônia do Norte",
+    "capitalEn": "Skopje",
+    "capitalPt": "Escópia",
+    "flag": "🇲🇰"
+  },
+  {
+    "code": "NO",
+    "en": "Norway",
+    "pt": "Noruega",
+    "capitalEn": "Oslo",
+    "capitalPt": "Oslo",
+    "flag": "🇳🇴"
+  },
+  {
+    "code": "PL",
+    "en": "Poland",
+    "pt": "Polônia",
+    "capitalEn": "Warsaw",
+    "capitalPt": "Varsóvia",
+    "flag": "🇵🇱"
+  },
+  {
+    "code": "PT",
+    "en": "Portugal",
+    "pt": "Portugal",
+    "capitalEn": "Lisbon",
+    "capitalPt": "Lisboa",
+    "flag": "🇵🇹"
+  },
+  {
+    "code": "RO",
+    "en": "Romania",
+    "pt": "Romênia",
+    "capitalEn": "Bucharest",
+    "capitalPt": "Bucareste",
+    "flag": "🇷🇴"
+  },
+  {
+    "code": "RU",
+    "en": "Russia",
+    "pt": "Rússia",
+    "capitalEn": "Moscow",
+    "capitalPt": "Moscou",
+    "flag": "🇷🇺"
+  },
+  {
+    "code": "SM",
+    "en": "San Marino",
+    "pt": "San Marino",
+    "capitalEn": "San Marino",
+    "capitalPt": "San Marino",
+    "flag": "🇸🇲"
+  },
+  {
+    "code": "RS",
+    "en": "Serbia",
+    "pt": "Sérvia",
+    "capitalEn": "Belgrade",
+    "capitalPt": "Belgrado",
+    "flag": "🇷🇸"
+  },
+  {
+    "code": "SK",
+    "en": "Slovakia",
+    "pt": "Eslováquia",
+    "capitalEn": "Bratislava",
+    "capitalPt": "Bratislava",
+    "flag": "🇸🇰"
+  },
+  {
+    "code": "SI",
+    "en": "Slovenia",
+    "pt": "Eslovênia",
+    "capitalEn": "Ljubljana",
+    "capitalPt": "Liubliana",
+    "flag": "🇸🇮"
+  },
+  {
+    "code": "ES",
+    "en": "Spain",
+    "pt": "Espanha",
+    "capitalEn": "Madrid",
+    "capitalPt": "Madri",
+    "flag": "🇪🇸"
+  },
+  {
+    "code": "SE",
+    "en": "Sweden",
+    "pt": "Suécia",
+    "capitalEn": "Stockholm",
+    "capitalPt": "Estocolmo",
+    "flag": "🇸🇪"
+  },
+  {
+    "code": "CH",
+    "en": "Switzerland",
+    "pt": "Suíça",
+    "capitalEn": "Bern",
+    "capitalPt": "Berna",
+    "flag": "🇨🇭"
+  },
+  {
+    "code": "UA",
+    "en": "Ukraine",
+    "pt": "Ucrânia",
+    "capitalEn": "Kyiv",
+    "capitalPt": "Kiev",
+    "flag": "🇺🇦"
+  },
+  {
+    "code": "GB",
+    "en": "United Kingdom",
+    "pt": "Reino Unido",
+    "capitalEn": "London",
+    "capitalPt": "Londres",
+    "flag": "🇬🇧"
+  },
+  {
+    "code": "VA",
+    "en": "Vatican City",
+    "pt": "Vaticano",
+    "capitalEn": "Vatican City",
+    "capitalPt": "Cidade do Vaticano",
+    "flag": "🇻🇦"
+  },
+  {
+    "code": "AU",
+    "en": "Australia",
+    "pt": "Austrália",
+    "capitalEn": "Canberra",
+    "capitalPt": "Canberra",
+    "flag": "🇦🇺"
+  },
+  {
+    "code": "FJ",
+    "en": "Fiji",
+    "pt": "Fiji",
+    "capitalEn": "Suva",
+    "capitalPt": "Suva",
+    "flag": "🇫🇯"
+  },
+  {
+    "code": "KI",
+    "en": "Kiribati",
+    "pt": "Kiribati",
+    "capitalEn": "Tarawa",
+    "capitalPt": "Tarawa",
+    "flag": "🇰🇮"
+  },
+  {
+    "code": "MH",
+    "en": "Marshall Islands",
+    "pt": "Ilhas Marshall",
+    "capitalEn": "Majuro",
+    "capitalPt": "Majuro",
+    "flag": "🇲🇭"
+  },
+  {
+    "code": "FM",
+    "en": "Micronesia",
+    "pt": "Micronésia",
+    "capitalEn": "Palikir",
+    "capitalPt": "Palikir",
+    "flag": "🇫🇲"
+  },
+  {
+    "code": "NR",
+    "en": "Nauru",
+    "pt": "Nauru",
+    "capitalEn": "Yaren",
+    "capitalPt": "Yaren",
+    "flag": "🇳🇷"
+  },
+  {
+    "code": "NZ",
+    "en": "New Zealand",
+    "pt": "Nova Zelândia",
+    "capitalEn": "Wellington",
+    "capitalPt": "Wellington",
+    "flag": "🇳🇿"
+  },
+  {
+    "code": "PW",
+    "en": "Palau",
+    "pt": "Palau",
+    "capitalEn": "Ngerulmud",
+    "capitalPt": "Ngerulmud",
+    "flag": "🇵🇼"
+  },
+  {
+    "code": "PG",
+    "en": "Papua New Guinea",
+    "pt": "Papua-Nova Guiné",
+    "capitalEn": "Port Moresby",
+    "capitalPt": "Port Moresby",
+    "flag": "🇵🇬"
+  },
+  {
+    "code": "WS",
+    "en": "Samoa",
+    "pt": "Samoa",
+    "capitalEn": "Apia",
+    "capitalPt": "Apia",
+    "flag": "🇼🇸"
+  },
+  {
+    "code": "SB",
+    "en": "Solomon Islands",
+    "pt": "Ilhas Salomão",
+    "capitalEn": "Honiara",
+    "capitalPt": "Honiara",
+    "flag": "🇸🇧"
+  },
+  {
+    "code": "TO",
+    "en": "Tonga",
+    "pt": "Tonga",
+    "capitalEn": "Nuku'alofa",
+    "capitalPt": "Nuku'alofa",
+    "flag": "🇹🇴"
+  },
+  {
+    "code": "TV",
+    "en": "Tuvalu",
+    "pt": "Tuvalu",
+    "capitalEn": "Funafuti",
+    "capitalPt": "Funafuti",
+    "flag": "🇹🇻"
+  },
+  {
+    "code": "VU",
+    "en": "Vanuatu",
+    "pt": "Vanuatu",
+    "capitalEn": "Port Vila",
+    "capitalPt": "Port Vila",
+    "flag": "🇻🇺"
+  }
+]

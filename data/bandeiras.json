@@ -1,0 +1,9018 @@
+[
+  {
+    "id": "flag-a-DZ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇩🇿?",
+      "options": [
+        "Montenegro",
+        "Camarões",
+        "Argélia",
+        "Madagascar"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇩🇿?",
+      "options": [
+        "Montenegro",
+        "Cameroon",
+        "Algeria",
+        "Madagascar"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-DZ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Argélia?",
+      "options": [
+        "🇨🇲",
+        "🇩🇿",
+        "🇲🇬",
+        "🇲🇪"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Algeria?",
+      "options": [
+        "🇨🇲",
+        "🇩🇿",
+        "🇲🇬",
+        "🇲🇪"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-AO",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇦🇴?",
+      "options": [
+        "Uganda",
+        "Croácia",
+        "Angola",
+        "Kiribati"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇦🇴?",
+      "options": [
+        "Uganda",
+        "Croatia",
+        "Angola",
+        "Kiribati"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-AO",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Angola?",
+      "options": [
+        "🇭🇷",
+        "🇰🇮",
+        "🇦🇴",
+        "🇺🇬"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Angola?",
+      "options": [
+        "🇭🇷",
+        "🇰🇮",
+        "🇦🇴",
+        "🇺🇬"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-BJ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇧🇯?",
+      "options": [
+        "Equador",
+        "Afeganistão",
+        "Itália",
+        "Benin"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇧🇯?",
+      "options": [
+        "Ecuador",
+        "Afghanistan",
+        "Italy",
+        "Benin"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-BJ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Benin?",
+      "options": [
+        "🇮🇹",
+        "🇪🇨",
+        "🇦🇫",
+        "🇧🇯"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Benin?",
+      "options": [
+        "🇮🇹",
+        "🇪🇨",
+        "🇦🇫",
+        "🇧🇯"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-BW",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇧🇼?",
+      "options": [
+        "Botsuana",
+        "Chipre",
+        "Brasil",
+        "Lesoto"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇧🇼?",
+      "options": [
+        "Botswana",
+        "Cyprus",
+        "Brazil",
+        "Lesotho"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-BW",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Botsuana?",
+      "options": [
+        "🇧🇼",
+        "🇱🇸",
+        "🇨🇾",
+        "🇧🇷"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Botswana?",
+      "options": [
+        "🇧🇼",
+        "🇱🇸",
+        "🇨🇾",
+        "🇧🇷"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-BF",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇧🇫?",
+      "options": [
+        "Burquina Faso",
+        "Suécia",
+        "Montenegro",
+        "Granada"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇧🇫?",
+      "options": [
+        "Burkina Faso",
+        "Sweden",
+        "Montenegro",
+        "Grenada"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-BF",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Burquina Faso?",
+      "options": [
+        "🇬🇩",
+        "🇲🇪",
+        "🇸🇪",
+        "🇧🇫"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Burkina Faso?",
+      "options": [
+        "🇬🇩",
+        "🇲🇪",
+        "🇸🇪",
+        "🇧🇫"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-BI",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇧🇮?",
+      "options": [
+        "Burundi",
+        "Namíbia",
+        "Equador",
+        "Níger"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇧🇮?",
+      "options": [
+        "Burundi",
+        "Namibia",
+        "Ecuador",
+        "Niger"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-BI",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Burundi?",
+      "options": [
+        "🇧🇮",
+        "🇳🇪",
+        "🇪🇨",
+        "🇳🇦"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Burundi?",
+      "options": [
+        "🇧🇮",
+        "🇳🇪",
+        "🇪🇨",
+        "🇳🇦"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-CV",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇨🇻?",
+      "options": [
+        "Cabo Verde",
+        "Islândia",
+        "Essuatíni",
+        "Geórgia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇨🇻?",
+      "options": [
+        "Cabo Verde",
+        "Iceland",
+        "Eswatini",
+        "Georgia"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-CV",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Cabo Verde?",
+      "options": [
+        "🇮🇸",
+        "🇨🇻",
+        "🇬🇪",
+        "🇸🇿"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Cabo Verde?",
+      "options": [
+        "🇮🇸",
+        "🇨🇻",
+        "🇬🇪",
+        "🇸🇿"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-CM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇨🇲?",
+      "options": [
+        "Tailândia",
+        "Camarões",
+        "Equador",
+        "Ilhas Marshall"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇨🇲?",
+      "options": [
+        "Thailand",
+        "Cameroon",
+        "Ecuador",
+        "Marshall Islands"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-CM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Camarões?",
+      "options": [
+        "🇲🇭",
+        "🇨🇲",
+        "🇹🇭",
+        "🇪🇨"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Cameroon?",
+      "options": [
+        "🇲🇭",
+        "🇨🇲",
+        "🇹🇭",
+        "🇪🇨"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-CF",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇨🇫?",
+      "options": [
+        "Chile",
+        "Guiné Equatorial",
+        "Dinamarca",
+        "República Centro-Africana"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇨🇫?",
+      "options": [
+        "Chile",
+        "Equatorial Guinea",
+        "Denmark",
+        "Central African Republic"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-CF",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de República Centro-Africana?",
+      "options": [
+        "🇬🇶",
+        "🇩🇰",
+        "🇨🇱",
+        "🇨🇫"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Central African Republic?",
+      "options": [
+        "🇬🇶",
+        "🇩🇰",
+        "🇨🇱",
+        "🇨🇫"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-TD",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇹🇩?",
+      "options": [
+        "Chade",
+        "Noruega",
+        "Iraque",
+        "San Marino"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇹🇩?",
+      "options": [
+        "Chad",
+        "Norway",
+        "Iraq",
+        "San Marino"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-TD",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Chade?",
+      "options": [
+        "🇮🇶",
+        "🇸🇲",
+        "🇳🇴",
+        "🇹🇩"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Chad?",
+      "options": [
+        "🇮🇶",
+        "🇸🇲",
+        "🇳🇴",
+        "🇹🇩"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-KM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇰🇲?",
+      "options": [
+        "Comores",
+        "Trindade e Tobago",
+        "Gabão",
+        "República Centro-Africana"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇰🇲?",
+      "options": [
+        "Comoros",
+        "Trinidad and Tobago",
+        "Gabon",
+        "Central African Republic"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-KM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Comores?",
+      "options": [
+        "🇬🇦",
+        "🇰🇲",
+        "🇹🇹",
+        "🇨🇫"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Comoros?",
+      "options": [
+        "🇬🇦",
+        "🇰🇲",
+        "🇹🇹",
+        "🇨🇫"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-CD",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇨🇩?",
+      "options": [
+        "Azerbaijão",
+        "República Democrática do Congo",
+        "Quirguistão",
+        "Jordânia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇨🇩?",
+      "options": [
+        "Azerbaijan",
+        "Democratic Republic of the Congo",
+        "Kyrgyzstan",
+        "Jordan"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-CD",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de República Democrática do Congo?",
+      "options": [
+        "🇰🇬",
+        "🇦🇿",
+        "🇯🇴",
+        "🇨🇩"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Democratic Republic of the Congo?",
+      "options": [
+        "🇰🇬",
+        "🇦🇿",
+        "🇯🇴",
+        "🇨🇩"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-CG",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇨🇬?",
+      "options": [
+        "Paquistão",
+        "República do Congo",
+        "Costa Rica",
+        "Gâmbia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇨🇬?",
+      "options": [
+        "Pakistan",
+        "Republic of the Congo",
+        "Costa Rica",
+        "Gambia"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-CG",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de República do Congo?",
+      "options": [
+        "🇵🇰",
+        "🇬🇲",
+        "🇨🇷",
+        "🇨🇬"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Republic of the Congo?",
+      "options": [
+        "🇵🇰",
+        "🇬🇲",
+        "🇨🇷",
+        "🇨🇬"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-DJ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇩🇯?",
+      "options": [
+        "Djibuti",
+        "Índia",
+        "Argélia",
+        "Equador"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇩🇯?",
+      "options": [
+        "Djibouti",
+        "India",
+        "Algeria",
+        "Ecuador"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-DJ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Djibuti?",
+      "options": [
+        "🇩🇿",
+        "🇮🇳",
+        "🇩🇯",
+        "🇪🇨"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Djibouti?",
+      "options": [
+        "🇩🇿",
+        "🇮🇳",
+        "🇩🇯",
+        "🇪🇨"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-EG",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇪🇬?",
+      "options": [
+        "Gana",
+        "Turquia",
+        "Egito",
+        "Guiné Equatorial"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇪🇬?",
+      "options": [
+        "Ghana",
+        "Turkey",
+        "Egypt",
+        "Equatorial Guinea"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-EG",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Egito?",
+      "options": [
+        "🇹🇷",
+        "🇪🇬",
+        "🇬🇭",
+        "🇬🇶"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Egypt?",
+      "options": [
+        "🇹🇷",
+        "🇪🇬",
+        "🇬🇭",
+        "🇬🇶"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-GQ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇬🇶?",
+      "options": [
+        "Guiné Equatorial",
+        "Kiribati",
+        "São Cristóvão e Névis",
+        "San Marino"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇬🇶?",
+      "options": [
+        "Equatorial Guinea",
+        "Kiribati",
+        "Saint Kitts and Nevis",
+        "San Marino"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-GQ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Guiné Equatorial?",
+      "options": [
+        "🇬🇶",
+        "🇰🇳",
+        "🇰🇮",
+        "🇸🇲"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Equatorial Guinea?",
+      "options": [
+        "🇬🇶",
+        "🇰🇳",
+        "🇰🇮",
+        "🇸🇲"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-ER",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇪🇷?",
+      "options": [
+        "Timor-Leste",
+        "Marrocos",
+        "Eritreia",
+        "Equador"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇪🇷?",
+      "options": [
+        "Timor-Leste",
+        "Morocco",
+        "Eritrea",
+        "Ecuador"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-ER",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Eritreia?",
+      "options": [
+        "🇲🇦",
+        "🇪🇷",
+        "🇹🇱",
+        "🇪🇨"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Eritrea?",
+      "options": [
+        "🇲🇦",
+        "🇪🇷",
+        "🇹🇱",
+        "🇪🇨"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-SZ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇸🇿?",
+      "options": [
+        "Essuatíni",
+        "Líbia",
+        "Samoa",
+        "Malawi"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇸🇿?",
+      "options": [
+        "Eswatini",
+        "Libya",
+        "Samoa",
+        "Malawi"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-SZ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Essuatíni?",
+      "options": [
+        "🇸🇿",
+        "🇼🇸",
+        "🇱🇾",
+        "🇲🇼"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Eswatini?",
+      "options": [
+        "🇸🇿",
+        "🇼🇸",
+        "🇱🇾",
+        "🇲🇼"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-ET",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇪🇹?",
+      "options": [
+        "Marrocos",
+        "Argélia",
+        "Etiópia",
+        "Estados Unidos"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇪🇹?",
+      "options": [
+        "Morocco",
+        "Algeria",
+        "Ethiopia",
+        "United States"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-ET",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Etiópia?",
+      "options": [
+        "🇩🇿",
+        "🇪🇹",
+        "🇺🇸",
+        "🇲🇦"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Ethiopia?",
+      "options": [
+        "🇩🇿",
+        "🇪🇹",
+        "🇺🇸",
+        "🇲🇦"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-GA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇬🇦?",
+      "options": [
+        "Paraguai",
+        "Butão",
+        "Comores",
+        "Gabão"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇬🇦?",
+      "options": [
+        "Paraguay",
+        "Bhutan",
+        "Comoros",
+        "Gabon"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-GA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Gabão?",
+      "options": [
+        "🇧🇹",
+        "🇬🇦",
+        "🇵🇾",
+        "🇰🇲"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Gabon?",
+      "options": [
+        "🇧🇹",
+        "🇬🇦",
+        "🇵🇾",
+        "🇰🇲"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-GM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇬🇲?",
+      "options": [
+        "San Marino",
+        "Gâmbia",
+        "Palau",
+        "Jordânia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇬🇲?",
+      "options": [
+        "San Marino",
+        "Gambia",
+        "Palau",
+        "Jordan"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-GM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Gâmbia?",
+      "options": [
+        "🇸🇲",
+        "🇵🇼",
+        "🇯🇴",
+        "🇬🇲"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Gambia?",
+      "options": [
+        "🇸🇲",
+        "🇵🇼",
+        "🇯🇴",
+        "🇬🇲"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-GH",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇬🇭?",
+      "options": [
+        "Gana",
+        "Guiana",
+        "Essuatíni",
+        "Armênia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇬🇭?",
+      "options": [
+        "Ghana",
+        "Guyana",
+        "Eswatini",
+        "Armenia"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-GH",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Gana?",
+      "options": [
+        "🇸🇿",
+        "🇬🇾",
+        "🇦🇲",
+        "🇬🇭"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Ghana?",
+      "options": [
+        "🇸🇿",
+        "🇬🇾",
+        "🇦🇲",
+        "🇬🇭"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-GN",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇬🇳?",
+      "options": [
+        "Togo",
+        "Geórgia",
+        "Guiné",
+        "Finlândia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇬🇳?",
+      "options": [
+        "Togo",
+        "Georgia",
+        "Guinea",
+        "Finland"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-GN",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Guiné?",
+      "options": [
+        "🇬🇪",
+        "🇹🇬",
+        "🇫🇮",
+        "🇬🇳"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Guinea?",
+      "options": [
+        "🇬🇪",
+        "🇹🇬",
+        "🇫🇮",
+        "🇬🇳"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-GW",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇬🇼?",
+      "options": [
+        "Guiné-Bissau",
+        "Rússia",
+        "Japão",
+        "Suriname"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇬🇼?",
+      "options": [
+        "Guinea-Bissau",
+        "Russia",
+        "Japan",
+        "Suriname"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-GW",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Guiné-Bissau?",
+      "options": [
+        "🇯🇵",
+        "🇸🇷",
+        "🇬🇼",
+        "🇷🇺"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Guinea-Bissau?",
+      "options": [
+        "🇯🇵",
+        "🇸🇷",
+        "🇬🇼",
+        "🇷🇺"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-CI",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇨🇮?",
+      "options": [
+        "Costa do Marfim",
+        "Kosovo",
+        "Líbano",
+        "França"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇨🇮?",
+      "options": [
+        "Ivory Coast",
+        "Kosovo",
+        "Lebanon",
+        "France"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-CI",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Costa do Marfim?",
+      "options": [
+        "🇱🇧",
+        "🇨🇮",
+        "🇫🇷",
+        "🇽🇰"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Ivory Coast?",
+      "options": [
+        "🇱🇧",
+        "🇨🇮",
+        "🇫🇷",
+        "🇽🇰"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-KE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇰🇪?",
+      "options": [
+        "Belize",
+        "Peru",
+        "Quênia",
+        "Sérvia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇰🇪?",
+      "options": [
+        "Belize",
+        "Peru",
+        "Kenya",
+        "Serbia"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-KE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Quênia?",
+      "options": [
+        "🇵🇪",
+        "🇷🇸",
+        "🇧🇿",
+        "🇰🇪"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Kenya?",
+      "options": [
+        "🇵🇪",
+        "🇷🇸",
+        "🇧🇿",
+        "🇰🇪"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-LS",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇱🇸?",
+      "options": [
+        "Polônia",
+        "Nigéria",
+        "Suécia",
+        "Lesoto"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇱🇸?",
+      "options": [
+        "Poland",
+        "Nigeria",
+        "Sweden",
+        "Lesotho"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-LS",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Lesoto?",
+      "options": [
+        "🇵🇱",
+        "🇸🇪",
+        "🇱🇸",
+        "🇳🇬"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Lesotho?",
+      "options": [
+        "🇵🇱",
+        "🇸🇪",
+        "🇱🇸",
+        "🇳🇬"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-LR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇱🇷?",
+      "options": [
+        "Libéria",
+        "Mianmar",
+        "Bélgica",
+        "Senegal"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇱🇷?",
+      "options": [
+        "Liberia",
+        "Myanmar",
+        "Belgium",
+        "Senegal"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-LR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Libéria?",
+      "options": [
+        "🇱🇷",
+        "🇸🇳",
+        "🇲🇲",
+        "🇧🇪"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Liberia?",
+      "options": [
+        "🇱🇷",
+        "🇸🇳",
+        "🇲🇲",
+        "🇧🇪"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-LY",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇱🇾?",
+      "options": [
+        "Gâmbia",
+        "Áustria",
+        "Líbia",
+        "Santa Lúcia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇱🇾?",
+      "options": [
+        "Gambia",
+        "Austria",
+        "Libya",
+        "Saint Lucia"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-LY",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Líbia?",
+      "options": [
+        "🇱🇨",
+        "🇱🇾",
+        "🇦🇹",
+        "🇬🇲"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Libya?",
+      "options": [
+        "🇱🇨",
+        "🇱🇾",
+        "🇦🇹",
+        "🇬🇲"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-MG",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇲🇬?",
+      "options": [
+        "Ucrânia",
+        "Índia",
+        "Alemanha",
+        "Madagascar"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇲🇬?",
+      "options": [
+        "Ukraine",
+        "India",
+        "Germany",
+        "Madagascar"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-MG",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Madagascar?",
+      "options": [
+        "🇩🇪",
+        "🇮🇳",
+        "🇲🇬",
+        "🇺🇦"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Madagascar?",
+      "options": [
+        "🇩🇪",
+        "🇮🇳",
+        "🇲🇬",
+        "🇺🇦"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-MW",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇲🇼?",
+      "options": [
+        "Índia",
+        "Malawi",
+        "Uruguai",
+        "San Marino"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇲🇼?",
+      "options": [
+        "India",
+        "Malawi",
+        "Uruguay",
+        "San Marino"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-MW",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Malawi?",
+      "options": [
+        "🇮🇳",
+        "🇺🇾",
+        "🇲🇼",
+        "🇸🇲"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Malawi?",
+      "options": [
+        "🇮🇳",
+        "🇺🇾",
+        "🇲🇼",
+        "🇸🇲"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-ML",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇲🇱?",
+      "options": [
+        "Mali",
+        "Coreia do Norte",
+        "Suriname",
+        "Argentina"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇲🇱?",
+      "options": [
+        "Mali",
+        "North Korea",
+        "Suriname",
+        "Argentina"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-ML",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Mali?",
+      "options": [
+        "🇲🇱",
+        "🇰🇵",
+        "🇸🇷",
+        "🇦🇷"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Mali?",
+      "options": [
+        "🇲🇱",
+        "🇰🇵",
+        "🇸🇷",
+        "🇦🇷"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-MR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇲🇷?",
+      "options": [
+        "Luxemburgo",
+        "São Tomé e Príncipe",
+        "Mauritânia",
+        "Burundi"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇲🇷?",
+      "options": [
+        "Luxembourg",
+        "Sao Tome and Principe",
+        "Mauritania",
+        "Burundi"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-MR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Mauritânia?",
+      "options": [
+        "🇧🇮",
+        "🇸🇹",
+        "🇱🇺",
+        "🇲🇷"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Mauritania?",
+      "options": [
+        "🇧🇮",
+        "🇸🇹",
+        "🇱🇺",
+        "🇲🇷"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-MU",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇲🇺?",
+      "options": [
+        "Irã",
+        "Uganda",
+        "Kiribati",
+        "Maurícia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇲🇺?",
+      "options": [
+        "Iran",
+        "Uganda",
+        "Kiribati",
+        "Mauritius"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-MU",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Maurícia?",
+      "options": [
+        "🇺🇬",
+        "🇮🇷",
+        "🇰🇮",
+        "🇲🇺"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Mauritius?",
+      "options": [
+        "🇺🇬",
+        "🇮🇷",
+        "🇰🇮",
+        "🇲🇺"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-MA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇲🇦?",
+      "options": [
+        "Marrocos",
+        "Sri Lanka",
+        "Líbano",
+        "Libéria"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇲🇦?",
+      "options": [
+        "Morocco",
+        "Sri Lanka",
+        "Lebanon",
+        "Liberia"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-MA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Marrocos?",
+      "options": [
+        "🇱🇷",
+        "🇲🇦",
+        "🇱🇧",
+        "🇱🇰"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Morocco?",
+      "options": [
+        "🇱🇷",
+        "🇲🇦",
+        "🇱🇧",
+        "🇱🇰"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-MZ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇲🇿?",
+      "options": [
+        "Moçambique",
+        "Guiana",
+        "Nepal",
+        "Guiné"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇲🇿?",
+      "options": [
+        "Mozambique",
+        "Guyana",
+        "Nepal",
+        "Guinea"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-MZ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Moçambique?",
+      "options": [
+        "🇳🇵",
+        "🇬🇳",
+        "🇲🇿",
+        "🇬🇾"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Mozambique?",
+      "options": [
+        "🇳🇵",
+        "🇬🇳",
+        "🇲🇿",
+        "🇬🇾"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-NA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇳🇦?",
+      "options": [
+        "Namíbia",
+        "Gana",
+        "Togo",
+        "Emirados Árabes Unidos"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇳🇦?",
+      "options": [
+        "Namibia",
+        "Ghana",
+        "Togo",
+        "United Arab Emirates"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-NA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Namíbia?",
+      "options": [
+        "🇦🇪",
+        "🇳🇦",
+        "🇹🇬",
+        "🇬🇭"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Namibia?",
+      "options": [
+        "🇦🇪",
+        "🇳🇦",
+        "🇹🇬",
+        "🇬🇭"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-NE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇳🇪?",
+      "options": [
+        "Níger",
+        "França",
+        "Paraguai",
+        "Romênia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇳🇪?",
+      "options": [
+        "Niger",
+        "France",
+        "Paraguay",
+        "Romania"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-NE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Níger?",
+      "options": [
+        "🇳🇪",
+        "🇵🇾",
+        "🇷🇴",
+        "🇫🇷"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Niger?",
+      "options": [
+        "🇳🇪",
+        "🇵🇾",
+        "🇷🇴",
+        "🇫🇷"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-NG",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇳🇬?",
+      "options": [
+        "Suécia",
+        "Andorra",
+        "Nigéria",
+        "Samoa"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇳🇬?",
+      "options": [
+        "Sweden",
+        "Andorra",
+        "Nigeria",
+        "Samoa"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-NG",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Nigéria?",
+      "options": [
+        "🇳🇬",
+        "🇦🇩",
+        "🇼🇸",
+        "🇸🇪"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Nigeria?",
+      "options": [
+        "🇳🇬",
+        "🇦🇩",
+        "🇼🇸",
+        "🇸🇪"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-RW",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇷🇼?",
+      "options": [
+        "Ruanda",
+        "Jamaica",
+        "Bósnia e Herzegovina",
+        "Djibuti"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇷🇼?",
+      "options": [
+        "Rwanda",
+        "Jamaica",
+        "Bosnia and Herzegovina",
+        "Djibouti"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-RW",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Ruanda?",
+      "options": [
+        "🇧🇦",
+        "🇩🇯",
+        "🇯🇲",
+        "🇷🇼"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Rwanda?",
+      "options": [
+        "🇧🇦",
+        "🇩🇯",
+        "🇯🇲",
+        "🇷🇼"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-ST",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇸🇹?",
+      "options": [
+        "Etiópia",
+        "Finlândia",
+        "Moldávia",
+        "São Tomé e Príncipe"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇸🇹?",
+      "options": [
+        "Ethiopia",
+        "Finland",
+        "Moldova",
+        "Sao Tome and Principe"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-ST",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de São Tomé e Príncipe?",
+      "options": [
+        "🇪🇹",
+        "🇲🇩",
+        "🇸🇹",
+        "🇫🇮"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Sao Tome and Principe?",
+      "options": [
+        "🇪🇹",
+        "🇲🇩",
+        "🇸🇹",
+        "🇫🇮"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-SN",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇸🇳?",
+      "options": [
+        "Quênia",
+        "Senegal",
+        "Papua-Nova Guiné",
+        "Letônia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇸🇳?",
+      "options": [
+        "Kenya",
+        "Senegal",
+        "Papua New Guinea",
+        "Latvia"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-SN",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Senegal?",
+      "options": [
+        "🇱🇻",
+        "🇸🇳",
+        "🇰🇪",
+        "🇵🇬"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Senegal?",
+      "options": [
+        "🇱🇻",
+        "🇸🇳",
+        "🇰🇪",
+        "🇵🇬"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-SC",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇸🇨?",
+      "options": [
+        "Seicheles",
+        "Brasil",
+        "Vaticano",
+        "Honduras"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇸🇨?",
+      "options": [
+        "Seychelles",
+        "Brazil",
+        "Vatican City",
+        "Honduras"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-SC",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Seicheles?",
+      "options": [
+        "🇧🇷",
+        "🇻🇦",
+        "🇭🇳",
+        "🇸🇨"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Seychelles?",
+      "options": [
+        "🇧🇷",
+        "🇻🇦",
+        "🇭🇳",
+        "🇸🇨"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-SL",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇸🇱?",
+      "options": [
+        "Serra Leoa",
+        "Etiópia",
+        "Seicheles",
+        "Guiné Equatorial"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇸🇱?",
+      "options": [
+        "Sierra Leone",
+        "Ethiopia",
+        "Seychelles",
+        "Equatorial Guinea"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-SL",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Serra Leoa?",
+      "options": [
+        "🇬🇶",
+        "🇪🇹",
+        "🇸🇱",
+        "🇸🇨"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Sierra Leone?",
+      "options": [
+        "🇬🇶",
+        "🇪🇹",
+        "🇸🇱",
+        "🇸🇨"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-SO",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇸🇴?",
+      "options": [
+        "Itália",
+        "Cuba",
+        "Cabo Verde",
+        "Somália"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇸🇴?",
+      "options": [
+        "Italy",
+        "Cuba",
+        "Cabo Verde",
+        "Somalia"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-SO",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Somália?",
+      "options": [
+        "🇮🇹",
+        "🇸🇴",
+        "🇨🇻",
+        "🇨🇺"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Somalia?",
+      "options": [
+        "🇮🇹",
+        "🇸🇴",
+        "🇨🇻",
+        "🇨🇺"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-ZA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇿🇦?",
+      "options": [
+        "Armênia",
+        "África do Sul",
+        "Estados Unidos",
+        "Japão"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇿🇦?",
+      "options": [
+        "Armenia",
+        "South Africa",
+        "United States",
+        "Japan"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-ZA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de África do Sul?",
+      "options": [
+        "🇿🇦",
+        "🇯🇵",
+        "🇺🇸",
+        "🇦🇲"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to South Africa?",
+      "options": [
+        "🇿🇦",
+        "🇯🇵",
+        "🇺🇸",
+        "🇦🇲"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-SS",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇸🇸?",
+      "options": [
+        "Turcomenistão",
+        "Sudão do Sul",
+        "Israel",
+        "Argélia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇸🇸?",
+      "options": [
+        "Turkmenistan",
+        "South Sudan",
+        "Israel",
+        "Algeria"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-SS",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Sudão do Sul?",
+      "options": [
+        "🇸🇸",
+        "🇩🇿",
+        "🇹🇲",
+        "🇮🇱"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to South Sudan?",
+      "options": [
+        "🇸🇸",
+        "🇩🇿",
+        "🇹🇲",
+        "🇮🇱"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-SD",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇸🇩?",
+      "options": [
+        "Moldávia",
+        "Sudão",
+        "Camarões",
+        "Mali"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇸🇩?",
+      "options": [
+        "Moldova",
+        "Sudan",
+        "Cameroon",
+        "Mali"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-SD",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Sudão?",
+      "options": [
+        "🇲🇱",
+        "🇸🇩",
+        "🇲🇩",
+        "🇨🇲"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Sudan?",
+      "options": [
+        "🇲🇱",
+        "🇸🇩",
+        "🇲🇩",
+        "🇨🇲"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-TZ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇹🇿?",
+      "options": [
+        "Tanzânia",
+        "Vaticano",
+        "Turquia",
+        "Granada"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇹🇿?",
+      "options": [
+        "Tanzania",
+        "Vatican City",
+        "Turkey",
+        "Grenada"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-TZ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Tanzânia?",
+      "options": [
+        "🇻🇦",
+        "🇹🇿",
+        "🇬🇩",
+        "🇹🇷"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Tanzania?",
+      "options": [
+        "🇻🇦",
+        "🇹🇿",
+        "🇬🇩",
+        "🇹🇷"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-TG",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇹🇬?",
+      "options": [
+        "Nicarágua",
+        "Micronésia",
+        "Togo",
+        "Grécia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇹🇬?",
+      "options": [
+        "Nicaragua",
+        "Micronesia",
+        "Togo",
+        "Greece"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-TG",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Togo?",
+      "options": [
+        "🇹🇬",
+        "🇳🇮",
+        "🇫🇲",
+        "🇬🇷"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Togo?",
+      "options": [
+        "🇹🇬",
+        "🇳🇮",
+        "🇫🇲",
+        "🇬🇷"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-TN",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇹🇳?",
+      "options": [
+        "Tunísia",
+        "República Democrática do Congo",
+        "Santa Lúcia",
+        "Samoa"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇹🇳?",
+      "options": [
+        "Tunisia",
+        "Democratic Republic of the Congo",
+        "Saint Lucia",
+        "Samoa"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-TN",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Tunísia?",
+      "options": [
+        "🇨🇩",
+        "🇹🇳",
+        "🇱🇨",
+        "🇼🇸"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Tunisia?",
+      "options": [
+        "🇨🇩",
+        "🇹🇳",
+        "🇱🇨",
+        "🇼🇸"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-UG",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇺🇬?",
+      "options": [
+        "Ruanda",
+        "Polônia",
+        "Japão",
+        "Uganda"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇺🇬?",
+      "options": [
+        "Rwanda",
+        "Poland",
+        "Japan",
+        "Uganda"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-UG",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Uganda?",
+      "options": [
+        "🇺🇬",
+        "🇯🇵",
+        "🇷🇼",
+        "🇵🇱"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Uganda?",
+      "options": [
+        "🇺🇬",
+        "🇯🇵",
+        "🇷🇼",
+        "🇵🇱"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-ZM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇿🇲?",
+      "options": [
+        "Bolívia",
+        "Ilhas Salomão",
+        "Zâmbia",
+        "Guiné-Bissau"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇿🇲?",
+      "options": [
+        "Bolivia",
+        "Solomon Islands",
+        "Zambia",
+        "Guinea-Bissau"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-ZM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Zâmbia?",
+      "options": [
+        "🇸🇧",
+        "🇧🇴",
+        "🇿🇲",
+        "🇬🇼"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Zambia?",
+      "options": [
+        "🇸🇧",
+        "🇧🇴",
+        "🇿🇲",
+        "🇬🇼"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-ZW",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇿🇼?",
+      "options": [
+        "Sudão do Sul",
+        "Eslovênia",
+        "Zimbábue",
+        "República Tcheca"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇿🇼?",
+      "options": [
+        "South Sudan",
+        "Slovenia",
+        "Zimbabwe",
+        "Czech Republic"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-ZW",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Zimbábue?",
+      "options": [
+        "🇨🇿",
+        "🇿🇼",
+        "🇸🇮",
+        "🇸🇸"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Zimbabwe?",
+      "options": [
+        "🇨🇿",
+        "🇿🇼",
+        "🇸🇮",
+        "🇸🇸"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-AG",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇦🇬?",
+      "options": [
+        "São Tomé e Príncipe",
+        "Bielorrússia",
+        "Eslováquia",
+        "Antígua e Barbuda"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇦🇬?",
+      "options": [
+        "Sao Tome and Principe",
+        "Belarus",
+        "Slovakia",
+        "Antigua and Barbuda"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-AG",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Antígua e Barbuda?",
+      "options": [
+        "🇦🇬",
+        "🇸🇰",
+        "🇸🇹",
+        "🇧🇾"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Antigua and Barbuda?",
+      "options": [
+        "🇦🇬",
+        "🇸🇰",
+        "🇸🇹",
+        "🇧🇾"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-AR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇦🇷?",
+      "options": [
+        "Reino Unido",
+        "Finlândia",
+        "Argentina",
+        "México"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇦🇷?",
+      "options": [
+        "United Kingdom",
+        "Finland",
+        "Argentina",
+        "Mexico"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-AR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Argentina?",
+      "options": [
+        "🇫🇮",
+        "🇬🇧",
+        "🇦🇷",
+        "🇲🇽"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Argentina?",
+      "options": [
+        "🇫🇮",
+        "🇬🇧",
+        "🇦🇷",
+        "🇲🇽"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-BS",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇧🇸?",
+      "options": [
+        "Macedônia do Norte",
+        "Costa do Marfim",
+        "Malta",
+        "Bahamas"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇧🇸?",
+      "options": [
+        "North Macedonia",
+        "Ivory Coast",
+        "Malta",
+        "Bahamas"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-BS",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Bahamas?",
+      "options": [
+        "🇲🇰",
+        "🇲🇹",
+        "🇨🇮",
+        "🇧🇸"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Bahamas?",
+      "options": [
+        "🇲🇰",
+        "🇲🇹",
+        "🇨🇮",
+        "🇧🇸"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-BB",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇧🇧?",
+      "options": [
+        "Barbados",
+        "Seicheles",
+        "Singapura",
+        "Dominica"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇧🇧?",
+      "options": [
+        "Barbados",
+        "Seychelles",
+        "Singapore",
+        "Dominica"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-BB",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Barbados?",
+      "options": [
+        "🇩🇲",
+        "🇸🇬",
+        "🇸🇨",
+        "🇧🇧"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Barbados?",
+      "options": [
+        "🇩🇲",
+        "🇸🇬",
+        "🇸🇨",
+        "🇧🇧"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-BZ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇧🇿?",
+      "options": [
+        "Belize",
+        "Coreia do Norte",
+        "Sérvia",
+        "Brunei"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇧🇿?",
+      "options": [
+        "Belize",
+        "North Korea",
+        "Serbia",
+        "Brunei"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-BZ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Belize?",
+      "options": [
+        "🇰🇵",
+        "🇷🇸",
+        "🇧🇿",
+        "🇧🇳"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Belize?",
+      "options": [
+        "🇰🇵",
+        "🇷🇸",
+        "🇧🇿",
+        "🇧🇳"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-BO",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇧🇴?",
+      "options": [
+        "Madagascar",
+        "Japão",
+        "Bolívia",
+        "Noruega"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇧🇴?",
+      "options": [
+        "Madagascar",
+        "Japan",
+        "Bolivia",
+        "Norway"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-BO",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Bolívia?",
+      "options": [
+        "🇲🇬",
+        "🇧🇴",
+        "🇳🇴",
+        "🇯🇵"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Bolivia?",
+      "options": [
+        "🇲🇬",
+        "🇧🇴",
+        "🇳🇴",
+        "🇯🇵"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-BR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇧🇷?",
+      "options": [
+        "Brasil",
+        "Cazaquistão",
+        "Polônia",
+        "Quênia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇧🇷?",
+      "options": [
+        "Brazil",
+        "Kazakhstan",
+        "Poland",
+        "Kenya"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-BR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Brasil?",
+      "options": [
+        "🇰🇪",
+        "🇰🇿",
+        "🇧🇷",
+        "🇵🇱"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Brazil?",
+      "options": [
+        "🇰🇪",
+        "🇰🇿",
+        "🇧🇷",
+        "🇵🇱"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-CA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇨🇦?",
+      "options": [
+        "Tanzânia",
+        "Coreia do Norte",
+        "Mali",
+        "Canadá"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇨🇦?",
+      "options": [
+        "Tanzania",
+        "North Korea",
+        "Mali",
+        "Canada"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-CA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Canadá?",
+      "options": [
+        "🇲🇱",
+        "🇹🇿",
+        "🇰🇵",
+        "🇨🇦"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Canada?",
+      "options": [
+        "🇲🇱",
+        "🇹🇿",
+        "🇰🇵",
+        "🇨🇦"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-CL",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇨🇱?",
+      "options": [
+        "Guatemala",
+        "Maurícia",
+        "Chile",
+        "Níger"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇨🇱?",
+      "options": [
+        "Guatemala",
+        "Mauritius",
+        "Chile",
+        "Niger"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-CL",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Chile?",
+      "options": [
+        "🇬🇹",
+        "🇳🇪",
+        "🇲🇺",
+        "🇨🇱"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Chile?",
+      "options": [
+        "🇬🇹",
+        "🇳🇪",
+        "🇲🇺",
+        "🇨🇱"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-CO",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇨🇴?",
+      "options": [
+        "Eritreia",
+        "Colômbia",
+        "Samoa",
+        "Catar"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇨🇴?",
+      "options": [
+        "Eritrea",
+        "Colombia",
+        "Samoa",
+        "Qatar"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-CO",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Colômbia?",
+      "options": [
+        "🇼🇸",
+        "🇨🇴",
+        "🇪🇷",
+        "🇶🇦"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Colombia?",
+      "options": [
+        "🇼🇸",
+        "🇨🇴",
+        "🇪🇷",
+        "🇶🇦"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-CR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇨🇷?",
+      "options": [
+        "Fiji",
+        "Sri Lanka",
+        "Mongólia",
+        "Costa Rica"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇨🇷?",
+      "options": [
+        "Fiji",
+        "Sri Lanka",
+        "Mongolia",
+        "Costa Rica"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-CR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Costa Rica?",
+      "options": [
+        "🇲🇳",
+        "🇫🇯",
+        "🇨🇷",
+        "🇱🇰"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Costa Rica?",
+      "options": [
+        "🇲🇳",
+        "🇫🇯",
+        "🇨🇷",
+        "🇱🇰"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-CU",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇨🇺?",
+      "options": [
+        "Cuba",
+        "Noruega",
+        "Bósnia e Herzegovina",
+        "Polônia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇨🇺?",
+      "options": [
+        "Cuba",
+        "Norway",
+        "Bosnia and Herzegovina",
+        "Poland"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-CU",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Cuba?",
+      "options": [
+        "🇨🇺",
+        "🇳🇴",
+        "🇧🇦",
+        "🇵🇱"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Cuba?",
+      "options": [
+        "🇨🇺",
+        "🇳🇴",
+        "🇧🇦",
+        "🇵🇱"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-DM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇩🇲?",
+      "options": [
+        "Guiné-Bissau",
+        "Gana",
+        "Essuatíni",
+        "Dominica"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇩🇲?",
+      "options": [
+        "Guinea-Bissau",
+        "Ghana",
+        "Eswatini",
+        "Dominica"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-DM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Dominica?",
+      "options": [
+        "🇸🇿",
+        "🇬🇭",
+        "🇩🇲",
+        "🇬🇼"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Dominica?",
+      "options": [
+        "🇸🇿",
+        "🇬🇭",
+        "🇩🇲",
+        "🇬🇼"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-DO",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇩🇴?",
+      "options": [
+        "Lesoto",
+        "Finlândia",
+        "República Dominicana",
+        "Azerbaijão"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇩🇴?",
+      "options": [
+        "Lesotho",
+        "Finland",
+        "Dominican Republic",
+        "Azerbaijan"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-DO",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de República Dominicana?",
+      "options": [
+        "🇱🇸",
+        "🇫🇮",
+        "🇩🇴",
+        "🇦🇿"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Dominican Republic?",
+      "options": [
+        "🇱🇸",
+        "🇫🇮",
+        "🇩🇴",
+        "🇦🇿"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-EC",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇪🇨?",
+      "options": [
+        "Equador",
+        "Granada",
+        "Camarões",
+        "Sudão do Sul"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇪🇨?",
+      "options": [
+        "Ecuador",
+        "Grenada",
+        "Cameroon",
+        "South Sudan"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-EC",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Equador?",
+      "options": [
+        "🇨🇲",
+        "🇸🇸",
+        "🇬🇩",
+        "🇪🇨"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Ecuador?",
+      "options": [
+        "🇨🇲",
+        "🇸🇸",
+        "🇬🇩",
+        "🇪🇨"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-SV",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇸🇻?",
+      "options": [
+        "El Salvador",
+        "São Tomé e Príncipe",
+        "Coreia do Norte",
+        "Venezuela"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇸🇻?",
+      "options": [
+        "El Salvador",
+        "Sao Tome and Principe",
+        "North Korea",
+        "Venezuela"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-SV",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de El Salvador?",
+      "options": [
+        "🇰🇵",
+        "🇻🇪",
+        "🇸🇹",
+        "🇸🇻"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to El Salvador?",
+      "options": [
+        "🇰🇵",
+        "🇻🇪",
+        "🇸🇹",
+        "🇸🇻"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-GD",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇬🇩?",
+      "options": [
+        "Argentina",
+        "El Salvador",
+        "Cazaquistão",
+        "Granada"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇬🇩?",
+      "options": [
+        "Argentina",
+        "El Salvador",
+        "Kazakhstan",
+        "Grenada"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-GD",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Granada?",
+      "options": [
+        "🇦🇷",
+        "🇸🇻",
+        "🇰🇿",
+        "🇬🇩"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Grenada?",
+      "options": [
+        "🇦🇷",
+        "🇸🇻",
+        "🇰🇿",
+        "🇬🇩"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-GT",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇬🇹?",
+      "options": [
+        "Moçambique",
+        "Jamaica",
+        "Guatemala",
+        "Cuba"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇬🇹?",
+      "options": [
+        "Mozambique",
+        "Jamaica",
+        "Guatemala",
+        "Cuba"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-GT",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Guatemala?",
+      "options": [
+        "🇬🇹",
+        "🇲🇿",
+        "🇨🇺",
+        "🇯🇲"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Guatemala?",
+      "options": [
+        "🇬🇹",
+        "🇲🇿",
+        "🇨🇺",
+        "🇯🇲"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-GY",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇬🇾?",
+      "options": [
+        "Guiana",
+        "Omã",
+        "Gabão",
+        "São Cristóvão e Névis"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇬🇾?",
+      "options": [
+        "Guyana",
+        "Oman",
+        "Gabon",
+        "Saint Kitts and Nevis"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-GY",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Guiana?",
+      "options": [
+        "🇬🇦",
+        "🇬🇾",
+        "🇴🇲",
+        "🇰🇳"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Guyana?",
+      "options": [
+        "🇬🇦",
+        "🇬🇾",
+        "🇴🇲",
+        "🇰🇳"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-HT",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇭🇹?",
+      "options": [
+        "Iraque",
+        "Grécia",
+        "Malásia",
+        "Haiti"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇭🇹?",
+      "options": [
+        "Iraq",
+        "Greece",
+        "Malaysia",
+        "Haiti"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-HT",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Haiti?",
+      "options": [
+        "🇮🇶",
+        "🇲🇾",
+        "🇭🇹",
+        "🇬🇷"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Haiti?",
+      "options": [
+        "🇮🇶",
+        "🇲🇾",
+        "🇭🇹",
+        "🇬🇷"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-HN",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇭🇳?",
+      "options": [
+        "Tunísia",
+        "Honduras",
+        "Cuba",
+        "Níger"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇭🇳?",
+      "options": [
+        "Tunisia",
+        "Honduras",
+        "Cuba",
+        "Niger"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-HN",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Honduras?",
+      "options": [
+        "🇨🇺",
+        "🇳🇪",
+        "🇹🇳",
+        "🇭🇳"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Honduras?",
+      "options": [
+        "🇨🇺",
+        "🇳🇪",
+        "🇹🇳",
+        "🇭🇳"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-JM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇯🇲?",
+      "options": [
+        "Mongólia",
+        "Jamaica",
+        "Panamá",
+        "Moldávia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇯🇲?",
+      "options": [
+        "Mongolia",
+        "Jamaica",
+        "Panama",
+        "Moldova"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-JM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Jamaica?",
+      "options": [
+        "🇲🇳",
+        "🇯🇲",
+        "🇵🇦",
+        "🇲🇩"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Jamaica?",
+      "options": [
+        "🇲🇳",
+        "🇯🇲",
+        "🇵🇦",
+        "🇲🇩"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-MX",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇲🇽?",
+      "options": [
+        "França",
+        "Bósnia e Herzegovina",
+        "Paquistão",
+        "México"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇲🇽?",
+      "options": [
+        "France",
+        "Bosnia and Herzegovina",
+        "Pakistan",
+        "Mexico"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-MX",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de México?",
+      "options": [
+        "🇲🇽",
+        "🇵🇰",
+        "🇧🇦",
+        "🇫🇷"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Mexico?",
+      "options": [
+        "🇲🇽",
+        "🇵🇰",
+        "🇧🇦",
+        "🇫🇷"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-NI",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇳🇮?",
+      "options": [
+        "Nicarágua",
+        "Maldivas",
+        "Vietnã",
+        "Austrália"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇳🇮?",
+      "options": [
+        "Nicaragua",
+        "Maldives",
+        "Vietnam",
+        "Australia"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-NI",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Nicarágua?",
+      "options": [
+        "🇳🇮",
+        "🇻🇳",
+        "🇦🇺",
+        "🇲🇻"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Nicaragua?",
+      "options": [
+        "🇳🇮",
+        "🇻🇳",
+        "🇦🇺",
+        "🇲🇻"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-PA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇵🇦?",
+      "options": [
+        "Portugal",
+        "Panamá",
+        "Itália",
+        "Micronésia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇵🇦?",
+      "options": [
+        "Portugal",
+        "Panama",
+        "Italy",
+        "Micronesia"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-PA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Panamá?",
+      "options": [
+        "🇵🇦",
+        "🇵🇹",
+        "🇮🇹",
+        "🇫🇲"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Panama?",
+      "options": [
+        "🇵🇦",
+        "🇵🇹",
+        "🇮🇹",
+        "🇫🇲"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-PY",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇵🇾?",
+      "options": [
+        "Quirguistão",
+        "Macedônia do Norte",
+        "Paraguai",
+        "San Marino"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇵🇾?",
+      "options": [
+        "Kyrgyzstan",
+        "North Macedonia",
+        "Paraguay",
+        "San Marino"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-PY",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Paraguai?",
+      "options": [
+        "🇲🇰",
+        "🇰🇬",
+        "🇵🇾",
+        "🇸🇲"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Paraguay?",
+      "options": [
+        "🇲🇰",
+        "🇰🇬",
+        "🇵🇾",
+        "🇸🇲"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-PE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇵🇪?",
+      "options": [
+        "Lituânia",
+        "Maurícia",
+        "Peru",
+        "Islândia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇵🇪?",
+      "options": [
+        "Lithuania",
+        "Mauritius",
+        "Peru",
+        "Iceland"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-PE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Peru?",
+      "options": [
+        "🇮🇸",
+        "🇵🇪",
+        "🇲🇺",
+        "🇱🇹"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Peru?",
+      "options": [
+        "🇮🇸",
+        "🇵🇪",
+        "🇲🇺",
+        "🇱🇹"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-KN",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇰🇳?",
+      "options": [
+        "São Cristóvão e Névis",
+        "Paraguai",
+        "Togo",
+        "Filipinas"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇰🇳?",
+      "options": [
+        "Saint Kitts and Nevis",
+        "Paraguay",
+        "Togo",
+        "Philippines"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-KN",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de São Cristóvão e Névis?",
+      "options": [
+        "🇰🇳",
+        "🇵🇭",
+        "🇵🇾",
+        "🇹🇬"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Saint Kitts and Nevis?",
+      "options": [
+        "🇰🇳",
+        "🇵🇭",
+        "🇵🇾",
+        "🇹🇬"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-LC",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇱🇨?",
+      "options": [
+        "Fiji",
+        "Mali",
+        "Santa Lúcia",
+        "Emirados Árabes Unidos"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇱🇨?",
+      "options": [
+        "Fiji",
+        "Mali",
+        "Saint Lucia",
+        "United Arab Emirates"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-LC",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Santa Lúcia?",
+      "options": [
+        "🇲🇱",
+        "🇱🇨",
+        "🇫🇯",
+        "🇦🇪"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Saint Lucia?",
+      "options": [
+        "🇲🇱",
+        "🇱🇨",
+        "🇫🇯",
+        "🇦🇪"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-VC",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇻🇨?",
+      "options": [
+        "Camboja",
+        "Barbados",
+        "Gâmbia",
+        "São Vicente e Granadinas"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇻🇨?",
+      "options": [
+        "Cambodia",
+        "Barbados",
+        "Gambia",
+        "Saint Vincent and the Grenadines"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-VC",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de São Vicente e Granadinas?",
+      "options": [
+        "🇬🇲",
+        "🇧🇧",
+        "🇻🇨",
+        "🇰🇭"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Saint Vincent and the Grenadines?",
+      "options": [
+        "🇬🇲",
+        "🇧🇧",
+        "🇻🇨",
+        "🇰🇭"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-SR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇸🇷?",
+      "options": [
+        "Nigéria",
+        "Argentina",
+        "Suriname",
+        "Bélgica"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇸🇷?",
+      "options": [
+        "Nigeria",
+        "Argentina",
+        "Suriname",
+        "Belgium"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-SR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Suriname?",
+      "options": [
+        "🇳🇬",
+        "🇸🇷",
+        "🇧🇪",
+        "🇦🇷"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Suriname?",
+      "options": [
+        "🇳🇬",
+        "🇸🇷",
+        "🇧🇪",
+        "🇦🇷"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-TT",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇹🇹?",
+      "options": [
+        "Namíbia",
+        "Kiribati",
+        "Trindade e Tobago",
+        "Honduras"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇹🇹?",
+      "options": [
+        "Namibia",
+        "Kiribati",
+        "Trinidad and Tobago",
+        "Honduras"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-TT",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Trindade e Tobago?",
+      "options": [
+        "🇹🇹",
+        "🇭🇳",
+        "🇳🇦",
+        "🇰🇮"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Trinidad and Tobago?",
+      "options": [
+        "🇹🇹",
+        "🇭🇳",
+        "🇳🇦",
+        "🇰🇮"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-US",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇺🇸?",
+      "options": [
+        "Índia",
+        "Estados Unidos",
+        "República Democrática do Congo",
+        "Mônaco"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇺🇸?",
+      "options": [
+        "India",
+        "United States",
+        "Democratic Republic of the Congo",
+        "Monaco"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-US",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Estados Unidos?",
+      "options": [
+        "🇮🇳",
+        "🇨🇩",
+        "🇺🇸",
+        "🇲🇨"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to United States?",
+      "options": [
+        "🇮🇳",
+        "🇨🇩",
+        "🇺🇸",
+        "🇲🇨"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-UY",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇺🇾?",
+      "options": [
+        "Espanha",
+        "Uruguai",
+        "Paquistão",
+        "Ucrânia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇺🇾?",
+      "options": [
+        "Spain",
+        "Uruguay",
+        "Pakistan",
+        "Ukraine"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-UY",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Uruguai?",
+      "options": [
+        "🇵🇰",
+        "🇺🇦",
+        "🇺🇾",
+        "🇪🇸"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Uruguay?",
+      "options": [
+        "🇵🇰",
+        "🇺🇦",
+        "🇺🇾",
+        "🇪🇸"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-VE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇻🇪?",
+      "options": [
+        "Venezuela",
+        "Chade",
+        "Tonga",
+        "Costa Rica"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇻🇪?",
+      "options": [
+        "Venezuela",
+        "Chad",
+        "Tonga",
+        "Costa Rica"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-VE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Venezuela?",
+      "options": [
+        "🇹🇴",
+        "🇨🇷",
+        "🇹🇩",
+        "🇻🇪"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Venezuela?",
+      "options": [
+        "🇹🇴",
+        "🇨🇷",
+        "🇹🇩",
+        "🇻🇪"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-AF",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇦🇫?",
+      "options": [
+        "Equador",
+        "Brunei",
+        "Emirados Árabes Unidos",
+        "Afeganistão"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇦🇫?",
+      "options": [
+        "Ecuador",
+        "Brunei",
+        "United Arab Emirates",
+        "Afghanistan"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-AF",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Afeganistão?",
+      "options": [
+        "🇦🇪",
+        "🇪🇨",
+        "🇧🇳",
+        "🇦🇫"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Afghanistan?",
+      "options": [
+        "🇦🇪",
+        "🇪🇨",
+        "🇧🇳",
+        "🇦🇫"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-AM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇦🇲?",
+      "options": [
+        "Mongólia",
+        "Armênia",
+        "Seicheles",
+        "Suécia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇦🇲?",
+      "options": [
+        "Mongolia",
+        "Armenia",
+        "Seychelles",
+        "Sweden"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-AM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Armênia?",
+      "options": [
+        "🇦🇲",
+        "🇸🇨",
+        "🇲🇳",
+        "🇸🇪"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Armenia?",
+      "options": [
+        "🇦🇲",
+        "🇸🇨",
+        "🇲🇳",
+        "🇸🇪"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-AZ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇦🇿?",
+      "options": [
+        "Kosovo",
+        "Eslováquia",
+        "Maldivas",
+        "Azerbaijão"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇦🇿?",
+      "options": [
+        "Kosovo",
+        "Slovakia",
+        "Maldives",
+        "Azerbaijan"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-AZ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Azerbaijão?",
+      "options": [
+        "🇦🇿",
+        "🇲🇻",
+        "🇸🇰",
+        "🇽🇰"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Azerbaijan?",
+      "options": [
+        "🇦🇿",
+        "🇲🇻",
+        "🇸🇰",
+        "🇽🇰"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-BH",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇧🇭?",
+      "options": [
+        "Bahrein",
+        "Iêmen",
+        "Estônia",
+        "Moçambique"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇧🇭?",
+      "options": [
+        "Bahrain",
+        "Yemen",
+        "Estonia",
+        "Mozambique"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-BH",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Bahrein?",
+      "options": [
+        "🇪🇪",
+        "🇾🇪",
+        "🇧🇭",
+        "🇲🇿"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Bahrain?",
+      "options": [
+        "🇪🇪",
+        "🇾🇪",
+        "🇧🇭",
+        "🇲🇿"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-BD",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇧🇩?",
+      "options": [
+        "Antígua e Barbuda",
+        "Letônia",
+        "Bangladesh",
+        "Haiti"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇧🇩?",
+      "options": [
+        "Antigua and Barbuda",
+        "Latvia",
+        "Bangladesh",
+        "Haiti"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-BD",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Bangladesh?",
+      "options": [
+        "🇱🇻",
+        "🇭🇹",
+        "🇧🇩",
+        "🇦🇬"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Bangladesh?",
+      "options": [
+        "🇱🇻",
+        "🇭🇹",
+        "🇧🇩",
+        "🇦🇬"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-BT",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇧🇹?",
+      "options": [
+        "São Tomé e Príncipe",
+        "Butão",
+        "Fiji",
+        "México"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇧🇹?",
+      "options": [
+        "Sao Tome and Principe",
+        "Bhutan",
+        "Fiji",
+        "Mexico"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-BT",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Butão?",
+      "options": [
+        "🇲🇽",
+        "🇸🇹",
+        "🇫🇯",
+        "🇧🇹"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Bhutan?",
+      "options": [
+        "🇲🇽",
+        "🇸🇹",
+        "🇫🇯",
+        "🇧🇹"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-BN",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇧🇳?",
+      "options": [
+        "Brunei",
+        "Irã",
+        "Kiribati",
+        "Ilhas Marshall"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇧🇳?",
+      "options": [
+        "Brunei",
+        "Iran",
+        "Kiribati",
+        "Marshall Islands"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-BN",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Brunei?",
+      "options": [
+        "🇮🇷",
+        "🇧🇳",
+        "🇰🇮",
+        "🇲🇭"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Brunei?",
+      "options": [
+        "🇮🇷",
+        "🇧🇳",
+        "🇰🇮",
+        "🇲🇭"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-KH",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇰🇭?",
+      "options": [
+        "Maurícia",
+        "Líbano",
+        "Tailândia",
+        "Camboja"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇰🇭?",
+      "options": [
+        "Mauritius",
+        "Lebanon",
+        "Thailand",
+        "Cambodia"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-KH",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Camboja?",
+      "options": [
+        "🇲🇺",
+        "🇹🇭",
+        "🇰🇭",
+        "🇱🇧"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Cambodia?",
+      "options": [
+        "🇲🇺",
+        "🇹🇭",
+        "🇰🇭",
+        "🇱🇧"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-CN",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇨🇳?",
+      "options": [
+        "Guiné-Bissau",
+        "China",
+        "Albânia",
+        "Liechtenstein"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇨🇳?",
+      "options": [
+        "Guinea-Bissau",
+        "China",
+        "Albania",
+        "Liechtenstein"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-CN",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de China?",
+      "options": [
+        "🇨🇳",
+        "🇬🇼",
+        "🇦🇱",
+        "🇱🇮"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to China?",
+      "options": [
+        "🇨🇳",
+        "🇬🇼",
+        "🇦🇱",
+        "🇱🇮"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-CY",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇨🇾?",
+      "options": [
+        "Chipre",
+        "Tajiquistão",
+        "Bielorrússia",
+        "Malta"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇨🇾?",
+      "options": [
+        "Cyprus",
+        "Tajikistan",
+        "Belarus",
+        "Malta"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-CY",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Chipre?",
+      "options": [
+        "🇲🇹",
+        "🇹🇯",
+        "🇨🇾",
+        "🇧🇾"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Cyprus?",
+      "options": [
+        "🇲🇹",
+        "🇹🇯",
+        "🇨🇾",
+        "🇧🇾"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-GE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇬🇪?",
+      "options": [
+        "São Cristóvão e Névis",
+        "Geórgia",
+        "Peru",
+        "Kiribati"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇬🇪?",
+      "options": [
+        "Saint Kitts and Nevis",
+        "Georgia",
+        "Peru",
+        "Kiribati"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-GE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Geórgia?",
+      "options": [
+        "🇵🇪",
+        "🇬🇪",
+        "🇰🇳",
+        "🇰🇮"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Georgia?",
+      "options": [
+        "🇵🇪",
+        "🇬🇪",
+        "🇰🇳",
+        "🇰🇮"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-IN",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇮🇳?",
+      "options": [
+        "Índia",
+        "Kuwait",
+        "Colômbia",
+        "Liechtenstein"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇮🇳?",
+      "options": [
+        "India",
+        "Kuwait",
+        "Colombia",
+        "Liechtenstein"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-IN",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Índia?",
+      "options": [
+        "🇰🇼",
+        "🇨🇴",
+        "🇮🇳",
+        "🇱🇮"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to India?",
+      "options": [
+        "🇰🇼",
+        "🇨🇴",
+        "🇮🇳",
+        "🇱🇮"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-ID",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇮🇩?",
+      "options": [
+        "República do Congo",
+        "Armênia",
+        "Alemanha",
+        "Indonésia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇮🇩?",
+      "options": [
+        "Republic of the Congo",
+        "Armenia",
+        "Germany",
+        "Indonesia"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-ID",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Indonésia?",
+      "options": [
+        "🇦🇲",
+        "🇮🇩",
+        "🇩🇪",
+        "🇨🇬"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Indonesia?",
+      "options": [
+        "🇦🇲",
+        "🇮🇩",
+        "🇩🇪",
+        "🇨🇬"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-IR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇮🇷?",
+      "options": [
+        "Haiti",
+        "Bósnia e Herzegovina",
+        "Bahrein",
+        "Irã"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇮🇷?",
+      "options": [
+        "Haiti",
+        "Bosnia and Herzegovina",
+        "Bahrain",
+        "Iran"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-IR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Irã?",
+      "options": [
+        "🇧🇭",
+        "🇮🇷",
+        "🇭🇹",
+        "🇧🇦"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Iran?",
+      "options": [
+        "🇧🇭",
+        "🇮🇷",
+        "🇭🇹",
+        "🇧🇦"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-IQ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇮🇶?",
+      "options": [
+        "Iraque",
+        "Moçambique",
+        "República Democrática do Congo",
+        "Chade"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇮🇶?",
+      "options": [
+        "Iraq",
+        "Mozambique",
+        "Democratic Republic of the Congo",
+        "Chad"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-IQ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Iraque?",
+      "options": [
+        "🇲🇿",
+        "🇮🇶",
+        "🇹🇩",
+        "🇨🇩"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Iraq?",
+      "options": [
+        "🇲🇿",
+        "🇮🇶",
+        "🇹🇩",
+        "🇨🇩"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-IL",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇮🇱?",
+      "options": [
+        "Catar",
+        "Israel",
+        "Butão",
+        "Burquina Faso"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇮🇱?",
+      "options": [
+        "Qatar",
+        "Israel",
+        "Bhutan",
+        "Burkina Faso"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-IL",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Israel?",
+      "options": [
+        "🇮🇱",
+        "🇶🇦",
+        "🇧🇫",
+        "🇧🇹"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Israel?",
+      "options": [
+        "🇮🇱",
+        "🇶🇦",
+        "🇧🇫",
+        "🇧🇹"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-JP",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇯🇵?",
+      "options": [
+        "Alemanha",
+        "Arábia Saudita",
+        "Japão",
+        "Serra Leoa"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇯🇵?",
+      "options": [
+        "Germany",
+        "Saudi Arabia",
+        "Japan",
+        "Sierra Leone"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-JP",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Japão?",
+      "options": [
+        "🇩🇪",
+        "🇸🇱",
+        "🇸🇦",
+        "🇯🇵"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Japan?",
+      "options": [
+        "🇩🇪",
+        "🇸🇱",
+        "🇸🇦",
+        "🇯🇵"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-JO",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇯🇴?",
+      "options": [
+        "Guiné Equatorial",
+        "Jordânia",
+        "Nauru",
+        "Palau"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇯🇴?",
+      "options": [
+        "Equatorial Guinea",
+        "Jordan",
+        "Nauru",
+        "Palau"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-JO",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Jordânia?",
+      "options": [
+        "🇯🇴",
+        "🇵🇼",
+        "🇬🇶",
+        "🇳🇷"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Jordan?",
+      "options": [
+        "🇯🇴",
+        "🇵🇼",
+        "🇬🇶",
+        "🇳🇷"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-KZ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇰🇿?",
+      "options": [
+        "Guatemala",
+        "Togo",
+        "Cazaquistão",
+        "Colômbia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇰🇿?",
+      "options": [
+        "Guatemala",
+        "Togo",
+        "Kazakhstan",
+        "Colombia"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-KZ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Cazaquistão?",
+      "options": [
+        "🇹🇬",
+        "🇰🇿",
+        "🇬🇹",
+        "🇨🇴"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Kazakhstan?",
+      "options": [
+        "🇹🇬",
+        "🇰🇿",
+        "🇬🇹",
+        "🇨🇴"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-KW",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇰🇼?",
+      "options": [
+        "Níger",
+        "Indonésia",
+        "Kuwait",
+        "Venezuela"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇰🇼?",
+      "options": [
+        "Niger",
+        "Indonesia",
+        "Kuwait",
+        "Venezuela"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-KW",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Kuwait?",
+      "options": [
+        "🇳🇪",
+        "🇻🇪",
+        "🇮🇩",
+        "🇰🇼"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Kuwait?",
+      "options": [
+        "🇳🇪",
+        "🇻🇪",
+        "🇮🇩",
+        "🇰🇼"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-KG",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇰🇬?",
+      "options": [
+        "Grécia",
+        "Papua-Nova Guiné",
+        "Quirguistão",
+        "Liechtenstein"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇰🇬?",
+      "options": [
+        "Greece",
+        "Papua New Guinea",
+        "Kyrgyzstan",
+        "Liechtenstein"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-KG",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Quirguistão?",
+      "options": [
+        "🇬🇷",
+        "🇰🇬",
+        "🇵🇬",
+        "🇱🇮"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Kyrgyzstan?",
+      "options": [
+        "🇬🇷",
+        "🇰🇬",
+        "🇵🇬",
+        "🇱🇮"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-LA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇱🇦?",
+      "options": [
+        "Israel",
+        "Laos",
+        "Polônia",
+        "Catar"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇱🇦?",
+      "options": [
+        "Israel",
+        "Laos",
+        "Poland",
+        "Qatar"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-LA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Laos?",
+      "options": [
+        "🇱🇦",
+        "🇶🇦",
+        "🇮🇱",
+        "🇵🇱"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Laos?",
+      "options": [
+        "🇱🇦",
+        "🇶🇦",
+        "🇮🇱",
+        "🇵🇱"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-LB",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇱🇧?",
+      "options": [
+        "Ilhas Salomão",
+        "Sudão",
+        "Honduras",
+        "Líbano"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇱🇧?",
+      "options": [
+        "Solomon Islands",
+        "Sudan",
+        "Honduras",
+        "Lebanon"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-LB",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Líbano?",
+      "options": [
+        "🇭🇳",
+        "🇸🇧",
+        "🇸🇩",
+        "🇱🇧"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Lebanon?",
+      "options": [
+        "🇭🇳",
+        "🇸🇧",
+        "🇸🇩",
+        "🇱🇧"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-MY",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇲🇾?",
+      "options": [
+        "Cuba",
+        "Kiribati",
+        "Malásia",
+        "Macedônia do Norte"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇲🇾?",
+      "options": [
+        "Cuba",
+        "Kiribati",
+        "Malaysia",
+        "North Macedonia"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-MY",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Malásia?",
+      "options": [
+        "🇲🇰",
+        "🇲🇾",
+        "🇰🇮",
+        "🇨🇺"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Malaysia?",
+      "options": [
+        "🇲🇰",
+        "🇲🇾",
+        "🇰🇮",
+        "🇨🇺"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-MV",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇲🇻?",
+      "options": [
+        "Colômbia",
+        "Santa Lúcia",
+        "Arábia Saudita",
+        "Maldivas"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇲🇻?",
+      "options": [
+        "Colombia",
+        "Saint Lucia",
+        "Saudi Arabia",
+        "Maldives"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-MV",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Maldivas?",
+      "options": [
+        "🇲🇻",
+        "🇱🇨",
+        "🇨🇴",
+        "🇸🇦"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Maldives?",
+      "options": [
+        "🇲🇻",
+        "🇱🇨",
+        "🇨🇴",
+        "🇸🇦"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-MN",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇲🇳?",
+      "options": [
+        "São Tomé e Príncipe",
+        "Mongólia",
+        "Espanha",
+        "Iraque"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇲🇳?",
+      "options": [
+        "Sao Tome and Principe",
+        "Mongolia",
+        "Spain",
+        "Iraq"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-MN",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Mongólia?",
+      "options": [
+        "🇪🇸",
+        "🇲🇳",
+        "🇸🇹",
+        "🇮🇶"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Mongolia?",
+      "options": [
+        "🇪🇸",
+        "🇲🇳",
+        "🇸🇹",
+        "🇮🇶"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-MM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇲🇲?",
+      "options": [
+        "Tuvalu",
+        "Colômbia",
+        "Eslovênia",
+        "Mianmar"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇲🇲?",
+      "options": [
+        "Tuvalu",
+        "Colombia",
+        "Slovenia",
+        "Myanmar"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-MM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Mianmar?",
+      "options": [
+        "🇨🇴",
+        "🇹🇻",
+        "🇲🇲",
+        "🇸🇮"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Myanmar?",
+      "options": [
+        "🇨🇴",
+        "🇹🇻",
+        "🇲🇲",
+        "🇸🇮"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-NP",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇳🇵?",
+      "options": [
+        "Sri Lanka",
+        "Kiribati",
+        "Alemanha",
+        "Nepal"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇳🇵?",
+      "options": [
+        "Sri Lanka",
+        "Kiribati",
+        "Germany",
+        "Nepal"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-NP",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Nepal?",
+      "options": [
+        "🇩🇪",
+        "🇱🇰",
+        "🇰🇮",
+        "🇳🇵"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Nepal?",
+      "options": [
+        "🇩🇪",
+        "🇱🇰",
+        "🇰🇮",
+        "🇳🇵"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-KP",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇰🇵?",
+      "options": [
+        "Samoa",
+        "Argélia",
+        "Argentina",
+        "Coreia do Norte"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇰🇵?",
+      "options": [
+        "Samoa",
+        "Algeria",
+        "Argentina",
+        "North Korea"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-KP",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Coreia do Norte?",
+      "options": [
+        "🇩🇿",
+        "🇰🇵",
+        "🇦🇷",
+        "🇼🇸"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to North Korea?",
+      "options": [
+        "🇩🇿",
+        "🇰🇵",
+        "🇦🇷",
+        "🇼🇸"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-OM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇴🇲?",
+      "options": [
+        "Omã",
+        "Gâmbia",
+        "Camboja",
+        "Mongólia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇴🇲?",
+      "options": [
+        "Oman",
+        "Gambia",
+        "Cambodia",
+        "Mongolia"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-OM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Omã?",
+      "options": [
+        "🇰🇭",
+        "🇲🇳",
+        "🇬🇲",
+        "🇴🇲"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Oman?",
+      "options": [
+        "🇰🇭",
+        "🇲🇳",
+        "🇬🇲",
+        "🇴🇲"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-PK",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇵🇰?",
+      "options": [
+        "Coreia do Norte",
+        "Belize",
+        "Paquistão",
+        "Colômbia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇵🇰?",
+      "options": [
+        "North Korea",
+        "Belize",
+        "Pakistan",
+        "Colombia"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-PK",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Paquistão?",
+      "options": [
+        "🇰🇵",
+        "🇵🇰",
+        "🇨🇴",
+        "🇧🇿"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Pakistan?",
+      "options": [
+        "🇰🇵",
+        "🇵🇰",
+        "🇨🇴",
+        "🇧🇿"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-PS",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇵🇸?",
+      "options": [
+        "Papua-Nova Guiné",
+        "Palestina",
+        "Chile",
+        "República Democrática do Congo"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇵🇸?",
+      "options": [
+        "Papua New Guinea",
+        "Palestine",
+        "Chile",
+        "Democratic Republic of the Congo"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-PS",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Palestina?",
+      "options": [
+        "🇨🇩",
+        "🇵🇬",
+        "🇵🇸",
+        "🇨🇱"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Palestine?",
+      "options": [
+        "🇨🇩",
+        "🇵🇬",
+        "🇵🇸",
+        "🇨🇱"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-PH",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇵🇭?",
+      "options": [
+        "Filipinas",
+        "Bulgária",
+        "Guiné Equatorial",
+        "Granada"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇵🇭?",
+      "options": [
+        "Philippines",
+        "Bulgaria",
+        "Equatorial Guinea",
+        "Grenada"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-PH",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Filipinas?",
+      "options": [
+        "🇬🇶",
+        "🇬🇩",
+        "🇵🇭",
+        "🇧🇬"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Philippines?",
+      "options": [
+        "🇬🇶",
+        "🇬🇩",
+        "🇵🇭",
+        "🇧🇬"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-QA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇶🇦?",
+      "options": [
+        "Barbados",
+        "Catar",
+        "México",
+        "Canadá"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇶🇦?",
+      "options": [
+        "Barbados",
+        "Qatar",
+        "Mexico",
+        "Canada"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-QA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Catar?",
+      "options": [
+        "🇧🇧",
+        "🇶🇦",
+        "🇨🇦",
+        "🇲🇽"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Qatar?",
+      "options": [
+        "🇧🇧",
+        "🇶🇦",
+        "🇨🇦",
+        "🇲🇽"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-SA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇸🇦?",
+      "options": [
+        "Camboja",
+        "Sérvia",
+        "Itália",
+        "Arábia Saudita"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇸🇦?",
+      "options": [
+        "Cambodia",
+        "Serbia",
+        "Italy",
+        "Saudi Arabia"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-SA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Arábia Saudita?",
+      "options": [
+        "🇷🇸",
+        "🇸🇦",
+        "🇮🇹",
+        "🇰🇭"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Saudi Arabia?",
+      "options": [
+        "🇷🇸",
+        "🇸🇦",
+        "🇮🇹",
+        "🇰🇭"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-SG",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇸🇬?",
+      "options": [
+        "Singapura",
+        "Bósnia e Herzegovina",
+        "Indonésia",
+        "Canadá"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇸🇬?",
+      "options": [
+        "Singapore",
+        "Bosnia and Herzegovina",
+        "Indonesia",
+        "Canada"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-SG",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Singapura?",
+      "options": [
+        "🇸🇬",
+        "🇮🇩",
+        "🇨🇦",
+        "🇧🇦"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Singapore?",
+      "options": [
+        "🇸🇬",
+        "🇮🇩",
+        "🇨🇦",
+        "🇧🇦"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-KR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇰🇷?",
+      "options": [
+        "República Democrática do Congo",
+        "Coreia do Sul",
+        "Japão",
+        "Peru"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇰🇷?",
+      "options": [
+        "Democratic Republic of the Congo",
+        "South Korea",
+        "Japan",
+        "Peru"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-KR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Coreia do Sul?",
+      "options": [
+        "🇨🇩",
+        "🇯🇵",
+        "🇵🇪",
+        "🇰🇷"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to South Korea?",
+      "options": [
+        "🇨🇩",
+        "🇯🇵",
+        "🇵🇪",
+        "🇰🇷"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-LK",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇱🇰?",
+      "options": [
+        "Países Baixos",
+        "Sri Lanka",
+        "Micronésia",
+        "Papua-Nova Guiné"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇱🇰?",
+      "options": [
+        "Netherlands",
+        "Sri Lanka",
+        "Micronesia",
+        "Papua New Guinea"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-LK",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Sri Lanka?",
+      "options": [
+        "🇫🇲",
+        "🇵🇬",
+        "🇱🇰",
+        "🇳🇱"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Sri Lanka?",
+      "options": [
+        "🇫🇲",
+        "🇵🇬",
+        "🇱🇰",
+        "🇳🇱"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-SY",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇸🇾?",
+      "options": [
+        "Moçambique",
+        "Bolívia",
+        "Moldávia",
+        "Síria"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇸🇾?",
+      "options": [
+        "Mozambique",
+        "Bolivia",
+        "Moldova",
+        "Syria"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-SY",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Síria?",
+      "options": [
+        "🇲🇩",
+        "🇲🇿",
+        "🇧🇴",
+        "🇸🇾"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Syria?",
+      "options": [
+        "🇲🇩",
+        "🇲🇿",
+        "🇧🇴",
+        "🇸🇾"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-TJ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇹🇯?",
+      "options": [
+        "Granada",
+        "Iêmen",
+        "Tajiquistão",
+        "Ilhas Marshall"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇹🇯?",
+      "options": [
+        "Grenada",
+        "Yemen",
+        "Tajikistan",
+        "Marshall Islands"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-TJ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Tajiquistão?",
+      "options": [
+        "🇬🇩",
+        "🇲🇭",
+        "🇹🇯",
+        "🇾🇪"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Tajikistan?",
+      "options": [
+        "🇬🇩",
+        "🇲🇭",
+        "🇹🇯",
+        "🇾🇪"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-TH",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇹🇭?",
+      "options": [
+        "República Tcheca",
+        "Tailândia",
+        "Chile",
+        "Coreia do Norte"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇹🇭?",
+      "options": [
+        "Czech Republic",
+        "Thailand",
+        "Chile",
+        "North Korea"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-TH",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Tailândia?",
+      "options": [
+        "🇨🇿",
+        "🇰🇵",
+        "🇨🇱",
+        "🇹🇭"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Thailand?",
+      "options": [
+        "🇨🇿",
+        "🇰🇵",
+        "🇨🇱",
+        "🇹🇭"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-TL",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇹🇱?",
+      "options": [
+        "República Tcheca",
+        "Costa do Marfim",
+        "Iêmen",
+        "Timor-Leste"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇹🇱?",
+      "options": [
+        "Czech Republic",
+        "Ivory Coast",
+        "Yemen",
+        "Timor-Leste"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-TL",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Timor-Leste?",
+      "options": [
+        "🇨🇮",
+        "🇹🇱",
+        "🇨🇿",
+        "🇾🇪"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Timor-Leste?",
+      "options": [
+        "🇨🇮",
+        "🇹🇱",
+        "🇨🇿",
+        "🇾🇪"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-TR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇹🇷?",
+      "options": [
+        "Turquia",
+        "Senegal",
+        "México",
+        "Gabão"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇹🇷?",
+      "options": [
+        "Turkey",
+        "Senegal",
+        "Mexico",
+        "Gabon"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-TR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Turquia?",
+      "options": [
+        "🇸🇳",
+        "🇹🇷",
+        "🇬🇦",
+        "🇲🇽"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Turkey?",
+      "options": [
+        "🇸🇳",
+        "🇹🇷",
+        "🇬🇦",
+        "🇲🇽"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-TM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇹🇲?",
+      "options": [
+        "Turcomenistão",
+        "Mônaco",
+        "São Vicente e Granadinas",
+        "Camarões"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇹🇲?",
+      "options": [
+        "Turkmenistan",
+        "Monaco",
+        "Saint Vincent and the Grenadines",
+        "Cameroon"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-TM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Turcomenistão?",
+      "options": [
+        "🇹🇲",
+        "🇨🇲",
+        "🇲🇨",
+        "🇻🇨"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Turkmenistan?",
+      "options": [
+        "🇹🇲",
+        "🇨🇲",
+        "🇲🇨",
+        "🇻🇨"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-AE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇦🇪?",
+      "options": [
+        "Emirados Árabes Unidos",
+        "Mônaco",
+        "Fiji",
+        "China"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇦🇪?",
+      "options": [
+        "United Arab Emirates",
+        "Monaco",
+        "Fiji",
+        "China"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-AE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Emirados Árabes Unidos?",
+      "options": [
+        "🇲🇨",
+        "🇦🇪",
+        "🇨🇳",
+        "🇫🇯"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to United Arab Emirates?",
+      "options": [
+        "🇲🇨",
+        "🇦🇪",
+        "🇨🇳",
+        "🇫🇯"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-UZ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇺🇿?",
+      "options": [
+        "Bulgária",
+        "Turquia",
+        "Israel",
+        "Uzbequistão"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇺🇿?",
+      "options": [
+        "Bulgaria",
+        "Turkey",
+        "Israel",
+        "Uzbekistan"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-UZ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Uzbequistão?",
+      "options": [
+        "🇧🇬",
+        "🇺🇿",
+        "🇮🇱",
+        "🇹🇷"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Uzbekistan?",
+      "options": [
+        "🇧🇬",
+        "🇺🇿",
+        "🇮🇱",
+        "🇹🇷"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-VN",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇻🇳?",
+      "options": [
+        "Vietnã",
+        "China",
+        "Serra Leoa",
+        "Espanha"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇻🇳?",
+      "options": [
+        "Vietnam",
+        "China",
+        "Sierra Leone",
+        "Spain"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-VN",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Vietnã?",
+      "options": [
+        "🇸🇱",
+        "🇻🇳",
+        "🇪🇸",
+        "🇨🇳"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Vietnam?",
+      "options": [
+        "🇸🇱",
+        "🇻🇳",
+        "🇪🇸",
+        "🇨🇳"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-YE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇾🇪?",
+      "options": [
+        "Islândia",
+        "Liechtenstein",
+        "Iêmen",
+        "Tunísia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇾🇪?",
+      "options": [
+        "Iceland",
+        "Liechtenstein",
+        "Yemen",
+        "Tunisia"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-YE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Iêmen?",
+      "options": [
+        "🇹🇳",
+        "🇮🇸",
+        "🇾🇪",
+        "🇱🇮"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Yemen?",
+      "options": [
+        "🇹🇳",
+        "🇮🇸",
+        "🇾🇪",
+        "🇱🇮"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-AL",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇦🇱?",
+      "options": [
+        "Suíça",
+        "Albânia",
+        "Itália",
+        "Uganda"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇦🇱?",
+      "options": [
+        "Switzerland",
+        "Albania",
+        "Italy",
+        "Uganda"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-AL",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Albânia?",
+      "options": [
+        "🇦🇱",
+        "🇨🇭",
+        "🇮🇹",
+        "🇺🇬"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Albania?",
+      "options": [
+        "🇦🇱",
+        "🇨🇭",
+        "🇮🇹",
+        "🇺🇬"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-AD",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇦🇩?",
+      "options": [
+        "Hungria",
+        "Andorra",
+        "Uganda",
+        "República Tcheca"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇦🇩?",
+      "options": [
+        "Hungary",
+        "Andorra",
+        "Uganda",
+        "Czech Republic"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-AD",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Andorra?",
+      "options": [
+        "🇨🇿",
+        "🇦🇩",
+        "🇺🇬",
+        "🇭🇺"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Andorra?",
+      "options": [
+        "🇨🇿",
+        "🇦🇩",
+        "🇺🇬",
+        "🇭🇺"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-AT",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇦🇹?",
+      "options": [
+        "Camboja",
+        "Kuwait",
+        "Kiribati",
+        "Áustria"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇦🇹?",
+      "options": [
+        "Cambodia",
+        "Kuwait",
+        "Kiribati",
+        "Austria"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-AT",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Áustria?",
+      "options": [
+        "🇦🇹",
+        "🇰🇮",
+        "🇰🇼",
+        "🇰🇭"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Austria?",
+      "options": [
+        "🇦🇹",
+        "🇰🇮",
+        "🇰🇼",
+        "🇰🇭"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-BY",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇧🇾?",
+      "options": [
+        "Bielorrússia",
+        "Macedônia do Norte",
+        "República Tcheca",
+        "Eslováquia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇧🇾?",
+      "options": [
+        "Belarus",
+        "North Macedonia",
+        "Czech Republic",
+        "Slovakia"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-BY",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Bielorrússia?",
+      "options": [
+        "🇨🇿",
+        "🇲🇰",
+        "🇸🇰",
+        "🇧🇾"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Belarus?",
+      "options": [
+        "🇨🇿",
+        "🇲🇰",
+        "🇸🇰",
+        "🇧🇾"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-BE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇧🇪?",
+      "options": [
+        "Arábia Saudita",
+        "Lesoto",
+        "Bélgica",
+        "Jamaica"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇧🇪?",
+      "options": [
+        "Saudi Arabia",
+        "Lesotho",
+        "Belgium",
+        "Jamaica"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-BE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Bélgica?",
+      "options": [
+        "🇧🇪",
+        "🇱🇸",
+        "🇯🇲",
+        "🇸🇦"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Belgium?",
+      "options": [
+        "🇧🇪",
+        "🇱🇸",
+        "🇯🇲",
+        "🇸🇦"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-BA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇧🇦?",
+      "options": [
+        "República Democrática do Congo",
+        "México",
+        "Austrália",
+        "Bósnia e Herzegovina"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇧🇦?",
+      "options": [
+        "Democratic Republic of the Congo",
+        "Mexico",
+        "Australia",
+        "Bosnia and Herzegovina"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-BA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Bósnia e Herzegovina?",
+      "options": [
+        "🇲🇽",
+        "🇦🇺",
+        "🇨🇩",
+        "🇧🇦"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Bosnia and Herzegovina?",
+      "options": [
+        "🇲🇽",
+        "🇦🇺",
+        "🇨🇩",
+        "🇧🇦"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-BG",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇧🇬?",
+      "options": [
+        "Sudão",
+        "Bulgária",
+        "Moldávia",
+        "Montenegro"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇧🇬?",
+      "options": [
+        "Sudan",
+        "Bulgaria",
+        "Moldova",
+        "Montenegro"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-BG",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Bulgária?",
+      "options": [
+        "🇧🇬",
+        "🇸🇩",
+        "🇲🇪",
+        "🇲🇩"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Bulgaria?",
+      "options": [
+        "🇧🇬",
+        "🇸🇩",
+        "🇲🇪",
+        "🇲🇩"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-HR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇭🇷?",
+      "options": [
+        "São Vicente e Granadinas",
+        "Bangladesh",
+        "Croácia",
+        "Tunísia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇭🇷?",
+      "options": [
+        "Saint Vincent and the Grenadines",
+        "Bangladesh",
+        "Croatia",
+        "Tunisia"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-HR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Croácia?",
+      "options": [
+        "🇭🇷",
+        "🇧🇩",
+        "🇻🇨",
+        "🇹🇳"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Croatia?",
+      "options": [
+        "🇭🇷",
+        "🇧🇩",
+        "🇻🇨",
+        "🇹🇳"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-CZ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇨🇿?",
+      "options": [
+        "Hungria",
+        "República Tcheca",
+        "Gana",
+        "Liechtenstein"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇨🇿?",
+      "options": [
+        "Hungary",
+        "Czech Republic",
+        "Ghana",
+        "Liechtenstein"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-CZ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de República Tcheca?",
+      "options": [
+        "🇭🇺",
+        "🇨🇿",
+        "🇬🇭",
+        "🇱🇮"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Czech Republic?",
+      "options": [
+        "🇭🇺",
+        "🇨🇿",
+        "🇬🇭",
+        "🇱🇮"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-DK",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇩🇰?",
+      "options": [
+        "Albânia",
+        "Dinamarca",
+        "Mônaco",
+        "Singapura"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇩🇰?",
+      "options": [
+        "Albania",
+        "Denmark",
+        "Monaco",
+        "Singapore"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-DK",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Dinamarca?",
+      "options": [
+        "🇲🇨",
+        "🇩🇰",
+        "🇸🇬",
+        "🇦🇱"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Denmark?",
+      "options": [
+        "🇲🇨",
+        "🇩🇰",
+        "🇸🇬",
+        "🇦🇱"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-EE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇪🇪?",
+      "options": [
+        "Estônia",
+        "Israel",
+        "Espanha",
+        "Coreia do Sul"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇪🇪?",
+      "options": [
+        "Estonia",
+        "Israel",
+        "Spain",
+        "South Korea"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-EE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Estônia?",
+      "options": [
+        "🇮🇱",
+        "🇪🇸",
+        "🇪🇪",
+        "🇰🇷"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Estonia?",
+      "options": [
+        "🇮🇱",
+        "🇪🇸",
+        "🇪🇪",
+        "🇰🇷"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-FI",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇫🇮?",
+      "options": [
+        "Croácia",
+        "Sri Lanka",
+        "Samoa",
+        "Finlândia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇫🇮?",
+      "options": [
+        "Croatia",
+        "Sri Lanka",
+        "Samoa",
+        "Finland"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-FI",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Finlândia?",
+      "options": [
+        "🇫🇮",
+        "🇭🇷",
+        "🇱🇰",
+        "🇼🇸"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Finland?",
+      "options": [
+        "🇫🇮",
+        "🇭🇷",
+        "🇱🇰",
+        "🇼🇸"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-FR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇫🇷?",
+      "options": [
+        "República Dominicana",
+        "Afeganistão",
+        "Mianmar",
+        "França"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇫🇷?",
+      "options": [
+        "Dominican Republic",
+        "Afghanistan",
+        "Myanmar",
+        "France"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-FR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de França?",
+      "options": [
+        "🇩🇴",
+        "🇦🇫",
+        "🇫🇷",
+        "🇲🇲"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to France?",
+      "options": [
+        "🇩🇴",
+        "🇦🇫",
+        "🇫🇷",
+        "🇲🇲"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-DE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇩🇪?",
+      "options": [
+        "Alemanha",
+        "Islândia",
+        "Serra Leoa",
+        "Albânia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇩🇪?",
+      "options": [
+        "Germany",
+        "Iceland",
+        "Sierra Leone",
+        "Albania"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-DE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Alemanha?",
+      "options": [
+        "🇩🇪",
+        "🇮🇸",
+        "🇸🇱",
+        "🇦🇱"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Germany?",
+      "options": [
+        "🇩🇪",
+        "🇮🇸",
+        "🇸🇱",
+        "🇦🇱"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-GR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇬🇷?",
+      "options": [
+        "Santa Lúcia",
+        "Grécia",
+        "Fiji",
+        "Colômbia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇬🇷?",
+      "options": [
+        "Saint Lucia",
+        "Greece",
+        "Fiji",
+        "Colombia"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-GR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Grécia?",
+      "options": [
+        "🇬🇷",
+        "🇫🇯",
+        "🇨🇴",
+        "🇱🇨"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Greece?",
+      "options": [
+        "🇬🇷",
+        "🇫🇯",
+        "🇨🇴",
+        "🇱🇨"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-HU",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇭🇺?",
+      "options": [
+        "Coreia do Norte",
+        "Nova Zelândia",
+        "Hungria",
+        "Guiné-Bissau"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇭🇺?",
+      "options": [
+        "North Korea",
+        "New Zealand",
+        "Hungary",
+        "Guinea-Bissau"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-HU",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Hungria?",
+      "options": [
+        "🇬🇼",
+        "🇭🇺",
+        "🇰🇵",
+        "🇳🇿"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Hungary?",
+      "options": [
+        "🇬🇼",
+        "🇭🇺",
+        "🇰🇵",
+        "🇳🇿"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-IS",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇮🇸?",
+      "options": [
+        "Coreia do Norte",
+        "Malta",
+        "Burquina Faso",
+        "Islândia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇮🇸?",
+      "options": [
+        "North Korea",
+        "Malta",
+        "Burkina Faso",
+        "Iceland"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-IS",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Islândia?",
+      "options": [
+        "🇰🇵",
+        "🇲🇹",
+        "🇮🇸",
+        "🇧🇫"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Iceland?",
+      "options": [
+        "🇰🇵",
+        "🇲🇹",
+        "🇮🇸",
+        "🇧🇫"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-IE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇮🇪?",
+      "options": [
+        "Seicheles",
+        "Noruega",
+        "Rússia",
+        "Irlanda"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇮🇪?",
+      "options": [
+        "Seychelles",
+        "Norway",
+        "Russia",
+        "Ireland"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-IE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Irlanda?",
+      "options": [
+        "🇳🇴",
+        "🇮🇪",
+        "🇸🇨",
+        "🇷🇺"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Ireland?",
+      "options": [
+        "🇳🇴",
+        "🇮🇪",
+        "🇸🇨",
+        "🇷🇺"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-IT",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇮🇹?",
+      "options": [
+        "Ucrânia",
+        "Itália",
+        "Uruguai",
+        "Malawi"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇮🇹?",
+      "options": [
+        "Ukraine",
+        "Italy",
+        "Uruguay",
+        "Malawi"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-IT",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Itália?",
+      "options": [
+        "🇺🇦",
+        "🇺🇾",
+        "🇮🇹",
+        "🇲🇼"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Italy?",
+      "options": [
+        "🇺🇦",
+        "🇺🇾",
+        "🇮🇹",
+        "🇲🇼"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-XK",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇽🇰?",
+      "options": [
+        "Essuatíni",
+        "Croácia",
+        "Vietnã",
+        "Kosovo"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇽🇰?",
+      "options": [
+        "Eswatini",
+        "Croatia",
+        "Vietnam",
+        "Kosovo"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-XK",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Kosovo?",
+      "options": [
+        "🇻🇳",
+        "🇽🇰",
+        "🇸🇿",
+        "🇭🇷"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Kosovo?",
+      "options": [
+        "🇻🇳",
+        "🇽🇰",
+        "🇸🇿",
+        "🇭🇷"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-LV",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇱🇻?",
+      "options": [
+        "Quirguistão",
+        "Peru",
+        "Letônia",
+        "Afeganistão"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇱🇻?",
+      "options": [
+        "Kyrgyzstan",
+        "Peru",
+        "Latvia",
+        "Afghanistan"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-LV",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Letônia?",
+      "options": [
+        "🇰🇬",
+        "🇦🇫",
+        "🇵🇪",
+        "🇱🇻"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Latvia?",
+      "options": [
+        "🇰🇬",
+        "🇦🇫",
+        "🇵🇪",
+        "🇱🇻"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-LI",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇱🇮?",
+      "options": [
+        "Chipre",
+        "Liechtenstein",
+        "Líbia",
+        "Canadá"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇱🇮?",
+      "options": [
+        "Cyprus",
+        "Liechtenstein",
+        "Libya",
+        "Canada"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-LI",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Liechtenstein?",
+      "options": [
+        "🇨🇦",
+        "🇱🇾",
+        "🇨🇾",
+        "🇱🇮"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Liechtenstein?",
+      "options": [
+        "🇨🇦",
+        "🇱🇾",
+        "🇨🇾",
+        "🇱🇮"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-LT",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇱🇹?",
+      "options": [
+        "Lituânia",
+        "Argentina",
+        "Comores",
+        "Guiné Equatorial"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇱🇹?",
+      "options": [
+        "Lithuania",
+        "Argentina",
+        "Comoros",
+        "Equatorial Guinea"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-LT",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Lituânia?",
+      "options": [
+        "🇱🇹",
+        "🇰🇲",
+        "🇦🇷",
+        "🇬🇶"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Lithuania?",
+      "options": [
+        "🇱🇹",
+        "🇰🇲",
+        "🇦🇷",
+        "🇬🇶"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-LU",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇱🇺?",
+      "options": [
+        "Mônaco",
+        "Alemanha",
+        "Índia",
+        "Luxemburgo"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇱🇺?",
+      "options": [
+        "Monaco",
+        "Germany",
+        "India",
+        "Luxembourg"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-LU",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Luxemburgo?",
+      "options": [
+        "🇲🇨",
+        "🇩🇪",
+        "🇱🇺",
+        "🇮🇳"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Luxembourg?",
+      "options": [
+        "🇲🇨",
+        "🇩🇪",
+        "🇱🇺",
+        "🇮🇳"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-MT",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇲🇹?",
+      "options": [
+        "Moçambique",
+        "Austrália",
+        "Reino Unido",
+        "Malta"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇲🇹?",
+      "options": [
+        "Mozambique",
+        "Australia",
+        "United Kingdom",
+        "Malta"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-MT",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Malta?",
+      "options": [
+        "🇲🇹",
+        "🇦🇺",
+        "🇬🇧",
+        "🇲🇿"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Malta?",
+      "options": [
+        "🇲🇹",
+        "🇦🇺",
+        "🇬🇧",
+        "🇲🇿"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-MD",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇲🇩?",
+      "options": [
+        "Estônia",
+        "Fiji",
+        "República Dominicana",
+        "Moldávia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇲🇩?",
+      "options": [
+        "Estonia",
+        "Fiji",
+        "Dominican Republic",
+        "Moldova"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-MD",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Moldávia?",
+      "options": [
+        "🇪🇪",
+        "🇩🇴",
+        "🇲🇩",
+        "🇫🇯"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Moldova?",
+      "options": [
+        "🇪🇪",
+        "🇩🇴",
+        "🇲🇩",
+        "🇫🇯"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-MC",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇲🇨?",
+      "options": [
+        "Chile",
+        "Botsuana",
+        "República Democrática do Congo",
+        "Mônaco"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇲🇨?",
+      "options": [
+        "Chile",
+        "Botswana",
+        "Democratic Republic of the Congo",
+        "Monaco"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-MC",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Mônaco?",
+      "options": [
+        "🇨🇩",
+        "🇧🇼",
+        "🇲🇨",
+        "🇨🇱"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Monaco?",
+      "options": [
+        "🇨🇩",
+        "🇧🇼",
+        "🇲🇨",
+        "🇨🇱"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-ME",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇲🇪?",
+      "options": [
+        "Dinamarca",
+        "Brunei",
+        "Malawi",
+        "Montenegro"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇲🇪?",
+      "options": [
+        "Denmark",
+        "Brunei",
+        "Malawi",
+        "Montenegro"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-ME",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Montenegro?",
+      "options": [
+        "🇧🇳",
+        "🇲🇼",
+        "🇩🇰",
+        "🇲🇪"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Montenegro?",
+      "options": [
+        "🇧🇳",
+        "🇲🇼",
+        "🇩🇰",
+        "🇲🇪"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-NL",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇳🇱?",
+      "options": [
+        "Países Baixos",
+        "Lituânia",
+        "Papua-Nova Guiné",
+        "Chile"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇳🇱?",
+      "options": [
+        "Netherlands",
+        "Lithuania",
+        "Papua New Guinea",
+        "Chile"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-NL",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Países Baixos?",
+      "options": [
+        "🇨🇱",
+        "🇳🇱",
+        "🇱🇹",
+        "🇵🇬"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Netherlands?",
+      "options": [
+        "🇨🇱",
+        "🇳🇱",
+        "🇱🇹",
+        "🇵🇬"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-MK",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇲🇰?",
+      "options": [
+        "Palau",
+        "Nauru",
+        "Panamá",
+        "Macedônia do Norte"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇲🇰?",
+      "options": [
+        "Palau",
+        "Nauru",
+        "Panama",
+        "North Macedonia"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-MK",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Macedônia do Norte?",
+      "options": [
+        "🇳🇷",
+        "🇲🇰",
+        "🇵🇼",
+        "🇵🇦"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to North Macedonia?",
+      "options": [
+        "🇳🇷",
+        "🇲🇰",
+        "🇵🇼",
+        "🇵🇦"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-NO",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇳🇴?",
+      "options": [
+        "Noruega",
+        "Tailândia",
+        "Costa do Marfim",
+        "Finlândia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇳🇴?",
+      "options": [
+        "Norway",
+        "Thailand",
+        "Ivory Coast",
+        "Finland"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-NO",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Noruega?",
+      "options": [
+        "🇫🇮",
+        "🇹🇭",
+        "🇨🇮",
+        "🇳🇴"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Norway?",
+      "options": [
+        "🇫🇮",
+        "🇹🇭",
+        "🇨🇮",
+        "🇳🇴"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-PL",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇵🇱?",
+      "options": [
+        "Gabão",
+        "Bolívia",
+        "Polônia",
+        "El Salvador"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇵🇱?",
+      "options": [
+        "Gabon",
+        "Bolivia",
+        "Poland",
+        "El Salvador"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-PL",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Polônia?",
+      "options": [
+        "🇬🇦",
+        "🇧🇴",
+        "🇵🇱",
+        "🇸🇻"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Poland?",
+      "options": [
+        "🇬🇦",
+        "🇧🇴",
+        "🇵🇱",
+        "🇸🇻"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-PT",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇵🇹?",
+      "options": [
+        "Guiné-Bissau",
+        "Portugal",
+        "Espanha",
+        "São Tomé e Príncipe"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇵🇹?",
+      "options": [
+        "Guinea-Bissau",
+        "Portugal",
+        "Spain",
+        "Sao Tome and Principe"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-PT",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Portugal?",
+      "options": [
+        "🇸🇹",
+        "🇵🇹",
+        "🇪🇸",
+        "🇬🇼"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Portugal?",
+      "options": [
+        "🇸🇹",
+        "🇵🇹",
+        "🇪🇸",
+        "🇬🇼"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-RO",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇷🇴?",
+      "options": [
+        "Bósnia e Herzegovina",
+        "Ilhas Salomão",
+        "Romênia",
+        "Mianmar"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇷🇴?",
+      "options": [
+        "Bosnia and Herzegovina",
+        "Solomon Islands",
+        "Romania",
+        "Myanmar"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-RO",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Romênia?",
+      "options": [
+        "🇲🇲",
+        "🇧🇦",
+        "🇸🇧",
+        "🇷🇴"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Romania?",
+      "options": [
+        "🇲🇲",
+        "🇧🇦",
+        "🇸🇧",
+        "🇷🇴"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-RU",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇷🇺?",
+      "options": [
+        "Rússia",
+        "Eritreia",
+        "Burundi",
+        "Gabão"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇷🇺?",
+      "options": [
+        "Russia",
+        "Eritrea",
+        "Burundi",
+        "Gabon"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-RU",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Rússia?",
+      "options": [
+        "🇧🇮",
+        "🇪🇷",
+        "🇷🇺",
+        "🇬🇦"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Russia?",
+      "options": [
+        "🇧🇮",
+        "🇪🇷",
+        "🇷🇺",
+        "🇬🇦"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-SM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇸🇲?",
+      "options": [
+        "San Marino",
+        "Armênia",
+        "Antígua e Barbuda",
+        "Somália"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇸🇲?",
+      "options": [
+        "San Marino",
+        "Armenia",
+        "Antigua and Barbuda",
+        "Somalia"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-SM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de San Marino?",
+      "options": [
+        "🇸🇴",
+        "🇦🇲",
+        "🇸🇲",
+        "🇦🇬"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to San Marino?",
+      "options": [
+        "🇸🇴",
+        "🇦🇲",
+        "🇸🇲",
+        "🇦🇬"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-RS",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇷🇸?",
+      "options": [
+        "Uganda",
+        "Sérvia",
+        "Cazaquistão",
+        "Moçambique"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇷🇸?",
+      "options": [
+        "Uganda",
+        "Serbia",
+        "Kazakhstan",
+        "Mozambique"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-RS",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Sérvia?",
+      "options": [
+        "🇷🇸",
+        "🇲🇿",
+        "🇰🇿",
+        "🇺🇬"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Serbia?",
+      "options": [
+        "🇷🇸",
+        "🇲🇿",
+        "🇰🇿",
+        "🇺🇬"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-SK",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇸🇰?",
+      "options": [
+        "Eslováquia",
+        "Camarões",
+        "Guatemala",
+        "Egito"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇸🇰?",
+      "options": [
+        "Slovakia",
+        "Cameroon",
+        "Guatemala",
+        "Egypt"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-SK",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Eslováquia?",
+      "options": [
+        "🇪🇬",
+        "🇬🇹",
+        "🇸🇰",
+        "🇨🇲"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Slovakia?",
+      "options": [
+        "🇪🇬",
+        "🇬🇹",
+        "🇸🇰",
+        "🇨🇲"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-SI",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇸🇮?",
+      "options": [
+        "Brasil",
+        "Eslovênia",
+        "São Cristóvão e Névis",
+        "Grécia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇸🇮?",
+      "options": [
+        "Brazil",
+        "Slovenia",
+        "Saint Kitts and Nevis",
+        "Greece"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-SI",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Eslovênia?",
+      "options": [
+        "🇧🇷",
+        "🇸🇮",
+        "🇰🇳",
+        "🇬🇷"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Slovenia?",
+      "options": [
+        "🇧🇷",
+        "🇸🇮",
+        "🇰🇳",
+        "🇬🇷"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-ES",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇪🇸?",
+      "options": [
+        "Uzbequistão",
+        "Catar",
+        "Burundi",
+        "Espanha"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇪🇸?",
+      "options": [
+        "Uzbekistan",
+        "Qatar",
+        "Burundi",
+        "Spain"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-ES",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Espanha?",
+      "options": [
+        "🇺🇿",
+        "🇪🇸",
+        "🇶🇦",
+        "🇧🇮"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Spain?",
+      "options": [
+        "🇺🇿",
+        "🇪🇸",
+        "🇶🇦",
+        "🇧🇮"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-SE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇸🇪?",
+      "options": [
+        "Estados Unidos",
+        "Suécia",
+        "Alemanha",
+        "Quênia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇸🇪?",
+      "options": [
+        "United States",
+        "Sweden",
+        "Germany",
+        "Kenya"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-SE",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Suécia?",
+      "options": [
+        "🇸🇪",
+        "🇺🇸",
+        "🇰🇪",
+        "🇩🇪"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Sweden?",
+      "options": [
+        "🇸🇪",
+        "🇺🇸",
+        "🇰🇪",
+        "🇩🇪"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-CH",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇨🇭?",
+      "options": [
+        "Jamaica",
+        "Espanha",
+        "Suíça",
+        "Nova Zelândia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇨🇭?",
+      "options": [
+        "Jamaica",
+        "Spain",
+        "Switzerland",
+        "New Zealand"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-CH",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Suíça?",
+      "options": [
+        "🇳🇿",
+        "🇨🇭",
+        "🇪🇸",
+        "🇯🇲"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Switzerland?",
+      "options": [
+        "🇳🇿",
+        "🇨🇭",
+        "🇪🇸",
+        "🇯🇲"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-UA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇺🇦?",
+      "options": [
+        "Moldávia",
+        "São Cristóvão e Névis",
+        "Seicheles",
+        "Ucrânia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇺🇦?",
+      "options": [
+        "Moldova",
+        "Saint Kitts and Nevis",
+        "Seychelles",
+        "Ukraine"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-UA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Ucrânia?",
+      "options": [
+        "🇸🇨",
+        "🇰🇳",
+        "🇺🇦",
+        "🇲🇩"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Ukraine?",
+      "options": [
+        "🇸🇨",
+        "🇰🇳",
+        "🇺🇦",
+        "🇲🇩"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-GB",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇬🇧?",
+      "options": [
+        "Reino Unido",
+        "Cazaquistão",
+        "Nova Zelândia",
+        "Seicheles"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇬🇧?",
+      "options": [
+        "United Kingdom",
+        "Kazakhstan",
+        "New Zealand",
+        "Seychelles"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-GB",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Reino Unido?",
+      "options": [
+        "🇬🇧",
+        "🇳🇿",
+        "🇸🇨",
+        "🇰🇿"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to United Kingdom?",
+      "options": [
+        "🇬🇧",
+        "🇳🇿",
+        "🇸🇨",
+        "🇰🇿"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-VA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇻🇦?",
+      "options": [
+        "Etiópia",
+        "Vaticano",
+        "Uruguai",
+        "Lesoto"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇻🇦?",
+      "options": [
+        "Ethiopia",
+        "Vatican City",
+        "Uruguay",
+        "Lesotho"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-b-VA",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Vaticano?",
+      "options": [
+        "🇱🇸",
+        "🇺🇾",
+        "🇪🇹",
+        "🇻🇦"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Vatican City?",
+      "options": [
+        "🇱🇸",
+        "🇺🇾",
+        "🇪🇹",
+        "🇻🇦"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-AU",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇦🇺?",
+      "options": [
+        "Austrália",
+        "Suriname",
+        "Zâmbia",
+        "Quênia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇦🇺?",
+      "options": [
+        "Australia",
+        "Suriname",
+        "Zambia",
+        "Kenya"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-AU",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Austrália?",
+      "options": [
+        "🇿🇲",
+        "🇦🇺",
+        "🇰🇪",
+        "🇸🇷"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Australia?",
+      "options": [
+        "🇿🇲",
+        "🇦🇺",
+        "🇰🇪",
+        "🇸🇷"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-FJ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇫🇯?",
+      "options": [
+        "Costa do Marfim",
+        "Cabo Verde",
+        "Fiji",
+        "Uganda"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇫🇯?",
+      "options": [
+        "Ivory Coast",
+        "Cabo Verde",
+        "Fiji",
+        "Uganda"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-FJ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Fiji?",
+      "options": [
+        "🇨🇮",
+        "🇨🇻",
+        "🇺🇬",
+        "🇫🇯"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Fiji?",
+      "options": [
+        "🇨🇮",
+        "🇨🇻",
+        "🇺🇬",
+        "🇫🇯"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-KI",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇰🇮?",
+      "options": [
+        "Butão",
+        "China",
+        "Kiribati",
+        "Sudão"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇰🇮?",
+      "options": [
+        "Bhutan",
+        "China",
+        "Kiribati",
+        "Sudan"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-KI",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Kiribati?",
+      "options": [
+        "🇰🇮",
+        "🇧🇹",
+        "🇨🇳",
+        "🇸🇩"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Kiribati?",
+      "options": [
+        "🇰🇮",
+        "🇧🇹",
+        "🇨🇳",
+        "🇸🇩"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-MH",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇲🇭?",
+      "options": [
+        "Ilhas Marshall",
+        "Bélgica",
+        "Guiné Equatorial",
+        "Geórgia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇲🇭?",
+      "options": [
+        "Marshall Islands",
+        "Belgium",
+        "Equatorial Guinea",
+        "Georgia"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-MH",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Ilhas Marshall?",
+      "options": [
+        "🇲🇭",
+        "🇬🇶",
+        "🇬🇪",
+        "🇧🇪"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Marshall Islands?",
+      "options": [
+        "🇲🇭",
+        "🇬🇶",
+        "🇬🇪",
+        "🇧🇪"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-FM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇫🇲?",
+      "options": [
+        "Mauritânia",
+        "Togo",
+        "Micronésia",
+        "Comores"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇫🇲?",
+      "options": [
+        "Mauritania",
+        "Togo",
+        "Micronesia",
+        "Comoros"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-FM",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Micronésia?",
+      "options": [
+        "🇰🇲",
+        "🇫🇲",
+        "🇲🇷",
+        "🇹🇬"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Micronesia?",
+      "options": [
+        "🇰🇲",
+        "🇫🇲",
+        "🇲🇷",
+        "🇹🇬"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-NR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇳🇷?",
+      "options": [
+        "Ucrânia",
+        "Botsuana",
+        "Nauru",
+        "Lituânia"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇳🇷?",
+      "options": [
+        "Ukraine",
+        "Botswana",
+        "Nauru",
+        "Lithuania"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-NR",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Nauru?",
+      "options": [
+        "🇱🇹",
+        "🇺🇦",
+        "🇳🇷",
+        "🇧🇼"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Nauru?",
+      "options": [
+        "🇱🇹",
+        "🇺🇦",
+        "🇳🇷",
+        "🇧🇼"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-a-NZ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇳🇿?",
+      "options": [
+        "Somália",
+        "Chade",
+        "Nova Zelândia",
+        "Granada"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇳🇿?",
+      "options": [
+        "Somalia",
+        "Chad",
+        "New Zealand",
+        "Grenada"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-NZ",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Nova Zelândia?",
+      "options": [
+        "🇬🇩",
+        "🇸🇴",
+        "🇹🇩",
+        "🇳🇿"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to New Zealand?",
+      "options": [
+        "🇬🇩",
+        "🇸🇴",
+        "🇹🇩",
+        "🇳🇿"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-a-PW",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇵🇼?",
+      "options": [
+        "Eslovênia",
+        "Quênia",
+        "Palau",
+        "Suíça"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇵🇼?",
+      "options": [
+        "Slovenia",
+        "Kenya",
+        "Palau",
+        "Switzerland"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-PW",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Palau?",
+      "options": [
+        "🇵🇼",
+        "🇸🇮",
+        "🇨🇭",
+        "🇰🇪"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Palau?",
+      "options": [
+        "🇵🇼",
+        "🇸🇮",
+        "🇨🇭",
+        "🇰🇪"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-PG",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇵🇬?",
+      "options": [
+        "São Tomé e Príncipe",
+        "Turquia",
+        "Egito",
+        "Papua-Nova Guiné"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇵🇬?",
+      "options": [
+        "Sao Tome and Principe",
+        "Turkey",
+        "Egypt",
+        "Papua New Guinea"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-PG",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Papua-Nova Guiné?",
+      "options": [
+        "🇸🇹",
+        "🇵🇬",
+        "🇹🇷",
+        "🇪🇬"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Papua New Guinea?",
+      "options": [
+        "🇸🇹",
+        "🇵🇬",
+        "🇹🇷",
+        "🇪🇬"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "flag-a-WS",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇼🇸?",
+      "options": [
+        "Omã",
+        "Indonésia",
+        "Tailândia",
+        "Samoa"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇼🇸?",
+      "options": [
+        "Oman",
+        "Indonesia",
+        "Thailand",
+        "Samoa"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-WS",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Samoa?",
+      "options": [
+        "🇼🇸",
+        "🇹🇭",
+        "🇮🇩",
+        "🇴🇲"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Samoa?",
+      "options": [
+        "🇼🇸",
+        "🇹🇭",
+        "🇮🇩",
+        "🇴🇲"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-SB",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇸🇧?",
+      "options": [
+        "Senegal",
+        "República do Congo",
+        "Ilhas Salomão",
+        "Chipre"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇸🇧?",
+      "options": [
+        "Senegal",
+        "Republic of the Congo",
+        "Solomon Islands",
+        "Cyprus"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-SB",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Ilhas Salomão?",
+      "options": [
+        "🇸🇧",
+        "🇨🇬",
+        "🇸🇳",
+        "🇨🇾"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Solomon Islands?",
+      "options": [
+        "🇸🇧",
+        "🇨🇬",
+        "🇸🇳",
+        "🇨🇾"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-TO",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇹🇴?",
+      "options": [
+        "Tonga",
+        "Austrália",
+        "Itália",
+        "Panamá"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇹🇴?",
+      "options": [
+        "Tonga",
+        "Australia",
+        "Italy",
+        "Panama"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-b-TO",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Tonga?",
+      "options": [
+        "🇹🇴",
+        "🇦🇺",
+        "🇮🇹",
+        "🇵🇦"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Tonga?",
+      "options": [
+        "🇹🇴",
+        "🇦🇺",
+        "🇮🇹",
+        "🇵🇦"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-TV",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇹🇻?",
+      "options": [
+        "Eslovênia",
+        "México",
+        "Tuvalu",
+        "Libéria"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇹🇻?",
+      "options": [
+        "Slovenia",
+        "Mexico",
+        "Tuvalu",
+        "Liberia"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "flag-b-TV",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Tuvalu?",
+      "options": [
+        "🇹🇻",
+        "🇲🇽",
+        "🇱🇷",
+        "🇸🇮"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Tuvalu?",
+      "options": [
+        "🇹🇻",
+        "🇲🇽",
+        "🇱🇷",
+        "🇸🇮"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "flag-a-VU",
+    "category": "bandeiras",
+    "pt": {
+      "question": "De qual país é esta bandeira: 🇻🇺?",
+      "options": [
+        "Kiribati",
+        "Eslováquia",
+        "Moçambique",
+        "Vanuatu"
+      ]
+    },
+    "en": {
+      "question": "Which country does this flag belong to: 🇻🇺?",
+      "options": [
+        "Kiribati",
+        "Slovakia",
+        "Mozambique",
+        "Vanuatu"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "flag-b-VU",
+    "category": "bandeiras",
+    "pt": {
+      "question": "Qual é a bandeira de Vanuatu?",
+      "options": [
+        "🇻🇺",
+        "🇰🇮",
+        "🇸🇰",
+        "🇲🇿"
+      ]
+    },
+    "en": {
+      "question": "Which flag belongs to Vanuatu?",
+      "options": [
+        "🇻🇺",
+        "🇰🇮",
+        "🇸🇰",
+        "🇲🇿"
+      ]
+    },
+    "answer": 0
+  }
+]

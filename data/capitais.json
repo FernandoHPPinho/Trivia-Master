@@ -1,0 +1,9018 @@
+[
+  {
+    "id": "cap-a-DZ",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Argélia?",
+      "options": [
+        "Minsk",
+        "Bratislava",
+        "Port Moresby",
+        "Argel"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Algeria?",
+      "options": [
+        "Minsk",
+        "Bratislava",
+        "Port Moresby",
+        "Algiers"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-DZ",
+    "category": "capitais",
+    "pt": {
+      "question": "Argel é a capital de qual país?",
+      "options": [
+        "Costa do Marfim",
+        "República Centro-Africana",
+        "Argélia",
+        "Chade"
+      ]
+    },
+    "en": {
+      "question": "Algiers is the capital of which country?",
+      "options": [
+        "Ivory Coast",
+        "Central African Republic",
+        "Algeria",
+        "Chad"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-AO",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Angola?",
+      "options": [
+        "Kiev",
+        "Caracas",
+        "Luanda",
+        "Bisqueque"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Angola?",
+      "options": [
+        "Kyiv",
+        "Caracas",
+        "Luanda",
+        "Bishkek"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-AO",
+    "category": "capitais",
+    "pt": {
+      "question": "Luanda é a capital de qual país?",
+      "options": [
+        "Libéria",
+        "Uruguai",
+        "Angola",
+        "Costa do Marfim"
+      ]
+    },
+    "en": {
+      "question": "Luanda is the capital of which country?",
+      "options": [
+        "Liberia",
+        "Uruguay",
+        "Angola",
+        "Ivory Coast"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-BJ",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Benin?",
+      "options": [
+        "Sarajevo",
+        "Porto-Novo",
+        "Valeta",
+        "Cidade do México"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Benin?",
+      "options": [
+        "Sarajevo",
+        "Porto-Novo",
+        "Valletta",
+        "Mexico City"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-BJ",
+    "category": "capitais",
+    "pt": {
+      "question": "Porto-Novo é a capital de qual país?",
+      "options": [
+        "Etiópia",
+        "Benin",
+        "República do Congo",
+        "Vaticano"
+      ]
+    },
+    "en": {
+      "question": "Porto-Novo is the capital of which country?",
+      "options": [
+        "Ethiopia",
+        "Benin",
+        "Republic of the Congo",
+        "Vatican City"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-BW",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Botsuana?",
+      "options": [
+        "Saint John's",
+        "San Salvador",
+        "San Marino",
+        "Gaborone"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Botswana?",
+      "options": [
+        "Saint John's",
+        "San Salvador",
+        "San Marino",
+        "Gaborone"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-BW",
+    "category": "capitais",
+    "pt": {
+      "question": "Gaborone é a capital de qual país?",
+      "options": [
+        "Botsuana",
+        "Nauru",
+        "Colômbia",
+        "Albânia"
+      ]
+    },
+    "en": {
+      "question": "Gaborone is the capital of which country?",
+      "options": [
+        "Botswana",
+        "Nauru",
+        "Colombia",
+        "Albania"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-BF",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Burquina Faso?",
+      "options": [
+        "Bagdá",
+        "Basseterre",
+        "San Salvador",
+        "Uagadugu"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Burkina Faso?",
+      "options": [
+        "Baghdad",
+        "Basseterre",
+        "San Salvador",
+        "Ouagadougou"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-BF",
+    "category": "capitais",
+    "pt": {
+      "question": "Uagadugu é a capital de qual país?",
+      "options": [
+        "Burquina Faso",
+        "Argentina",
+        "Polônia",
+        "Tajiquistão"
+      ]
+    },
+    "en": {
+      "question": "Ouagadougou is the capital of which country?",
+      "options": [
+        "Burkina Faso",
+        "Argentina",
+        "Poland",
+        "Tajikistan"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-BI",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Burundi?",
+      "options": [
+        "Daca",
+        "Bridgetown",
+        "Gitega",
+        "Windhoek"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Burundi?",
+      "options": [
+        "Dhaka",
+        "Bridgetown",
+        "Gitega",
+        "Windhoek"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-BI",
+    "category": "capitais",
+    "pt": {
+      "question": "Gitega é a capital de qual país?",
+      "options": [
+        "Burundi",
+        "Malta",
+        "São Tomé e Príncipe",
+        "Madagascar"
+      ]
+    },
+    "en": {
+      "question": "Gitega is the capital of which country?",
+      "options": [
+        "Burundi",
+        "Malta",
+        "Sao Tome and Principe",
+        "Madagascar"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-CV",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Cabo Verde?",
+      "options": [
+        "Praia",
+        "Liubliana",
+        "Lilongwe",
+        "Majuro"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Cabo Verde?",
+      "options": [
+        "Praia",
+        "Ljubljana",
+        "Lilongwe",
+        "Majuro"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-CV",
+    "category": "capitais",
+    "pt": {
+      "question": "Praia é a capital de qual país?",
+      "options": [
+        "México",
+        "Cabo Verde",
+        "Malásia",
+        "Madagascar"
+      ]
+    },
+    "en": {
+      "question": "Praia is the capital of which country?",
+      "options": [
+        "Mexico",
+        "Cabo Verde",
+        "Malaysia",
+        "Madagascar"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-CM",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Camarões?",
+      "options": [
+        "Victoria",
+        "São Tomé",
+        "Phnom Penh",
+        "Iaundé"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Cameroon?",
+      "options": [
+        "Victoria",
+        "São Tomé",
+        "Phnom Penh",
+        "Yaoundé"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-CM",
+    "category": "capitais",
+    "pt": {
+      "question": "Iaundé é a capital de qual país?",
+      "options": [
+        "Madagascar",
+        "Camarões",
+        "Sri Lanka",
+        "Burquina Faso"
+      ]
+    },
+    "en": {
+      "question": "Yaoundé is the capital of which country?",
+      "options": [
+        "Madagascar",
+        "Cameroon",
+        "Sri Lanka",
+        "Burkina Faso"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-CF",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de República Centro-Africana?",
+      "options": [
+        "Bangui",
+        "Lisboa",
+        "Doha",
+        "Port Louis"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Central African Republic?",
+      "options": [
+        "Bangui",
+        "Lisbon",
+        "Doha",
+        "Port Louis"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-CF",
+    "category": "capitais",
+    "pt": {
+      "question": "Bangui é a capital de qual país?",
+      "options": [
+        "República Centro-Africana",
+        "Tuvalu",
+        "Áustria",
+        "Argentina"
+      ]
+    },
+    "en": {
+      "question": "Bangui is the capital of which country?",
+      "options": [
+        "Central African Republic",
+        "Tuvalu",
+        "Austria",
+        "Argentina"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-TD",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Chade?",
+      "options": [
+        "Gitega",
+        "Ndjamena",
+        "Montevidéu",
+        "Mbabane"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Chad?",
+      "options": [
+        "Gitega",
+        "N'Djamena",
+        "Montevideo",
+        "Mbabane"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-TD",
+    "category": "capitais",
+    "pt": {
+      "question": "Ndjamena é a capital de qual país?",
+      "options": [
+        "Angola",
+        "Gabão",
+        "Austrália",
+        "Chade"
+      ]
+    },
+    "en": {
+      "question": "N'Djamena is the capital of which country?",
+      "options": [
+        "Angola",
+        "Gabon",
+        "Australia",
+        "Chad"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-KM",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Comores?",
+      "options": [
+        "Tallinn",
+        "Palikir",
+        "Moroni",
+        "Helsinque"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Comoros?",
+      "options": [
+        "Tallinn",
+        "Palikir",
+        "Moroni",
+        "Helsinki"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-KM",
+    "category": "capitais",
+    "pt": {
+      "question": "Moroni é a capital de qual país?",
+      "options": [
+        "Quênia",
+        "Japão",
+        "Togo",
+        "Comores"
+      ]
+    },
+    "en": {
+      "question": "Moroni is the capital of which country?",
+      "options": [
+        "Kenya",
+        "Japan",
+        "Togo",
+        "Comoros"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-CD",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de República Democrática do Congo?",
+      "options": [
+        "Trípoli",
+        "Montevidéu",
+        "Kinshasa",
+        "Yaren"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Democratic Republic of the Congo?",
+      "options": [
+        "Tripoli",
+        "Montevideo",
+        "Kinshasa",
+        "Yaren"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-CD",
+    "category": "capitais",
+    "pt": {
+      "question": "Kinshasa é a capital de qual país?",
+      "options": [
+        "Mianmar",
+        "Andorra",
+        "República Democrática do Congo",
+        "Namíbia"
+      ]
+    },
+    "en": {
+      "question": "Kinshasa is the capital of which country?",
+      "options": [
+        "Myanmar",
+        "Andorra",
+        "Democratic Republic of the Congo",
+        "Namibia"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-CG",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de República do Congo?",
+      "options": [
+        "Brazzaville",
+        "Nuku'alofa",
+        "Ottawa",
+        "Iamussucro"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Republic of the Congo?",
+      "options": [
+        "Brazzaville",
+        "Nuku'alofa",
+        "Ottawa",
+        "Yamoussoukro"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-CG",
+    "category": "capitais",
+    "pt": {
+      "question": "Brazzaville é a capital de qual país?",
+      "options": [
+        "Argentina",
+        "Singapura",
+        "Iraque",
+        "República do Congo"
+      ]
+    },
+    "en": {
+      "question": "Brazzaville is the capital of which country?",
+      "options": [
+        "Argentina",
+        "Singapore",
+        "Iraq",
+        "Republic of the Congo"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-DJ",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Djibuti?",
+      "options": [
+        "Malabo",
+        "Cidade do México",
+        "Nassau",
+        "Djibuti"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Djibouti?",
+      "options": [
+        "Malabo",
+        "Mexico City",
+        "Nassau",
+        "Djibouti"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-DJ",
+    "category": "capitais",
+    "pt": {
+      "question": "Djibuti é a capital de qual país?",
+      "options": [
+        "Guiné Equatorial",
+        "Djibuti",
+        "República do Congo",
+        "Alemanha"
+      ]
+    },
+    "en": {
+      "question": "Djibouti is the capital of which country?",
+      "options": [
+        "Equatorial Guinea",
+        "Djibouti",
+        "Republic of the Congo",
+        "Germany"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-EG",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Egito?",
+      "options": [
+        "Copenhague",
+        "Paris",
+        "San José",
+        "Cairo"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Egypt?",
+      "options": [
+        "Copenhagen",
+        "Paris",
+        "San José",
+        "Cairo"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-EG",
+    "category": "capitais",
+    "pt": {
+      "question": "Cairo é a capital de qual país?",
+      "options": [
+        "Alemanha",
+        "Egito",
+        "Kuwait",
+        "Portugal"
+      ]
+    },
+    "en": {
+      "question": "Cairo is the capital of which country?",
+      "options": [
+        "Germany",
+        "Egypt",
+        "Kuwait",
+        "Portugal"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-GQ",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Guiné Equatorial?",
+      "options": [
+        "Basseterre",
+        "Mascate",
+        "Nuku'alofa",
+        "Malabo"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Equatorial Guinea?",
+      "options": [
+        "Basseterre",
+        "Muscat",
+        "Nuku'alofa",
+        "Malabo"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-GQ",
+    "category": "capitais",
+    "pt": {
+      "question": "Malabo é a capital de qual país?",
+      "options": [
+        "Luxemburgo",
+        "Lesoto",
+        "República Tcheca",
+        "Guiné Equatorial"
+      ]
+    },
+    "en": {
+      "question": "Malabo is the capital of which country?",
+      "options": [
+        "Luxembourg",
+        "Lesotho",
+        "Czech Republic",
+        "Equatorial Guinea"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-ER",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Eritreia?",
+      "options": [
+        "Malé",
+        "Asmara",
+        "Cidade do Vaticano",
+        "Minsk"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Eritrea?",
+      "options": [
+        "Malé",
+        "Asmara",
+        "Vatican City",
+        "Minsk"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-ER",
+    "category": "capitais",
+    "pt": {
+      "question": "Asmara é a capital de qual país?",
+      "options": [
+        "Bósnia e Herzegovina",
+        "Rússia",
+        "Nicarágua",
+        "Eritreia"
+      ]
+    },
+    "en": {
+      "question": "Asmara is the capital of which country?",
+      "options": [
+        "Bosnia and Herzegovina",
+        "Russia",
+        "Nicaragua",
+        "Eritrea"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-SZ",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Essuatíni?",
+      "options": [
+        "Mbabane",
+        "Harare",
+        "Mônaco",
+        "Madri"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Eswatini?",
+      "options": [
+        "Mbabane",
+        "Harare",
+        "Monaco",
+        "Madrid"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-SZ",
+    "category": "capitais",
+    "pt": {
+      "question": "Mbabane é a capital de qual país?",
+      "options": [
+        "Djibuti",
+        "Essuatíni",
+        "Cuba",
+        "Costa do Marfim"
+      ]
+    },
+    "en": {
+      "question": "Mbabane is the capital of which country?",
+      "options": [
+        "Djibouti",
+        "Eswatini",
+        "Cuba",
+        "Ivory Coast"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-ET",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Etiópia?",
+      "options": [
+        "Estocolmo",
+        "Adis Abeba",
+        "Banjul",
+        "Antananarivo"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Ethiopia?",
+      "options": [
+        "Stockholm",
+        "Addis Ababa",
+        "Banjul",
+        "Antananarivo"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-ET",
+    "category": "capitais",
+    "pt": {
+      "question": "Adis Abeba é a capital de qual país?",
+      "options": [
+        "Alemanha",
+        "Etiópia",
+        "Bósnia e Herzegovina",
+        "Brunei"
+      ]
+    },
+    "en": {
+      "question": "Addis Ababa is the capital of which country?",
+      "options": [
+        "Germany",
+        "Ethiopia",
+        "Bosnia and Herzegovina",
+        "Brunei"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-GA",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Gabão?",
+      "options": [
+        "Tóquio",
+        "Zagreb",
+        "Libreville",
+        "Baku"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Gabon?",
+      "options": [
+        "Tokyo",
+        "Zagreb",
+        "Libreville",
+        "Baku"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-GA",
+    "category": "capitais",
+    "pt": {
+      "question": "Libreville é a capital de qual país?",
+      "options": [
+        "Gabão",
+        "Cabo Verde",
+        "Jordânia",
+        "Sudão do Sul"
+      ]
+    },
+    "en": {
+      "question": "Libreville is the capital of which country?",
+      "options": [
+        "Gabon",
+        "Cabo Verde",
+        "Jordan",
+        "South Sudan"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-GM",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Gâmbia?",
+      "options": [
+        "Banjul",
+        "Bridgetown",
+        "Manila",
+        "Lusaka"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Gambia?",
+      "options": [
+        "Banjul",
+        "Bridgetown",
+        "Manila",
+        "Lusaka"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-GM",
+    "category": "capitais",
+    "pt": {
+      "question": "Banjul é a capital de qual país?",
+      "options": [
+        "Gâmbia",
+        "Belize",
+        "Cabo Verde",
+        "Bolívia"
+      ]
+    },
+    "en": {
+      "question": "Banjul is the capital of which country?",
+      "options": [
+        "Gambia",
+        "Belize",
+        "Cabo Verde",
+        "Bolivia"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-GH",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Gana?",
+      "options": [
+        "Paris",
+        "Juba",
+        "Quito",
+        "Acra"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Ghana?",
+      "options": [
+        "Paris",
+        "Juba",
+        "Quito",
+        "Accra"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-GH",
+    "category": "capitais",
+    "pt": {
+      "question": "Acra é a capital de qual país?",
+      "options": [
+        "Afeganistão",
+        "Gana",
+        "Nauru",
+        "São Cristóvão e Névis"
+      ]
+    },
+    "en": {
+      "question": "Accra is the capital of which country?",
+      "options": [
+        "Afghanistan",
+        "Ghana",
+        "Nauru",
+        "Saint Kitts and Nevis"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-GN",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Guiné?",
+      "options": [
+        "Conacri",
+        "Timphu",
+        "Mbabane",
+        "Beirute"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Guinea?",
+      "options": [
+        "Conakry",
+        "Thimphu",
+        "Mbabane",
+        "Beirut"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-GN",
+    "category": "capitais",
+    "pt": {
+      "question": "Conacri é a capital de qual país?",
+      "options": [
+        "Guiné",
+        "Romênia",
+        "Ilhas Marshall",
+        "Mauritânia"
+      ]
+    },
+    "en": {
+      "question": "Conakry is the capital of which country?",
+      "options": [
+        "Guinea",
+        "Romania",
+        "Marshall Islands",
+        "Mauritania"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-GW",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Guiné-Bissau?",
+      "options": [
+        "Bissau",
+        "Bratislava",
+        "Nicósia",
+        "Moscou"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Guinea-Bissau?",
+      "options": [
+        "Bissau",
+        "Bratislava",
+        "Nicosia",
+        "Moscow"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-GW",
+    "category": "capitais",
+    "pt": {
+      "question": "Bissau é a capital de qual país?",
+      "options": [
+        "Argélia",
+        "Guiné-Bissau",
+        "Israel",
+        "Bélgica"
+      ]
+    },
+    "en": {
+      "question": "Bissau is the capital of which country?",
+      "options": [
+        "Algeria",
+        "Guinea-Bissau",
+        "Israel",
+        "Belgium"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-CI",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Costa do Marfim?",
+      "options": [
+        "Ngerulmud",
+        "Iamussucro",
+        "Doha",
+        "Ancara"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Ivory Coast?",
+      "options": [
+        "Ngerulmud",
+        "Yamoussoukro",
+        "Doha",
+        "Ankara"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-CI",
+    "category": "capitais",
+    "pt": {
+      "question": "Iamussucro é a capital de qual país?",
+      "options": [
+        "Haiti",
+        "Romênia",
+        "Costa do Marfim",
+        "Turcomenistão"
+      ]
+    },
+    "en": {
+      "question": "Yamoussoukro is the capital of which country?",
+      "options": [
+        "Haiti",
+        "Romania",
+        "Ivory Coast",
+        "Turkmenistan"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-KE",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Quênia?",
+      "options": [
+        "Riga",
+        "Nairóbi",
+        "Adis Abeba",
+        "Pyongyang"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Kenya?",
+      "options": [
+        "Riga",
+        "Nairobi",
+        "Addis Ababa",
+        "Pyongyang"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-KE",
+    "category": "capitais",
+    "pt": {
+      "question": "Nairóbi é a capital de qual país?",
+      "options": [
+        "Ucrânia",
+        "Quênia",
+        "Kiribati",
+        "Geórgia"
+      ]
+    },
+    "en": {
+      "question": "Nairobi is the capital of which country?",
+      "options": [
+        "Ukraine",
+        "Kenya",
+        "Kiribati",
+        "Georgia"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-LS",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Lesoto?",
+      "options": [
+        "Sófia",
+        "San José",
+        "Brazzaville",
+        "Maseru"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Lesotho?",
+      "options": [
+        "Sofia",
+        "San José",
+        "Brazzaville",
+        "Maseru"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-LS",
+    "category": "capitais",
+    "pt": {
+      "question": "Maseru é a capital de qual país?",
+      "options": [
+        "Lesoto",
+        "Iêmen",
+        "Paquistão",
+        "Rússia"
+      ]
+    },
+    "en": {
+      "question": "Maseru is the capital of which country?",
+      "options": [
+        "Lesotho",
+        "Yemen",
+        "Pakistan",
+        "Russia"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-LR",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Libéria?",
+      "options": [
+        "Monróvia",
+        "Seul",
+        "Valeta",
+        "Tasquente"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Liberia?",
+      "options": [
+        "Monrovia",
+        "Seoul",
+        "Valletta",
+        "Tashkent"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-LR",
+    "category": "capitais",
+    "pt": {
+      "question": "Monróvia é a capital de qual país?",
+      "options": [
+        "Libéria",
+        "Fiji",
+        "Honduras",
+        "Gabão"
+      ]
+    },
+    "en": {
+      "question": "Monrovia is the capital of which country?",
+      "options": [
+        "Liberia",
+        "Fiji",
+        "Honduras",
+        "Gabon"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-LY",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Líbia?",
+      "options": [
+        "Trípoli",
+        "Buenos Aires",
+        "Cidade do Vaticano",
+        "Asmara"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Libya?",
+      "options": [
+        "Tripoli",
+        "Buenos Aires",
+        "Vatican City",
+        "Asmara"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-LY",
+    "category": "capitais",
+    "pt": {
+      "question": "Trípoli é a capital de qual país?",
+      "options": [
+        "Palestina",
+        "Áustria",
+        "Cazaquistão",
+        "Líbia"
+      ]
+    },
+    "en": {
+      "question": "Tripoli is the capital of which country?",
+      "options": [
+        "Palestine",
+        "Austria",
+        "Kazakhstan",
+        "Libya"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-MG",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Madagascar?",
+      "options": [
+        "Manágua",
+        "Antananarivo",
+        "Nuku'alofa",
+        "Nova Délhi"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Madagascar?",
+      "options": [
+        "Managua",
+        "Antananarivo",
+        "Nuku'alofa",
+        "New Delhi"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-MG",
+    "category": "capitais",
+    "pt": {
+      "question": "Antananarivo é a capital de qual país?",
+      "options": [
+        "Barbados",
+        "Madagascar",
+        "Coreia do Sul",
+        "Granada"
+      ]
+    },
+    "en": {
+      "question": "Antananarivo is the capital of which country?",
+      "options": [
+        "Barbados",
+        "Madagascar",
+        "South Korea",
+        "Grenada"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-MW",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Malawi?",
+      "options": [
+        "Budapeste",
+        "Jacarta",
+        "Praga",
+        "Lilongwe"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Malawi?",
+      "options": [
+        "Budapest",
+        "Jakarta",
+        "Prague",
+        "Lilongwe"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-MW",
+    "category": "capitais",
+    "pt": {
+      "question": "Lilongwe é a capital de qual país?",
+      "options": [
+        "Sudão",
+        "Paquistão",
+        "Moçambique",
+        "Malawi"
+      ]
+    },
+    "en": {
+      "question": "Lilongwe is the capital of which country?",
+      "options": [
+        "Sudan",
+        "Pakistan",
+        "Mozambique",
+        "Malawi"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-ML",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Mali?",
+      "options": [
+        "Manila",
+        "Uagadugu",
+        "Banjul",
+        "Bamaco"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Mali?",
+      "options": [
+        "Manila",
+        "Ouagadougou",
+        "Banjul",
+        "Bamako"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-ML",
+    "category": "capitais",
+    "pt": {
+      "question": "Bamaco é a capital de qual país?",
+      "options": [
+        "Noruega",
+        "Essuatíni",
+        "Comores",
+        "Mali"
+      ]
+    },
+    "en": {
+      "question": "Bamako is the capital of which country?",
+      "options": [
+        "Norway",
+        "Eswatini",
+        "Comoros",
+        "Mali"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-MR",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Mauritânia?",
+      "options": [
+        "Ramallah",
+        "Roseau",
+        "Nuaquechott",
+        "Londres"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Mauritania?",
+      "options": [
+        "Ramallah",
+        "Roseau",
+        "Nouakchott",
+        "London"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-MR",
+    "category": "capitais",
+    "pt": {
+      "question": "Nuaquechott é a capital de qual país?",
+      "options": [
+        "Libéria",
+        "Peru",
+        "Seicheles",
+        "Mauritânia"
+      ]
+    },
+    "en": {
+      "question": "Nouakchott is the capital of which country?",
+      "options": [
+        "Liberia",
+        "Peru",
+        "Seychelles",
+        "Mauritania"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-MU",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Maurícia?",
+      "options": [
+        "Lilongwe",
+        "Dublin",
+        "Madri",
+        "Port Louis"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Mauritius?",
+      "options": [
+        "Lilongwe",
+        "Dublin",
+        "Madrid",
+        "Port Louis"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-MU",
+    "category": "capitais",
+    "pt": {
+      "question": "Port Louis é a capital de qual país?",
+      "options": [
+        "Essuatíni",
+        "Romênia",
+        "Maurícia",
+        "Brunei"
+      ]
+    },
+    "en": {
+      "question": "Port Louis is the capital of which country?",
+      "options": [
+        "Eswatini",
+        "Romania",
+        "Mauritius",
+        "Brunei"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-MA",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Marrocos?",
+      "options": [
+        "Rabat",
+        "Wellington",
+        "Oslo",
+        "Tasquente"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Morocco?",
+      "options": [
+        "Rabat",
+        "Wellington",
+        "Oslo",
+        "Tashkent"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-MA",
+    "category": "capitais",
+    "pt": {
+      "question": "Rabat é a capital de qual país?",
+      "options": [
+        "Nova Zelândia",
+        "Marrocos",
+        "Palestina",
+        "Malásia"
+      ]
+    },
+    "en": {
+      "question": "Rabat is the capital of which country?",
+      "options": [
+        "New Zealand",
+        "Morocco",
+        "Palestine",
+        "Malaysia"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-MZ",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Moçambique?",
+      "options": [
+        "Maputo",
+        "Cartum",
+        "Seul",
+        "Paramaribo"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Mozambique?",
+      "options": [
+        "Maputo",
+        "Khartoum",
+        "Seoul",
+        "Paramaribo"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-MZ",
+    "category": "capitais",
+    "pt": {
+      "question": "Maputo é a capital de qual país?",
+      "options": [
+        "Venezuela",
+        "Moçambique",
+        "Islândia",
+        "Guiana"
+      ]
+    },
+    "en": {
+      "question": "Maputo is the capital of which country?",
+      "options": [
+        "Venezuela",
+        "Mozambique",
+        "Iceland",
+        "Guyana"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-NA",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Namíbia?",
+      "options": [
+        "Doha",
+        "Windhoek",
+        "Estocolmo",
+        "Escópia"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Namibia?",
+      "options": [
+        "Doha",
+        "Windhoek",
+        "Stockholm",
+        "Skopje"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-NA",
+    "category": "capitais",
+    "pt": {
+      "question": "Windhoek é a capital de qual país?",
+      "options": [
+        "Guiné-Bissau",
+        "Namíbia",
+        "México",
+        "Barbados"
+      ]
+    },
+    "en": {
+      "question": "Windhoek is the capital of which country?",
+      "options": [
+        "Guinea-Bissau",
+        "Namibia",
+        "Mexico",
+        "Barbados"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-NE",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Níger?",
+      "options": [
+        "Niamei",
+        "Pyongyang",
+        "Baku",
+        "Londres"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Niger?",
+      "options": [
+        "Niamey",
+        "Pyongyang",
+        "Baku",
+        "London"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-NE",
+    "category": "capitais",
+    "pt": {
+      "question": "Niamei é a capital de qual país?",
+      "options": [
+        "Malawi",
+        "Níger",
+        "Ilhas Marshall",
+        "Brasil"
+      ]
+    },
+    "en": {
+      "question": "Niamey is the capital of which country?",
+      "options": [
+        "Malawi",
+        "Niger",
+        "Marshall Islands",
+        "Brazil"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-NG",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Nigéria?",
+      "options": [
+        "Tunes",
+        "Abuja",
+        "Cidade do México",
+        "Nairóbi"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Nigeria?",
+      "options": [
+        "Tunis",
+        "Abuja",
+        "Mexico City",
+        "Nairobi"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-NG",
+    "category": "capitais",
+    "pt": {
+      "question": "Abuja é a capital de qual país?",
+      "options": [
+        "Botsuana",
+        "Nigéria",
+        "Austrália",
+        "Panamá"
+      ]
+    },
+    "en": {
+      "question": "Abuja is the capital of which country?",
+      "options": [
+        "Botswana",
+        "Nigeria",
+        "Australia",
+        "Panama"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-RW",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Ruanda?",
+      "options": [
+        "Manila",
+        "Malé",
+        "Kigali",
+        "Riade"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Rwanda?",
+      "options": [
+        "Manila",
+        "Malé",
+        "Kigali",
+        "Riyadh"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-RW",
+    "category": "capitais",
+    "pt": {
+      "question": "Kigali é a capital de qual país?",
+      "options": [
+        "Madagascar",
+        "Arábia Saudita",
+        "Cuba",
+        "Ruanda"
+      ]
+    },
+    "en": {
+      "question": "Kigali is the capital of which country?",
+      "options": [
+        "Madagascar",
+        "Saudi Arabia",
+        "Cuba",
+        "Rwanda"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-ST",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de São Tomé e Príncipe?",
+      "options": [
+        "São Tomé",
+        "Astana",
+        "Sófia",
+        "Lilongwe"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Sao Tome and Principe?",
+      "options": [
+        "São Tomé",
+        "Astana",
+        "Sofia",
+        "Lilongwe"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-ST",
+    "category": "capitais",
+    "pt": {
+      "question": "São Tomé é a capital de qual país?",
+      "options": [
+        "Mongólia",
+        "São Tomé e Príncipe",
+        "Nepal",
+        "Nicarágua"
+      ]
+    },
+    "en": {
+      "question": "São Tomé is the capital of which country?",
+      "options": [
+        "Mongolia",
+        "Sao Tome and Principe",
+        "Nepal",
+        "Nicaragua"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-SN",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Senegal?",
+      "options": [
+        "São Tomé",
+        "Santiago",
+        "Pretória",
+        "Dakar"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Senegal?",
+      "options": [
+        "São Tomé",
+        "Santiago",
+        "Pretoria",
+        "Dakar"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-SN",
+    "category": "capitais",
+    "pt": {
+      "question": "Dakar é a capital de qual país?",
+      "options": [
+        "Nepal",
+        "Senegal",
+        "Japão",
+        "Suécia"
+      ]
+    },
+    "en": {
+      "question": "Dakar is the capital of which country?",
+      "options": [
+        "Nepal",
+        "Senegal",
+        "Japan",
+        "Sweden"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-SC",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Seicheles?",
+      "options": [
+        "Valeta",
+        "Victoria",
+        "Atenas",
+        "Quito"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Seychelles?",
+      "options": [
+        "Valletta",
+        "Victoria",
+        "Athens",
+        "Quito"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-SC",
+    "category": "capitais",
+    "pt": {
+      "question": "Victoria é a capital de qual país?",
+      "options": [
+        "Belize",
+        "Seicheles",
+        "Macedônia do Norte",
+        "Bielorrússia"
+      ]
+    },
+    "en": {
+      "question": "Victoria is the capital of which country?",
+      "options": [
+        "Belize",
+        "Seychelles",
+        "North Macedonia",
+        "Belarus"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-SL",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Serra Leoa?",
+      "options": [
+        "Freetown",
+        "Cidade do Panamá",
+        "Estocolmo",
+        "Londres"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Sierra Leone?",
+      "options": [
+        "Freetown",
+        "Panama City",
+        "Stockholm",
+        "London"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-SL",
+    "category": "capitais",
+    "pt": {
+      "question": "Freetown é a capital de qual país?",
+      "options": [
+        "Irlanda",
+        "Gâmbia",
+        "Maldivas",
+        "Serra Leoa"
+      ]
+    },
+    "en": {
+      "question": "Freetown is the capital of which country?",
+      "options": [
+        "Ireland",
+        "Gambia",
+        "Maldives",
+        "Sierra Leone"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-SO",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Somália?",
+      "options": [
+        "Pretória",
+        "Mogadíscio",
+        "Funafuti",
+        "Manila"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Somalia?",
+      "options": [
+        "Pretoria",
+        "Mogadishu",
+        "Funafuti",
+        "Manila"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-SO",
+    "category": "capitais",
+    "pt": {
+      "question": "Mogadíscio é a capital de qual país?",
+      "options": [
+        "Malásia",
+        "Alemanha",
+        "Somália",
+        "Mônaco"
+      ]
+    },
+    "en": {
+      "question": "Mogadishu is the capital of which country?",
+      "options": [
+        "Malaysia",
+        "Germany",
+        "Somalia",
+        "Monaco"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-ZA",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de África do Sul?",
+      "options": [
+        "Berna",
+        "Pretória",
+        "Damasco",
+        "Tegucigalpa"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of South Africa?",
+      "options": [
+        "Bern",
+        "Pretoria",
+        "Damascus",
+        "Tegucigalpa"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-ZA",
+    "category": "capitais",
+    "pt": {
+      "question": "Pretória é a capital de qual país?",
+      "options": [
+        "São Cristóvão e Névis",
+        "África do Sul",
+        "Coreia do Norte",
+        "Guiné"
+      ]
+    },
+    "en": {
+      "question": "Pretoria is the capital of which country?",
+      "options": [
+        "Saint Kitts and Nevis",
+        "South Africa",
+        "North Korea",
+        "Guinea"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-SS",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Sudão do Sul?",
+      "options": [
+        "Luxemburgo",
+        "Funafuti",
+        "Juba",
+        "Dushanbe"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of South Sudan?",
+      "options": [
+        "Luxembourg",
+        "Funafuti",
+        "Juba",
+        "Dushanbe"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-SS",
+    "category": "capitais",
+    "pt": {
+      "question": "Juba é a capital de qual país?",
+      "options": [
+        "Sudão do Sul",
+        "Maurícia",
+        "El Salvador",
+        "Bélgica"
+      ]
+    },
+    "en": {
+      "question": "Juba is the capital of which country?",
+      "options": [
+        "South Sudan",
+        "Mauritius",
+        "El Salvador",
+        "Belgium"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-SD",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Sudão?",
+      "options": [
+        "Tóquio",
+        "Bissau",
+        "Cartum",
+        "Sarajevo"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Sudan?",
+      "options": [
+        "Tokyo",
+        "Bissau",
+        "Khartoum",
+        "Sarajevo"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-SD",
+    "category": "capitais",
+    "pt": {
+      "question": "Cartum é a capital de qual país?",
+      "options": [
+        "Sudão",
+        "Malawi",
+        "Macedônia do Norte",
+        "Ruanda"
+      ]
+    },
+    "en": {
+      "question": "Khartoum is the capital of which country?",
+      "options": [
+        "Sudan",
+        "Malawi",
+        "North Macedonia",
+        "Rwanda"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-TZ",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Tanzânia?",
+      "options": [
+        "Lomé",
+        "Dublin",
+        "Dodoma",
+        "Tbilisi"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Tanzania?",
+      "options": [
+        "Lomé",
+        "Dublin",
+        "Dodoma",
+        "Tbilisi"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-TZ",
+    "category": "capitais",
+    "pt": {
+      "question": "Dodoma é a capital de qual país?",
+      "options": [
+        "Timor-Leste",
+        "Cazaquistão",
+        "Tanzânia",
+        "Venezuela"
+      ]
+    },
+    "en": {
+      "question": "Dodoma is the capital of which country?",
+      "options": [
+        "Timor-Leste",
+        "Kazakhstan",
+        "Tanzania",
+        "Venezuela"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-TG",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Togo?",
+      "options": [
+        "Minsk",
+        "Lomé",
+        "Sarajevo",
+        "Pequim"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Togo?",
+      "options": [
+        "Minsk",
+        "Lomé",
+        "Sarajevo",
+        "Beijing"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-TG",
+    "category": "capitais",
+    "pt": {
+      "question": "Lomé é a capital de qual país?",
+      "options": [
+        "Chile",
+        "Ucrânia",
+        "Togo",
+        "Estônia"
+      ]
+    },
+    "en": {
+      "question": "Lomé is the capital of which country?",
+      "options": [
+        "Chile",
+        "Ukraine",
+        "Togo",
+        "Estonia"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-TN",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Tunísia?",
+      "options": [
+        "Nuaquechott",
+        "Damasco",
+        "Tunes",
+        "Ndjamena"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Tunisia?",
+      "options": [
+        "Nouakchott",
+        "Damascus",
+        "Tunis",
+        "N'Djamena"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-TN",
+    "category": "capitais",
+    "pt": {
+      "question": "Tunes é a capital de qual país?",
+      "options": [
+        "Quênia",
+        "Coreia do Norte",
+        "Vietnã",
+        "Tunísia"
+      ]
+    },
+    "en": {
+      "question": "Tunis is the capital of which country?",
+      "options": [
+        "Kenya",
+        "North Korea",
+        "Vietnam",
+        "Tunisia"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-UG",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Uganda?",
+      "options": [
+        "Campala",
+        "Banjul",
+        "Oslo",
+        "Port of Spain"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Uganda?",
+      "options": [
+        "Kampala",
+        "Banjul",
+        "Oslo",
+        "Port of Spain"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-UG",
+    "category": "capitais",
+    "pt": {
+      "question": "Campala é a capital de qual país?",
+      "options": [
+        "Chade",
+        "Áustria",
+        "Lituânia",
+        "Uganda"
+      ]
+    },
+    "en": {
+      "question": "Kampala is the capital of which country?",
+      "options": [
+        "Chad",
+        "Austria",
+        "Lithuania",
+        "Uganda"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-ZM",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Zâmbia?",
+      "options": [
+        "Paramaribo",
+        "Kinshasa",
+        "Iaundé",
+        "Lusaka"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Zambia?",
+      "options": [
+        "Paramaribo",
+        "Kinshasa",
+        "Yaoundé",
+        "Lusaka"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-ZM",
+    "category": "capitais",
+    "pt": {
+      "question": "Lusaka é a capital de qual país?",
+      "options": [
+        "Zâmbia",
+        "Níger",
+        "Líbano",
+        "Camboja"
+      ]
+    },
+    "en": {
+      "question": "Lusaka is the capital of which country?",
+      "options": [
+        "Zambia",
+        "Niger",
+        "Lebanon",
+        "Cambodia"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-ZW",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Zimbábue?",
+      "options": [
+        "Harare",
+        "Berlim",
+        "Windhoek",
+        "Dushanbe"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Zimbabwe?",
+      "options": [
+        "Harare",
+        "Berlin",
+        "Windhoek",
+        "Dushanbe"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-ZW",
+    "category": "capitais",
+    "pt": {
+      "question": "Harare é a capital de qual país?",
+      "options": [
+        "Rússia",
+        "Dominica",
+        "Omã",
+        "Zimbábue"
+      ]
+    },
+    "en": {
+      "question": "Harare is the capital of which country?",
+      "options": [
+        "Russia",
+        "Dominica",
+        "Oman",
+        "Zimbabwe"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-AG",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Antígua e Barbuda?",
+      "options": [
+        "Pyongyang",
+        "Estocolmo",
+        "Saint John's",
+        "Havana"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Antigua and Barbuda?",
+      "options": [
+        "Pyongyang",
+        "Stockholm",
+        "Saint John's",
+        "Havana"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-AG",
+    "category": "capitais",
+    "pt": {
+      "question": "Saint John's é a capital de qual país?",
+      "options": [
+        "Antígua e Barbuda",
+        "Singapura",
+        "Libéria",
+        "Canadá"
+      ]
+    },
+    "en": {
+      "question": "Saint John's is the capital of which country?",
+      "options": [
+        "Antigua and Barbuda",
+        "Singapore",
+        "Liberia",
+        "Canada"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-AR",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Argentina?",
+      "options": [
+        "Dushanbe",
+        "Pristina",
+        "Buenos Aires",
+        "Apia"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Argentina?",
+      "options": [
+        "Dushanbe",
+        "Pristina",
+        "Buenos Aires",
+        "Apia"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-AR",
+    "category": "capitais",
+    "pt": {
+      "question": "Buenos Aires é a capital de qual país?",
+      "options": [
+        "Barbados",
+        "Argentina",
+        "Tanzânia",
+        "Mônaco"
+      ]
+    },
+    "en": {
+      "question": "Buenos Aires is the capital of which country?",
+      "options": [
+        "Barbados",
+        "Argentina",
+        "Tanzania",
+        "Monaco"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-BS",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Bahamas?",
+      "options": [
+        "Nassau",
+        "Bissau",
+        "Wellington",
+        "Port Louis"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Bahamas?",
+      "options": [
+        "Nassau",
+        "Bissau",
+        "Wellington",
+        "Port Louis"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-BS",
+    "category": "capitais",
+    "pt": {
+      "question": "Nassau é a capital de qual país?",
+      "options": [
+        "Bahamas",
+        "Somália",
+        "Maurícia",
+        "Uganda"
+      ]
+    },
+    "en": {
+      "question": "Nassau is the capital of which country?",
+      "options": [
+        "Bahamas",
+        "Somalia",
+        "Mauritius",
+        "Uganda"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-BB",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Barbados?",
+      "options": [
+        "Bridgetown",
+        "Windhoek",
+        "Funafuti",
+        "Belmopan"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Barbados?",
+      "options": [
+        "Bridgetown",
+        "Windhoek",
+        "Funafuti",
+        "Belmopan"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-BB",
+    "category": "capitais",
+    "pt": {
+      "question": "Bridgetown é a capital de qual país?",
+      "options": [
+        "Guiné-Bissau",
+        "Barbados",
+        "Botsuana",
+        "Irã"
+      ]
+    },
+    "en": {
+      "question": "Bridgetown is the capital of which country?",
+      "options": [
+        "Guinea-Bissau",
+        "Barbados",
+        "Botswana",
+        "Iran"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-BZ",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Belize?",
+      "options": [
+        "Manila",
+        "Belmopan",
+        "Vilnius",
+        "Praia"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Belize?",
+      "options": [
+        "Manila",
+        "Belmopan",
+        "Vilnius",
+        "Praia"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-BZ",
+    "category": "capitais",
+    "pt": {
+      "question": "Belmopan é a capital de qual país?",
+      "options": [
+        "Belize",
+        "Macedônia do Norte",
+        "Eritreia",
+        "Mônaco"
+      ]
+    },
+    "en": {
+      "question": "Belmopan is the capital of which country?",
+      "options": [
+        "Belize",
+        "North Macedonia",
+        "Eritrea",
+        "Monaco"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-BO",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Bolívia?",
+      "options": [
+        "Sucre",
+        "Ottawa",
+        "Andorra-a-Velha",
+        "Iamussucro"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Bolivia?",
+      "options": [
+        "Sucre",
+        "Ottawa",
+        "Andorra la Vella",
+        "Yamoussoukro"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-BO",
+    "category": "capitais",
+    "pt": {
+      "question": "Sucre é a capital de qual país?",
+      "options": [
+        "Brunei",
+        "Bolívia",
+        "San Marino",
+        "Samoa"
+      ]
+    },
+    "en": {
+      "question": "Sucre is the capital of which country?",
+      "options": [
+        "Brunei",
+        "Bolivia",
+        "San Marino",
+        "Samoa"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-BR",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Brasil?",
+      "options": [
+        "Ottawa",
+        "Buenos Aires",
+        "Brasília",
+        "Ulan Bator"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Brazil?",
+      "options": [
+        "Ottawa",
+        "Buenos Aires",
+        "Brasília",
+        "Ulaanbaatar"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-BR",
+    "category": "capitais",
+    "pt": {
+      "question": "Brasília é a capital de qual país?",
+      "options": [
+        "Bahrein",
+        "Macedônia do Norte",
+        "Bielorrússia",
+        "Brasil"
+      ]
+    },
+    "en": {
+      "question": "Brasília is the capital of which country?",
+      "options": [
+        "Bahrain",
+        "North Macedonia",
+        "Belarus",
+        "Brazil"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-CA",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Canadá?",
+      "options": [
+        "Praga",
+        "Nuaquechott",
+        "Ottawa",
+        "Bogotá"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Canada?",
+      "options": [
+        "Prague",
+        "Nouakchott",
+        "Ottawa",
+        "Bogotá"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-CA",
+    "category": "capitais",
+    "pt": {
+      "question": "Ottawa é a capital de qual país?",
+      "options": [
+        "Grécia",
+        "Bolívia",
+        "Canadá",
+        "Argentina"
+      ]
+    },
+    "en": {
+      "question": "Ottawa is the capital of which country?",
+      "options": [
+        "Greece",
+        "Bolivia",
+        "Canada",
+        "Argentina"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-CL",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Chile?",
+      "options": [
+        "Manama",
+        "Atenas",
+        "Santiago",
+        "Brasília"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Chile?",
+      "options": [
+        "Manama",
+        "Athens",
+        "Santiago",
+        "Brasília"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-CL",
+    "category": "capitais",
+    "pt": {
+      "question": "Santiago é a capital de qual país?",
+      "options": [
+        "Equador",
+        "Chile",
+        "Djibuti",
+        "Mauritânia"
+      ]
+    },
+    "en": {
+      "question": "Santiago is the capital of which country?",
+      "options": [
+        "Ecuador",
+        "Chile",
+        "Djibouti",
+        "Mauritania"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-CO",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Colômbia?",
+      "options": [
+        "Yaren",
+        "Bogotá",
+        "Vaduz",
+        "Kinshasa"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Colombia?",
+      "options": [
+        "Yaren",
+        "Bogotá",
+        "Vaduz",
+        "Kinshasa"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-CO",
+    "category": "capitais",
+    "pt": {
+      "question": "Bogotá é a capital de qual país?",
+      "options": [
+        "Guiné Equatorial",
+        "Colômbia",
+        "Arábia Saudita",
+        "Iraque"
+      ]
+    },
+    "en": {
+      "question": "Bogotá is the capital of which country?",
+      "options": [
+        "Equatorial Guinea",
+        "Colombia",
+        "Saudi Arabia",
+        "Iraq"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-CR",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Costa Rica?",
+      "options": [
+        "San José",
+        "Mônaco",
+        "Cidade da Guatemala",
+        "Luxemburgo"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Costa Rica?",
+      "options": [
+        "San José",
+        "Monaco",
+        "Guatemala City",
+        "Luxembourg"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-CR",
+    "category": "capitais",
+    "pt": {
+      "question": "San José é a capital de qual país?",
+      "options": [
+        "Coreia do Norte",
+        "Timor-Leste",
+        "Costa Rica",
+        "Itália"
+      ]
+    },
+    "en": {
+      "question": "San José is the capital of which country?",
+      "options": [
+        "North Korea",
+        "Timor-Leste",
+        "Costa Rica",
+        "Italy"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-CU",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Cuba?",
+      "options": [
+        "Astana",
+        "Bagdá",
+        "Pyongyang",
+        "Havana"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Cuba?",
+      "options": [
+        "Astana",
+        "Baghdad",
+        "Pyongyang",
+        "Havana"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-CU",
+    "category": "capitais",
+    "pt": {
+      "question": "Havana é a capital de qual país?",
+      "options": [
+        "Dominica",
+        "São Cristóvão e Névis",
+        "Cuba",
+        "Rússia"
+      ]
+    },
+    "en": {
+      "question": "Havana is the capital of which country?",
+      "options": [
+        "Dominica",
+        "Saint Kitts and Nevis",
+        "Cuba",
+        "Russia"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-DM",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Dominica?",
+      "options": [
+        "Port of Spain",
+        "Zagreb",
+        "Atenas",
+        "Roseau"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Dominica?",
+      "options": [
+        "Port of Spain",
+        "Zagreb",
+        "Athens",
+        "Roseau"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-DM",
+    "category": "capitais",
+    "pt": {
+      "question": "Roseau é a capital de qual país?",
+      "options": [
+        "Quirguistão",
+        "Tonga",
+        "Rússia",
+        "Dominica"
+      ]
+    },
+    "en": {
+      "question": "Roseau is the capital of which country?",
+      "options": [
+        "Kyrgyzstan",
+        "Tonga",
+        "Russia",
+        "Dominica"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-DO",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de República Dominicana?",
+      "options": [
+        "Sófia",
+        "Santo Domingo",
+        "Antananarivo",
+        "Bandar Seri Begawan"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Dominican Republic?",
+      "options": [
+        "Sofia",
+        "Santo Domingo",
+        "Antananarivo",
+        "Bandar Seri Begawan"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-DO",
+    "category": "capitais",
+    "pt": {
+      "question": "Santo Domingo é a capital de qual país?",
+      "options": [
+        "Luxemburgo",
+        "Laos",
+        "Croácia",
+        "República Dominicana"
+      ]
+    },
+    "en": {
+      "question": "Santo Domingo is the capital of which country?",
+      "options": [
+        "Luxembourg",
+        "Laos",
+        "Croatia",
+        "Dominican Republic"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-EC",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Equador?",
+      "options": [
+        "Praga",
+        "Lisboa",
+        "Bagdá",
+        "Quito"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Ecuador?",
+      "options": [
+        "Prague",
+        "Lisbon",
+        "Baghdad",
+        "Quito"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-EC",
+    "category": "capitais",
+    "pt": {
+      "question": "Quito é a capital de qual país?",
+      "options": [
+        "Equador",
+        "Ilhas Salomão",
+        "Iêmen",
+        "Guiné-Bissau"
+      ]
+    },
+    "en": {
+      "question": "Quito is the capital of which country?",
+      "options": [
+        "Ecuador",
+        "Solomon Islands",
+        "Yemen",
+        "Guinea-Bissau"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-SV",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de El Salvador?",
+      "options": [
+        "São Tomé",
+        "Vilnius",
+        "Funafuti",
+        "San Salvador"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of El Salvador?",
+      "options": [
+        "São Tomé",
+        "Vilnius",
+        "Funafuti",
+        "San Salvador"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-SV",
+    "category": "capitais",
+    "pt": {
+      "question": "San Salvador é a capital de qual país?",
+      "options": [
+        "El Salvador",
+        "Mongólia",
+        "Granada",
+        "Romênia"
+      ]
+    },
+    "en": {
+      "question": "San Salvador is the capital of which country?",
+      "options": [
+        "El Salvador",
+        "Mongolia",
+        "Grenada",
+        "Romania"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-GD",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Granada?",
+      "options": [
+        "Moscou",
+        "Hanói",
+        "Assunção",
+        "Saint George's"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Grenada?",
+      "options": [
+        "Moscow",
+        "Hanoi",
+        "Asunción",
+        "Saint George's"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-GD",
+    "category": "capitais",
+    "pt": {
+      "question": "Saint George's é a capital de qual país?",
+      "options": [
+        "Egito",
+        "Granada",
+        "Angola",
+        "Irlanda"
+      ]
+    },
+    "en": {
+      "question": "Saint George's is the capital of which country?",
+      "options": [
+        "Egypt",
+        "Grenada",
+        "Angola",
+        "Ireland"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-GT",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Guatemala?",
+      "options": [
+        "Cidade da Guatemala",
+        "Nicósia",
+        "Port Louis",
+        "Mogadíscio"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Guatemala?",
+      "options": [
+        "Guatemala City",
+        "Nicosia",
+        "Port Louis",
+        "Mogadishu"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-GT",
+    "category": "capitais",
+    "pt": {
+      "question": "Cidade da Guatemala é a capital de qual país?",
+      "options": [
+        "Irã",
+        "Papua-Nova Guiné",
+        "Etiópia",
+        "Guatemala"
+      ]
+    },
+    "en": {
+      "question": "Guatemala City is the capital of which country?",
+      "options": [
+        "Iran",
+        "Papua New Guinea",
+        "Ethiopia",
+        "Guatemala"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-GY",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Guiana?",
+      "options": [
+        "Georgetown",
+        "Paramaribo",
+        "Gitega",
+        "Jerusalém"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Guyana?",
+      "options": [
+        "Georgetown",
+        "Paramaribo",
+        "Gitega",
+        "Jerusalem"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-GY",
+    "category": "capitais",
+    "pt": {
+      "question": "Georgetown é a capital de qual país?",
+      "options": [
+        "Suécia",
+        "Bangladesh",
+        "Guiana",
+        "Guiné"
+      ]
+    },
+    "en": {
+      "question": "Georgetown is the capital of which country?",
+      "options": [
+        "Sweden",
+        "Bangladesh",
+        "Guyana",
+        "Guinea"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-HT",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Haiti?",
+      "options": [
+        "Freetown",
+        "Ancara",
+        "Libreville",
+        "Port-au-Prince"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Haiti?",
+      "options": [
+        "Freetown",
+        "Ankara",
+        "Libreville",
+        "Port-au-Prince"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-HT",
+    "category": "capitais",
+    "pt": {
+      "question": "Port-au-Prince é a capital de qual país?",
+      "options": [
+        "Macedônia do Norte",
+        "Nauru",
+        "Haiti",
+        "Armênia"
+      ]
+    },
+    "en": {
+      "question": "Port-au-Prince is the capital of which country?",
+      "options": [
+        "North Macedonia",
+        "Nauru",
+        "Haiti",
+        "Armenia"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-HN",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Honduras?",
+      "options": [
+        "Tegucigalpa",
+        "Islamabade",
+        "Funafuti",
+        "Praga"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Honduras?",
+      "options": [
+        "Tegucigalpa",
+        "Islamabad",
+        "Funafuti",
+        "Prague"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-HN",
+    "category": "capitais",
+    "pt": {
+      "question": "Tegucigalpa é a capital de qual país?",
+      "options": [
+        "São Cristóvão e Névis",
+        "Malta",
+        "Honduras",
+        "Nigéria"
+      ]
+    },
+    "en": {
+      "question": "Tegucigalpa is the capital of which country?",
+      "options": [
+        "Saint Kitts and Nevis",
+        "Malta",
+        "Honduras",
+        "Nigeria"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-JM",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Jamaica?",
+      "options": [
+        "Islamabade",
+        "Lima",
+        "Catmandu",
+        "Kingston"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Jamaica?",
+      "options": [
+        "Islamabad",
+        "Lima",
+        "Kathmandu",
+        "Kingston"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-JM",
+    "category": "capitais",
+    "pt": {
+      "question": "Kingston é a capital de qual país?",
+      "options": [
+        "Macedônia do Norte",
+        "Haiti",
+        "Gabão",
+        "Jamaica"
+      ]
+    },
+    "en": {
+      "question": "Kingston is the capital of which country?",
+      "options": [
+        "North Macedonia",
+        "Haiti",
+        "Gabon",
+        "Jamaica"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-MX",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de México?",
+      "options": [
+        "Abuja",
+        "Bangcoc",
+        "Cidade do México",
+        "Malabo"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Mexico?",
+      "options": [
+        "Abuja",
+        "Bangkok",
+        "Mexico City",
+        "Malabo"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-MX",
+    "category": "capitais",
+    "pt": {
+      "question": "Cidade do México é a capital de qual país?",
+      "options": [
+        "Timor-Leste",
+        "Gana",
+        "México",
+        "Fiji"
+      ]
+    },
+    "en": {
+      "question": "Mexico City is the capital of which country?",
+      "options": [
+        "Timor-Leste",
+        "Ghana",
+        "Mexico",
+        "Fiji"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-NI",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Nicarágua?",
+      "options": [
+        "Dublin",
+        "Montevidéu",
+        "Bratislava",
+        "Manágua"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Nicaragua?",
+      "options": [
+        "Dublin",
+        "Montevideo",
+        "Bratislava",
+        "Managua"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-NI",
+    "category": "capitais",
+    "pt": {
+      "question": "Manágua é a capital de qual país?",
+      "options": [
+        "Nicarágua",
+        "Trindade e Tobago",
+        "Eritreia",
+        "Costa do Marfim"
+      ]
+    },
+    "en": {
+      "question": "Managua is the capital of which country?",
+      "options": [
+        "Nicaragua",
+        "Trinidad and Tobago",
+        "Eritrea",
+        "Ivory Coast"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-PA",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Panamá?",
+      "options": [
+        "Varsóvia",
+        "Kiev",
+        "Cidade do Panamá",
+        "Bucareste"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Panama?",
+      "options": [
+        "Warsaw",
+        "Kyiv",
+        "Panama City",
+        "Bucharest"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-PA",
+    "category": "capitais",
+    "pt": {
+      "question": "Cidade do Panamá é a capital de qual país?",
+      "options": [
+        "Peru",
+        "China",
+        "Panamá",
+        "Croácia"
+      ]
+    },
+    "en": {
+      "question": "Panama City is the capital of which country?",
+      "options": [
+        "Peru",
+        "China",
+        "Panama",
+        "Croatia"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-PY",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Paraguai?",
+      "options": [
+        "Lomé",
+        "Seul",
+        "Assunção",
+        "Caracas"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Paraguay?",
+      "options": [
+        "Lomé",
+        "Seoul",
+        "Asunción",
+        "Caracas"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-PY",
+    "category": "capitais",
+    "pt": {
+      "question": "Assunção é a capital de qual país?",
+      "options": [
+        "Quênia",
+        "Gabão",
+        "Jamaica",
+        "Paraguai"
+      ]
+    },
+    "en": {
+      "question": "Asunción is the capital of which country?",
+      "options": [
+        "Kenya",
+        "Gabon",
+        "Jamaica",
+        "Paraguay"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-PE",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Peru?",
+      "options": [
+        "Malé",
+        "Lima",
+        "Majuro",
+        "Kinshasa"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Peru?",
+      "options": [
+        "Malé",
+        "Lima",
+        "Majuro",
+        "Kinshasa"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-PE",
+    "category": "capitais",
+    "pt": {
+      "question": "Lima é a capital de qual país?",
+      "options": [
+        "Mongólia",
+        "Letônia",
+        "Peru",
+        "Guiana"
+      ]
+    },
+    "en": {
+      "question": "Lima is the capital of which country?",
+      "options": [
+        "Mongolia",
+        "Latvia",
+        "Peru",
+        "Guyana"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-KN",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de São Cristóvão e Névis?",
+      "options": [
+        "Cidade do Kuwait",
+        "Sanaa",
+        "Basseterre",
+        "Bangcoc"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Saint Kitts and Nevis?",
+      "options": [
+        "Kuwait City",
+        "Sana'a",
+        "Basseterre",
+        "Bangkok"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-KN",
+    "category": "capitais",
+    "pt": {
+      "question": "Basseterre é a capital de qual país?",
+      "options": [
+        "Djibuti",
+        "São Cristóvão e Névis",
+        "Costa Rica",
+        "Países Baixos"
+      ]
+    },
+    "en": {
+      "question": "Basseterre is the capital of which country?",
+      "options": [
+        "Djibouti",
+        "Saint Kitts and Nevis",
+        "Costa Rica",
+        "Netherlands"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-LC",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Santa Lúcia?",
+      "options": [
+        "Bissau",
+        "Castries",
+        "Kuala Lumpur",
+        "Nassau"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Saint Lucia?",
+      "options": [
+        "Bissau",
+        "Castries",
+        "Kuala Lumpur",
+        "Nassau"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-LC",
+    "category": "capitais",
+    "pt": {
+      "question": "Castries é a capital de qual país?",
+      "options": [
+        "Irã",
+        "Cazaquistão",
+        "Santa Lúcia",
+        "Djibuti"
+      ]
+    },
+    "en": {
+      "question": "Castries is the capital of which country?",
+      "options": [
+        "Iran",
+        "Kazakhstan",
+        "Saint Lucia",
+        "Djibouti"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-VC",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de São Vicente e Granadinas?",
+      "options": [
+        "Kingstown",
+        "Manila",
+        "Port-au-Prince",
+        "Ndjamena"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Saint Vincent and the Grenadines?",
+      "options": [
+        "Kingstown",
+        "Manila",
+        "Port-au-Prince",
+        "N'Djamena"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-VC",
+    "category": "capitais",
+    "pt": {
+      "question": "Kingstown é a capital de qual país?",
+      "options": [
+        "Liechtenstein",
+        "Mianmar",
+        "Angola",
+        "São Vicente e Granadinas"
+      ]
+    },
+    "en": {
+      "question": "Kingstown is the capital of which country?",
+      "options": [
+        "Liechtenstein",
+        "Myanmar",
+        "Angola",
+        "Saint Vincent and the Grenadines"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-SR",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Suriname?",
+      "options": [
+        "Brazzaville",
+        "Ottawa",
+        "Paramaribo",
+        "Cidade do Kuwait"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Suriname?",
+      "options": [
+        "Brazzaville",
+        "Ottawa",
+        "Paramaribo",
+        "Kuwait City"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-SR",
+    "category": "capitais",
+    "pt": {
+      "question": "Paramaribo é a capital de qual país?",
+      "options": [
+        "Tajiquistão",
+        "Andorra",
+        "Islândia",
+        "Suriname"
+      ]
+    },
+    "en": {
+      "question": "Paramaribo is the capital of which country?",
+      "options": [
+        "Tajikistan",
+        "Andorra",
+        "Iceland",
+        "Suriname"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-TT",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Trindade e Tobago?",
+      "options": [
+        "San Marino",
+        "Cartum",
+        "Moscou",
+        "Port of Spain"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Trinidad and Tobago?",
+      "options": [
+        "San Marino",
+        "Khartoum",
+        "Moscow",
+        "Port of Spain"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-TT",
+    "category": "capitais",
+    "pt": {
+      "question": "Port of Spain é a capital de qual país?",
+      "options": [
+        "Bielorrússia",
+        "Vietnã",
+        "Essuatíni",
+        "Trindade e Tobago"
+      ]
+    },
+    "en": {
+      "question": "Port of Spain is the capital of which country?",
+      "options": [
+        "Belarus",
+        "Vietnam",
+        "Eswatini",
+        "Trinidad and Tobago"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-US",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Estados Unidos?",
+      "options": [
+        "Lisboa",
+        "Ottawa",
+        "Wellington",
+        "Washington, D.C."
+      ]
+    },
+    "en": {
+      "question": "What is the capital of United States?",
+      "options": [
+        "Lisbon",
+        "Ottawa",
+        "Wellington",
+        "Washington, D.C."
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-US",
+    "category": "capitais",
+    "pt": {
+      "question": "Washington, D.C. é a capital de qual país?",
+      "options": [
+        "Marrocos",
+        "Estados Unidos",
+        "Azerbaijão",
+        "República Democrática do Congo"
+      ]
+    },
+    "en": {
+      "question": "Washington, D.C. is the capital of which country?",
+      "options": [
+        "Morocco",
+        "United States",
+        "Azerbaijan",
+        "Democratic Republic of the Congo"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-UY",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Uruguai?",
+      "options": [
+        "Ndjamena",
+        "Kingston",
+        "Campala",
+        "Montevidéu"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Uruguay?",
+      "options": [
+        "N'Djamena",
+        "Kingston",
+        "Kampala",
+        "Montevideo"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-UY",
+    "category": "capitais",
+    "pt": {
+      "question": "Montevidéu é a capital de qual país?",
+      "options": [
+        "Uruguai",
+        "Peru",
+        "Paraguai",
+        "Turcomenistão"
+      ]
+    },
+    "en": {
+      "question": "Montevideo is the capital of which country?",
+      "options": [
+        "Uruguay",
+        "Peru",
+        "Paraguay",
+        "Turkmenistan"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-VE",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Venezuela?",
+      "options": [
+        "Caracas",
+        "Bamaco",
+        "San Salvador",
+        "Bandar Seri Begawan"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Venezuela?",
+      "options": [
+        "Caracas",
+        "Bamako",
+        "San Salvador",
+        "Bandar Seri Begawan"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-VE",
+    "category": "capitais",
+    "pt": {
+      "question": "Caracas é a capital de qual país?",
+      "options": [
+        "Venezuela",
+        "Geórgia",
+        "Estados Unidos",
+        "Sudão"
+      ]
+    },
+    "en": {
+      "question": "Caracas is the capital of which country?",
+      "options": [
+        "Venezuela",
+        "Georgia",
+        "United States",
+        "Sudan"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-AF",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Afeganistão?",
+      "options": [
+        "Kingston",
+        "Minsk",
+        "Castries",
+        "Cabul"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Afghanistan?",
+      "options": [
+        "Kingston",
+        "Minsk",
+        "Castries",
+        "Kabul"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-AF",
+    "category": "capitais",
+    "pt": {
+      "question": "Cabul é a capital de qual país?",
+      "options": [
+        "Afeganistão",
+        "Romênia",
+        "Jamaica",
+        "Panamá"
+      ]
+    },
+    "en": {
+      "question": "Kabul is the capital of which country?",
+      "options": [
+        "Afghanistan",
+        "Romania",
+        "Jamaica",
+        "Panama"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-AM",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Armênia?",
+      "options": [
+        "Cairo",
+        "Saint George's",
+        "Podgorica",
+        "Erevã"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Armenia?",
+      "options": [
+        "Cairo",
+        "Saint George's",
+        "Podgorica",
+        "Yerevan"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-AM",
+    "category": "capitais",
+    "pt": {
+      "question": "Erevã é a capital de qual país?",
+      "options": [
+        "Ilhas Salomão",
+        "Turcomenistão",
+        "Armênia",
+        "Butão"
+      ]
+    },
+    "en": {
+      "question": "Yerevan is the capital of which country?",
+      "options": [
+        "Solomon Islands",
+        "Turkmenistan",
+        "Armenia",
+        "Bhutan"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-AZ",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Azerbaijão?",
+      "options": [
+        "Daca",
+        "Copenhague",
+        "Tbilisi",
+        "Baku"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Azerbaijan?",
+      "options": [
+        "Dhaka",
+        "Copenhagen",
+        "Tbilisi",
+        "Baku"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-AZ",
+    "category": "capitais",
+    "pt": {
+      "question": "Baku é a capital de qual país?",
+      "options": [
+        "Brunei",
+        "Azerbaijão",
+        "Eslováquia",
+        "Nepal"
+      ]
+    },
+    "en": {
+      "question": "Baku is the capital of which country?",
+      "options": [
+        "Brunei",
+        "Azerbaijan",
+        "Slovakia",
+        "Nepal"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-BH",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Bahrein?",
+      "options": [
+        "Manama",
+        "Praia",
+        "Ngerulmud",
+        "Cartum"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Bahrain?",
+      "options": [
+        "Manama",
+        "Praia",
+        "Ngerulmud",
+        "Khartoum"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-BH",
+    "category": "capitais",
+    "pt": {
+      "question": "Manama é a capital de qual país?",
+      "options": [
+        "Bahrein",
+        "Croácia",
+        "República Dominicana",
+        "Malawi"
+      ]
+    },
+    "en": {
+      "question": "Manama is the capital of which country?",
+      "options": [
+        "Bahrain",
+        "Croatia",
+        "Dominican Republic",
+        "Malawi"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-BD",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Bangladesh?",
+      "options": [
+        "Ulan Bator",
+        "Mogadíscio",
+        "Suva",
+        "Daca"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Bangladesh?",
+      "options": [
+        "Ulaanbaatar",
+        "Mogadishu",
+        "Suva",
+        "Dhaka"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-BD",
+    "category": "capitais",
+    "pt": {
+      "question": "Daca é a capital de qual país?",
+      "options": [
+        "Austrália",
+        "Rússia",
+        "Venezuela",
+        "Bangladesh"
+      ]
+    },
+    "en": {
+      "question": "Dhaka is the capital of which country?",
+      "options": [
+        "Australia",
+        "Russia",
+        "Venezuela",
+        "Bangladesh"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-BT",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Butão?",
+      "options": [
+        "Timphu",
+        "Brasília",
+        "Praia",
+        "Damasco"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Bhutan?",
+      "options": [
+        "Thimphu",
+        "Brasília",
+        "Praia",
+        "Damascus"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-BT",
+    "category": "capitais",
+    "pt": {
+      "question": "Timphu é a capital de qual país?",
+      "options": [
+        "Bósnia e Herzegovina",
+        "Palestina",
+        "Maurícia",
+        "Butão"
+      ]
+    },
+    "en": {
+      "question": "Thimphu is the capital of which country?",
+      "options": [
+        "Bosnia and Herzegovina",
+        "Palestine",
+        "Mauritius",
+        "Bhutan"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-BN",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Brunei?",
+      "options": [
+        "Amsterdã",
+        "Basseterre",
+        "Nuaquechott",
+        "Bandar Seri Begawan"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Brunei?",
+      "options": [
+        "Amsterdam",
+        "Basseterre",
+        "Nouakchott",
+        "Bandar Seri Begawan"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-BN",
+    "category": "capitais",
+    "pt": {
+      "question": "Bandar Seri Begawan é a capital de qual país?",
+      "options": [
+        "Venezuela",
+        "Brunei",
+        "Emirados Árabes Unidos",
+        "Eslovênia"
+      ]
+    },
+    "en": {
+      "question": "Bandar Seri Begawan is the capital of which country?",
+      "options": [
+        "Venezuela",
+        "Brunei",
+        "United Arab Emirates",
+        "Slovenia"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-KH",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Camboja?",
+      "options": [
+        "Phnom Penh",
+        "Castries",
+        "Bridgetown",
+        "Canberra"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Cambodia?",
+      "options": [
+        "Phnom Penh",
+        "Castries",
+        "Bridgetown",
+        "Canberra"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-KH",
+    "category": "capitais",
+    "pt": {
+      "question": "Phnom Penh é a capital de qual país?",
+      "options": [
+        "Tunísia",
+        "Gâmbia",
+        "Camboja",
+        "Costa Rica"
+      ]
+    },
+    "en": {
+      "question": "Phnom Penh is the capital of which country?",
+      "options": [
+        "Tunisia",
+        "Gambia",
+        "Cambodia",
+        "Costa Rica"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-CN",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de China?",
+      "options": [
+        "Moroni",
+        "Praga",
+        "Iaundé",
+        "Pequim"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of China?",
+      "options": [
+        "Moroni",
+        "Prague",
+        "Yaoundé",
+        "Beijing"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-CN",
+    "category": "capitais",
+    "pt": {
+      "question": "Pequim é a capital de qual país?",
+      "options": [
+        "Noruega",
+        "China",
+        "Zimbábue",
+        "Estônia"
+      ]
+    },
+    "en": {
+      "question": "Beijing is the capital of which country?",
+      "options": [
+        "Norway",
+        "China",
+        "Zimbabwe",
+        "Estonia"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-CY",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Chipre?",
+      "options": [
+        "Pyongyang",
+        "Cidade do México",
+        "Adis Abeba",
+        "Nicósia"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Cyprus?",
+      "options": [
+        "Pyongyang",
+        "Mexico City",
+        "Addis Ababa",
+        "Nicosia"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-CY",
+    "category": "capitais",
+    "pt": {
+      "question": "Nicósia é a capital de qual país?",
+      "options": [
+        "Singapura",
+        "Chipre",
+        "Paquistão",
+        "Cazaquistão"
+      ]
+    },
+    "en": {
+      "question": "Nicosia is the capital of which country?",
+      "options": [
+        "Singapore",
+        "Cyprus",
+        "Pakistan",
+        "Kazakhstan"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-GE",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Geórgia?",
+      "options": [
+        "Ramallah",
+        "Ottawa",
+        "Basseterre",
+        "Tbilisi"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Georgia?",
+      "options": [
+        "Ramallah",
+        "Ottawa",
+        "Basseterre",
+        "Tbilisi"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-GE",
+    "category": "capitais",
+    "pt": {
+      "question": "Tbilisi é a capital de qual país?",
+      "options": [
+        "Costa do Marfim",
+        "Namíbia",
+        "Colômbia",
+        "Geórgia"
+      ]
+    },
+    "en": {
+      "question": "Tbilisi is the capital of which country?",
+      "options": [
+        "Ivory Coast",
+        "Namibia",
+        "Colombia",
+        "Georgia"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-IN",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Índia?",
+      "options": [
+        "Dushanbe",
+        "Nova Délhi",
+        "Asgabate",
+        "Ramallah"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of India?",
+      "options": [
+        "Dushanbe",
+        "New Delhi",
+        "Ashgabat",
+        "Ramallah"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-IN",
+    "category": "capitais",
+    "pt": {
+      "question": "Nova Délhi é a capital de qual país?",
+      "options": [
+        "Guiné-Bissau",
+        "Indonésia",
+        "Índia",
+        "Timor-Leste"
+      ]
+    },
+    "en": {
+      "question": "New Delhi is the capital of which country?",
+      "options": [
+        "Guinea-Bissau",
+        "Indonesia",
+        "India",
+        "Timor-Leste"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-ID",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Indonésia?",
+      "options": [
+        "Jacarta",
+        "Monróvia",
+        "Rabat",
+        "Beirute"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Indonesia?",
+      "options": [
+        "Jakarta",
+        "Monrovia",
+        "Rabat",
+        "Beirut"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-ID",
+    "category": "capitais",
+    "pt": {
+      "question": "Jacarta é a capital de qual país?",
+      "options": [
+        "Israel",
+        "Bangladesh",
+        "Indonésia",
+        "República Democrática do Congo"
+      ]
+    },
+    "en": {
+      "question": "Jakarta is the capital of which country?",
+      "options": [
+        "Israel",
+        "Bangladesh",
+        "Indonesia",
+        "Democratic Republic of the Congo"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-IR",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Irã?",
+      "options": [
+        "Teerã",
+        "Nova Délhi",
+        "Nuaquechott",
+        "Iamussucro"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Iran?",
+      "options": [
+        "Tehran",
+        "New Delhi",
+        "Nouakchott",
+        "Yamoussoukro"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-IR",
+    "category": "capitais",
+    "pt": {
+      "question": "Teerã é a capital de qual país?",
+      "options": [
+        "Tuvalu",
+        "Irã",
+        "Namíbia",
+        "Tunísia"
+      ]
+    },
+    "en": {
+      "question": "Tehran is the capital of which country?",
+      "options": [
+        "Tuvalu",
+        "Iran",
+        "Namibia",
+        "Tunisia"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-IQ",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Iraque?",
+      "options": [
+        "Bagdá",
+        "Riga",
+        "Basseterre",
+        "Kingstown"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Iraq?",
+      "options": [
+        "Baghdad",
+        "Riga",
+        "Basseterre",
+        "Kingstown"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-IQ",
+    "category": "capitais",
+    "pt": {
+      "question": "Bagdá é a capital de qual país?",
+      "options": [
+        "Iraque",
+        "Hungria",
+        "Estados Unidos",
+        "Timor-Leste"
+      ]
+    },
+    "en": {
+      "question": "Baghdad is the capital of which country?",
+      "options": [
+        "Iraq",
+        "Hungary",
+        "United States",
+        "Timor-Leste"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-IL",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Israel?",
+      "options": [
+        "Chisinau",
+        "Palikir",
+        "Estocolmo",
+        "Jerusalém"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Israel?",
+      "options": [
+        "Chisinau",
+        "Palikir",
+        "Stockholm",
+        "Jerusalem"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-IL",
+    "category": "capitais",
+    "pt": {
+      "question": "Jerusalém é a capital de qual país?",
+      "options": [
+        "França",
+        "Israel",
+        "Polônia",
+        "República Dominicana"
+      ]
+    },
+    "en": {
+      "question": "Jerusalem is the capital of which country?",
+      "options": [
+        "France",
+        "Israel",
+        "Poland",
+        "Dominican Republic"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-JP",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Japão?",
+      "options": [
+        "Malé",
+        "Tóquio",
+        "Dodoma",
+        "Uagadugu"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Japan?",
+      "options": [
+        "Malé",
+        "Tokyo",
+        "Dodoma",
+        "Ouagadougou"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-JP",
+    "category": "capitais",
+    "pt": {
+      "question": "Tóquio é a capital de qual país?",
+      "options": [
+        "Japão",
+        "Jordânia",
+        "Suécia",
+        "Zâmbia"
+      ]
+    },
+    "en": {
+      "question": "Tokyo is the capital of which country?",
+      "options": [
+        "Japan",
+        "Jordan",
+        "Sweden",
+        "Zambia"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-JO",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Jordânia?",
+      "options": [
+        "Amã",
+        "Phnom Penh",
+        "Lima",
+        "Hanói"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Jordan?",
+      "options": [
+        "Amman",
+        "Phnom Penh",
+        "Lima",
+        "Hanoi"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-JO",
+    "category": "capitais",
+    "pt": {
+      "question": "Amã é a capital de qual país?",
+      "options": [
+        "Jordânia",
+        "Bielorrússia",
+        "Eslováquia",
+        "Armênia"
+      ]
+    },
+    "en": {
+      "question": "Amman is the capital of which country?",
+      "options": [
+        "Jordan",
+        "Belarus",
+        "Slovakia",
+        "Armenia"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-KZ",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Cazaquistão?",
+      "options": [
+        "Astana",
+        "Colombo",
+        "Estocolmo",
+        "Cidade do Vaticano"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Kazakhstan?",
+      "options": [
+        "Astana",
+        "Colombo",
+        "Stockholm",
+        "Vatican City"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-KZ",
+    "category": "capitais",
+    "pt": {
+      "question": "Astana é a capital de qual país?",
+      "options": [
+        "Granada",
+        "Croácia",
+        "Cazaquistão",
+        "Ilhas Marshall"
+      ]
+    },
+    "en": {
+      "question": "Astana is the capital of which country?",
+      "options": [
+        "Grenada",
+        "Croatia",
+        "Kazakhstan",
+        "Marshall Islands"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-KW",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Kuwait?",
+      "options": [
+        "Varsóvia",
+        "Havana",
+        "Cidade do Kuwait",
+        "Honiara"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Kuwait?",
+      "options": [
+        "Warsaw",
+        "Havana",
+        "Kuwait City",
+        "Honiara"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-KW",
+    "category": "capitais",
+    "pt": {
+      "question": "Cidade do Kuwait é a capital de qual país?",
+      "options": [
+        "Andorra",
+        "Croácia",
+        "Kuwait",
+        "El Salvador"
+      ]
+    },
+    "en": {
+      "question": "Kuwait City is the capital of which country?",
+      "options": [
+        "Andorra",
+        "Croatia",
+        "Kuwait",
+        "El Salvador"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-KG",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Quirguistão?",
+      "options": [
+        "Bisqueque",
+        "Djibuti",
+        "Tóquio",
+        "Nairóbi"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Kyrgyzstan?",
+      "options": [
+        "Bishkek",
+        "Djibouti",
+        "Tokyo",
+        "Nairobi"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-KG",
+    "category": "capitais",
+    "pt": {
+      "question": "Bisqueque é a capital de qual país?",
+      "options": [
+        "Quênia",
+        "Moçambique",
+        "Eslovênia",
+        "Quirguistão"
+      ]
+    },
+    "en": {
+      "question": "Bishkek is the capital of which country?",
+      "options": [
+        "Kenya",
+        "Mozambique",
+        "Slovenia",
+        "Kyrgyzstan"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-LA",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Laos?",
+      "options": [
+        "Conacri",
+        "Vientiane",
+        "Malabo",
+        "Escópia"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Laos?",
+      "options": [
+        "Conakry",
+        "Vientiane",
+        "Malabo",
+        "Skopje"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-LA",
+    "category": "capitais",
+    "pt": {
+      "question": "Vientiane é a capital de qual país?",
+      "options": [
+        "África do Sul",
+        "Jordânia",
+        "Somália",
+        "Laos"
+      ]
+    },
+    "en": {
+      "question": "Vientiane is the capital of which country?",
+      "options": [
+        "South Africa",
+        "Jordan",
+        "Somalia",
+        "Laos"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-LB",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Líbano?",
+      "options": [
+        "Amsterdã",
+        "Pyongyang",
+        "Beirute",
+        "Minsk"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Lebanon?",
+      "options": [
+        "Amsterdam",
+        "Pyongyang",
+        "Beirut",
+        "Minsk"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-LB",
+    "category": "capitais",
+    "pt": {
+      "question": "Beirute é a capital de qual país?",
+      "options": [
+        "Líbia",
+        "El Salvador",
+        "Líbano",
+        "Togo"
+      ]
+    },
+    "en": {
+      "question": "Beirut is the capital of which country?",
+      "options": [
+        "Libya",
+        "El Salvador",
+        "Lebanon",
+        "Togo"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-MY",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Malásia?",
+      "options": [
+        "Kuala Lumpur",
+        "Riga",
+        "Mogadíscio",
+        "Podgorica"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Malaysia?",
+      "options": [
+        "Kuala Lumpur",
+        "Riga",
+        "Mogadishu",
+        "Podgorica"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-MY",
+    "category": "capitais",
+    "pt": {
+      "question": "Kuala Lumpur é a capital de qual país?",
+      "options": [
+        "Guiné",
+        "Irã",
+        "San Marino",
+        "Malásia"
+      ]
+    },
+    "en": {
+      "question": "Kuala Lumpur is the capital of which country?",
+      "options": [
+        "Guinea",
+        "Iran",
+        "San Marino",
+        "Malaysia"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-MV",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Maldivas?",
+      "options": [
+        "Berlim",
+        "Manágua",
+        "Paramaribo",
+        "Malé"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Maldives?",
+      "options": [
+        "Berlin",
+        "Managua",
+        "Paramaribo",
+        "Malé"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-MV",
+    "category": "capitais",
+    "pt": {
+      "question": "Malé é a capital de qual país?",
+      "options": [
+        "Guiné Equatorial",
+        "Brasil",
+        "Suíça",
+        "Maldivas"
+      ]
+    },
+    "en": {
+      "question": "Malé is the capital of which country?",
+      "options": [
+        "Equatorial Guinea",
+        "Brazil",
+        "Switzerland",
+        "Maldives"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-MN",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Mongólia?",
+      "options": [
+        "Ulan Bator",
+        "Rabat",
+        "Riade",
+        "Nassau"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Mongolia?",
+      "options": [
+        "Ulaanbaatar",
+        "Rabat",
+        "Riyadh",
+        "Nassau"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-MN",
+    "category": "capitais",
+    "pt": {
+      "question": "Ulan Bator é a capital de qual país?",
+      "options": [
+        "Jordânia",
+        "Mongólia",
+        "Reino Unido",
+        "Bélgica"
+      ]
+    },
+    "en": {
+      "question": "Ulaanbaatar is the capital of which country?",
+      "options": [
+        "Jordan",
+        "Mongolia",
+        "United Kingdom",
+        "Belgium"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-MM",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Mianmar?",
+      "options": [
+        "Díli",
+        "Naypyidaw",
+        "Bruxelas",
+        "Malabo"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Myanmar?",
+      "options": [
+        "Dili",
+        "Naypyidaw",
+        "Brussels",
+        "Malabo"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-MM",
+    "category": "capitais",
+    "pt": {
+      "question": "Naypyidaw é a capital de qual país?",
+      "options": [
+        "Seicheles",
+        "São Vicente e Granadinas",
+        "Mianmar",
+        "Uzbequistão"
+      ]
+    },
+    "en": {
+      "question": "Naypyidaw is the capital of which country?",
+      "options": [
+        "Seychelles",
+        "Saint Vincent and the Grenadines",
+        "Myanmar",
+        "Uzbekistan"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-NP",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Nepal?",
+      "options": [
+        "Pyongyang",
+        "Asgabate",
+        "Amã",
+        "Catmandu"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Nepal?",
+      "options": [
+        "Pyongyang",
+        "Ashgabat",
+        "Amman",
+        "Kathmandu"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-NP",
+    "category": "capitais",
+    "pt": {
+      "question": "Catmandu é a capital de qual país?",
+      "options": [
+        "Micronésia",
+        "Panamá",
+        "Sérvia",
+        "Nepal"
+      ]
+    },
+    "en": {
+      "question": "Kathmandu is the capital of which country?",
+      "options": [
+        "Micronesia",
+        "Panama",
+        "Serbia",
+        "Nepal"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-KP",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Coreia do Norte?",
+      "options": [
+        "Malabo",
+        "Viena",
+        "Pyongyang",
+        "Mbabane"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of North Korea?",
+      "options": [
+        "Malabo",
+        "Vienna",
+        "Pyongyang",
+        "Mbabane"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-KP",
+    "category": "capitais",
+    "pt": {
+      "question": "Pyongyang é a capital de qual país?",
+      "options": [
+        "Coreia do Norte",
+        "Sudão do Sul",
+        "Israel",
+        "Marrocos"
+      ]
+    },
+    "en": {
+      "question": "Pyongyang is the capital of which country?",
+      "options": [
+        "North Korea",
+        "South Sudan",
+        "Israel",
+        "Morocco"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-OM",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Omã?",
+      "options": [
+        "Yaren",
+        "Nuaquechott",
+        "Mascate",
+        "Sanaa"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Oman?",
+      "options": [
+        "Yaren",
+        "Nouakchott",
+        "Muscat",
+        "Sana'a"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-OM",
+    "category": "capitais",
+    "pt": {
+      "question": "Mascate é a capital de qual país?",
+      "options": [
+        "Omã",
+        "México",
+        "Paquistão",
+        "Sérvia"
+      ]
+    },
+    "en": {
+      "question": "Muscat is the capital of which country?",
+      "options": [
+        "Oman",
+        "Mexico",
+        "Pakistan",
+        "Serbia"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-PK",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Paquistão?",
+      "options": [
+        "Bangui",
+        "Bucareste",
+        "Astana",
+        "Islamabade"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Pakistan?",
+      "options": [
+        "Bangui",
+        "Bucharest",
+        "Astana",
+        "Islamabad"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-PK",
+    "category": "capitais",
+    "pt": {
+      "question": "Islamabade é a capital de qual país?",
+      "options": [
+        "Quênia",
+        "Islândia",
+        "Essuatíni",
+        "Paquistão"
+      ]
+    },
+    "en": {
+      "question": "Islamabad is the capital of which country?",
+      "options": [
+        "Kenya",
+        "Iceland",
+        "Eswatini",
+        "Pakistan"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-PS",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Palestina?",
+      "options": [
+        "Ramallah",
+        "Bangcoc",
+        "Sucre",
+        "Tegucigalpa"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Palestine?",
+      "options": [
+        "Ramallah",
+        "Bangkok",
+        "Sucre",
+        "Tegucigalpa"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-PS",
+    "category": "capitais",
+    "pt": {
+      "question": "Ramallah é a capital de qual país?",
+      "options": [
+        "Palestina",
+        "Nicarágua",
+        "Namíbia",
+        "Brasil"
+      ]
+    },
+    "en": {
+      "question": "Ramallah is the capital of which country?",
+      "options": [
+        "Palestine",
+        "Nicaragua",
+        "Namibia",
+        "Brazil"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-PH",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Filipinas?",
+      "options": [
+        "Manila",
+        "Amsterdã",
+        "Pequim",
+        "San Marino"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Philippines?",
+      "options": [
+        "Manila",
+        "Amsterdam",
+        "Beijing",
+        "San Marino"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-PH",
+    "category": "capitais",
+    "pt": {
+      "question": "Manila é a capital de qual país?",
+      "options": [
+        "Nigéria",
+        "Israel",
+        "Filipinas",
+        "México"
+      ]
+    },
+    "en": {
+      "question": "Manila is the capital of which country?",
+      "options": [
+        "Nigeria",
+        "Israel",
+        "Philippines",
+        "Mexico"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-QA",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Catar?",
+      "options": [
+        "Santiago",
+        "Doha",
+        "Havana",
+        "Tbilisi"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Qatar?",
+      "options": [
+        "Santiago",
+        "Doha",
+        "Havana",
+        "Tbilisi"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-QA",
+    "category": "capitais",
+    "pt": {
+      "question": "Doha é a capital de qual país?",
+      "options": [
+        "Butão",
+        "Guiné-Bissau",
+        "Catar",
+        "Mianmar"
+      ]
+    },
+    "en": {
+      "question": "Doha is the capital of which country?",
+      "options": [
+        "Bhutan",
+        "Guinea-Bissau",
+        "Qatar",
+        "Myanmar"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-SA",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Arábia Saudita?",
+      "options": [
+        "Gaborone",
+        "Manágua",
+        "Riade",
+        "Port of Spain"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Saudi Arabia?",
+      "options": [
+        "Gaborone",
+        "Managua",
+        "Riyadh",
+        "Port of Spain"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-SA",
+    "category": "capitais",
+    "pt": {
+      "question": "Riade é a capital de qual país?",
+      "options": [
+        "Catar",
+        "Arábia Saudita",
+        "Tuvalu",
+        "Ilhas Salomão"
+      ]
+    },
+    "en": {
+      "question": "Riyadh is the capital of which country?",
+      "options": [
+        "Qatar",
+        "Saudi Arabia",
+        "Tuvalu",
+        "Solomon Islands"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-SG",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Singapura?",
+      "options": [
+        "Roseau",
+        "Singapura",
+        "Cidade do Panamá",
+        "Manama"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Singapore?",
+      "options": [
+        "Roseau",
+        "Singapore",
+        "Panama City",
+        "Manama"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-SG",
+    "category": "capitais",
+    "pt": {
+      "question": "Singapura é a capital de qual país?",
+      "options": [
+        "Vanuatu",
+        "Ilhas Marshall",
+        "Singapura",
+        "Palestina"
+      ]
+    },
+    "en": {
+      "question": "Singapore is the capital of which country?",
+      "options": [
+        "Vanuatu",
+        "Marshall Islands",
+        "Singapore",
+        "Palestine"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-KR",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Coreia do Sul?",
+      "options": [
+        "Tunes",
+        "Kingston",
+        "Seul",
+        "Kigali"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of South Korea?",
+      "options": [
+        "Tunis",
+        "Kingston",
+        "Seoul",
+        "Kigali"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-KR",
+    "category": "capitais",
+    "pt": {
+      "question": "Seul é a capital de qual país?",
+      "options": [
+        "Coreia do Sul",
+        "Tajiquistão",
+        "Dinamarca",
+        "Chile"
+      ]
+    },
+    "en": {
+      "question": "Seoul is the capital of which country?",
+      "options": [
+        "South Korea",
+        "Tajikistan",
+        "Denmark",
+        "Chile"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-LK",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Sri Lanka?",
+      "options": [
+        "Seul",
+        "Colombo",
+        "Minsk",
+        "Majuro"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Sri Lanka?",
+      "options": [
+        "Seoul",
+        "Colombo",
+        "Minsk",
+        "Majuro"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-LK",
+    "category": "capitais",
+    "pt": {
+      "question": "Colombo é a capital de qual país?",
+      "options": [
+        "República Centro-Africana",
+        "Vietnã",
+        "Gabão",
+        "Sri Lanka"
+      ]
+    },
+    "en": {
+      "question": "Colombo is the capital of which country?",
+      "options": [
+        "Central African Republic",
+        "Vietnam",
+        "Gabon",
+        "Sri Lanka"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-SY",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Síria?",
+      "options": [
+        "Damasco",
+        "Bandar Seri Begawan",
+        "Malabo",
+        "Vilnius"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Syria?",
+      "options": [
+        "Damascus",
+        "Bandar Seri Begawan",
+        "Malabo",
+        "Vilnius"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-SY",
+    "category": "capitais",
+    "pt": {
+      "question": "Damasco é a capital de qual país?",
+      "options": [
+        "Burquina Faso",
+        "Angola",
+        "Síria",
+        "Albânia"
+      ]
+    },
+    "en": {
+      "question": "Damascus is the capital of which country?",
+      "options": [
+        "Burkina Faso",
+        "Angola",
+        "Syria",
+        "Albania"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-TJ",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Tajiquistão?",
+      "options": [
+        "Dushanbe",
+        "Ottawa",
+        "Abuja",
+        "Hanói"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Tajikistan?",
+      "options": [
+        "Dushanbe",
+        "Ottawa",
+        "Abuja",
+        "Hanoi"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-TJ",
+    "category": "capitais",
+    "pt": {
+      "question": "Dushanbe é a capital de qual país?",
+      "options": [
+        "Indonésia",
+        "Equador",
+        "Armênia",
+        "Tajiquistão"
+      ]
+    },
+    "en": {
+      "question": "Dushanbe is the capital of which country?",
+      "options": [
+        "Indonesia",
+        "Ecuador",
+        "Armenia",
+        "Tajikistan"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-TH",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Tailândia?",
+      "options": [
+        "Pequim",
+        "Phnom Penh",
+        "Bangcoc",
+        "Sarajevo"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Thailand?",
+      "options": [
+        "Beijing",
+        "Phnom Penh",
+        "Bangkok",
+        "Sarajevo"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-TH",
+    "category": "capitais",
+    "pt": {
+      "question": "Bangcoc é a capital de qual país?",
+      "options": [
+        "Tailândia",
+        "Serra Leoa",
+        "Reino Unido",
+        "Gana"
+      ]
+    },
+    "en": {
+      "question": "Bangkok is the capital of which country?",
+      "options": [
+        "Thailand",
+        "Sierra Leone",
+        "United Kingdom",
+        "Ghana"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-TL",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Timor-Leste?",
+      "options": [
+        "Madri",
+        "Libreville",
+        "Cidade da Guatemala",
+        "Díli"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Timor-Leste?",
+      "options": [
+        "Madrid",
+        "Libreville",
+        "Guatemala City",
+        "Dili"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-TL",
+    "category": "capitais",
+    "pt": {
+      "question": "Díli é a capital de qual país?",
+      "options": [
+        "Timor-Leste",
+        "Grécia",
+        "Zimbábue",
+        "Burquina Faso"
+      ]
+    },
+    "en": {
+      "question": "Dili is the capital of which country?",
+      "options": [
+        "Timor-Leste",
+        "Greece",
+        "Zimbabwe",
+        "Burkina Faso"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-TR",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Turquia?",
+      "options": [
+        "Estocolmo",
+        "Banjul",
+        "Ancara",
+        "Palikir"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Turkey?",
+      "options": [
+        "Stockholm",
+        "Banjul",
+        "Ankara",
+        "Palikir"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-TR",
+    "category": "capitais",
+    "pt": {
+      "question": "Ancara é a capital de qual país?",
+      "options": [
+        "Turquia",
+        "Líbano",
+        "Gabão",
+        "Bolívia"
+      ]
+    },
+    "en": {
+      "question": "Ankara is the capital of which country?",
+      "options": [
+        "Turkey",
+        "Lebanon",
+        "Gabon",
+        "Bolivia"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-TM",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Turcomenistão?",
+      "options": [
+        "Cartum",
+        "Vientiane",
+        "Asgabate",
+        "Liubliana"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Turkmenistan?",
+      "options": [
+        "Khartoum",
+        "Vientiane",
+        "Ashgabat",
+        "Ljubljana"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-TM",
+    "category": "capitais",
+    "pt": {
+      "question": "Asgabate é a capital de qual país?",
+      "options": [
+        "Fiji",
+        "Etiópia",
+        "Colômbia",
+        "Turcomenistão"
+      ]
+    },
+    "en": {
+      "question": "Ashgabat is the capital of which country?",
+      "options": [
+        "Fiji",
+        "Ethiopia",
+        "Colombia",
+        "Turkmenistan"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-AE",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Emirados Árabes Unidos?",
+      "options": [
+        "Abu Dhabi",
+        "Luanda",
+        "Bissau",
+        "Cidade do Panamá"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of United Arab Emirates?",
+      "options": [
+        "Abu Dhabi",
+        "Luanda",
+        "Bissau",
+        "Panama City"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-AE",
+    "category": "capitais",
+    "pt": {
+      "question": "Abu Dhabi é a capital de qual país?",
+      "options": [
+        "Emirados Árabes Unidos",
+        "Maurícia",
+        "Guiné",
+        "Lesoto"
+      ]
+    },
+    "en": {
+      "question": "Abu Dhabi is the capital of which country?",
+      "options": [
+        "United Arab Emirates",
+        "Mauritius",
+        "Guinea",
+        "Lesotho"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-UZ",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Uzbequistão?",
+      "options": [
+        "Dublin",
+        "Reykjavik",
+        "Tasquente",
+        "Kingstown"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Uzbekistan?",
+      "options": [
+        "Dublin",
+        "Reykjavik",
+        "Tashkent",
+        "Kingstown"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-UZ",
+    "category": "capitais",
+    "pt": {
+      "question": "Tasquente é a capital de qual país?",
+      "options": [
+        "Gana",
+        "Uzbequistão",
+        "Geórgia",
+        "Japão"
+      ]
+    },
+    "en": {
+      "question": "Tashkent is the capital of which country?",
+      "options": [
+        "Ghana",
+        "Uzbekistan",
+        "Georgia",
+        "Japan"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-VN",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Vietnã?",
+      "options": [
+        "Hanói",
+        "Beirute",
+        "Asmara",
+        "Victoria"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Vietnam?",
+      "options": [
+        "Hanoi",
+        "Beirut",
+        "Asmara",
+        "Victoria"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-VN",
+    "category": "capitais",
+    "pt": {
+      "question": "Hanói é a capital de qual país?",
+      "options": [
+        "Bahrein",
+        "Arábia Saudita",
+        "Vietnã",
+        "Gabão"
+      ]
+    },
+    "en": {
+      "question": "Hanoi is the capital of which country?",
+      "options": [
+        "Bahrain",
+        "Saudi Arabia",
+        "Vietnam",
+        "Gabon"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-YE",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Iêmen?",
+      "options": [
+        "Sanaa",
+        "Pequim",
+        "Port of Spain",
+        "Vilnius"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Yemen?",
+      "options": [
+        "Sana'a",
+        "Beijing",
+        "Port of Spain",
+        "Vilnius"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-YE",
+    "category": "capitais",
+    "pt": {
+      "question": "Sanaa é a capital de qual país?",
+      "options": [
+        "Iêmen",
+        "Noruega",
+        "Islândia",
+        "Laos"
+      ]
+    },
+    "en": {
+      "question": "Sana'a is the capital of which country?",
+      "options": [
+        "Yemen",
+        "Norway",
+        "Iceland",
+        "Laos"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-AL",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Albânia?",
+      "options": [
+        "Ngerulmud",
+        "Tirana",
+        "Berna",
+        "Mônaco"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Albania?",
+      "options": [
+        "Ngerulmud",
+        "Tirana",
+        "Bern",
+        "Monaco"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-AL",
+    "category": "capitais",
+    "pt": {
+      "question": "Tirana é a capital de qual país?",
+      "options": [
+        "Camboja",
+        "Albânia",
+        "São Vicente e Granadinas",
+        "Guatemala"
+      ]
+    },
+    "en": {
+      "question": "Tirana is the capital of which country?",
+      "options": [
+        "Cambodia",
+        "Albania",
+        "Saint Vincent and the Grenadines",
+        "Guatemala"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-AD",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Andorra?",
+      "options": [
+        "Berna",
+        "Tegucigalpa",
+        "Kuala Lumpur",
+        "Andorra-a-Velha"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Andorra?",
+      "options": [
+        "Bern",
+        "Tegucigalpa",
+        "Kuala Lumpur",
+        "Andorra la Vella"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-AD",
+    "category": "capitais",
+    "pt": {
+      "question": "Andorra-a-Velha é a capital de qual país?",
+      "options": [
+        "Mônaco",
+        "Andorra",
+        "Nicarágua",
+        "Moçambique"
+      ]
+    },
+    "en": {
+      "question": "Andorra la Vella is the capital of which country?",
+      "options": [
+        "Monaco",
+        "Andorra",
+        "Nicaragua",
+        "Mozambique"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-AT",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Áustria?",
+      "options": [
+        "Minsk",
+        "Ndjamena",
+        "Manama",
+        "Viena"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Austria?",
+      "options": [
+        "Minsk",
+        "N'Djamena",
+        "Manama",
+        "Vienna"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-AT",
+    "category": "capitais",
+    "pt": {
+      "question": "Viena é a capital de qual país?",
+      "options": [
+        "Armênia",
+        "Áustria",
+        "Rússia",
+        "Portugal"
+      ]
+    },
+    "en": {
+      "question": "Vienna is the capital of which country?",
+      "options": [
+        "Armenia",
+        "Austria",
+        "Russia",
+        "Portugal"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-BY",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Bielorrússia?",
+      "options": [
+        "Minsk",
+        "Nassau",
+        "Díli",
+        "Roseau"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Belarus?",
+      "options": [
+        "Minsk",
+        "Nassau",
+        "Dili",
+        "Roseau"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-BY",
+    "category": "capitais",
+    "pt": {
+      "question": "Minsk é a capital de qual país?",
+      "options": [
+        "Omã",
+        "Bielorrússia",
+        "Eslováquia",
+        "Índia"
+      ]
+    },
+    "en": {
+      "question": "Minsk is the capital of which country?",
+      "options": [
+        "Oman",
+        "Belarus",
+        "Slovakia",
+        "India"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-BE",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Bélgica?",
+      "options": [
+        "Bruxelas",
+        "Catmandu",
+        "Montevidéu",
+        "Lusaka"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Belgium?",
+      "options": [
+        "Brussels",
+        "Kathmandu",
+        "Montevideo",
+        "Lusaka"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-BE",
+    "category": "capitais",
+    "pt": {
+      "question": "Bruxelas é a capital de qual país?",
+      "options": [
+        "Malásia",
+        "Bélgica",
+        "Costa do Marfim",
+        "Ilhas Marshall"
+      ]
+    },
+    "en": {
+      "question": "Brussels is the capital of which country?",
+      "options": [
+        "Malaysia",
+        "Belgium",
+        "Ivory Coast",
+        "Marshall Islands"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-BA",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Bósnia e Herzegovina?",
+      "options": [
+        "Asgabate",
+        "Sarajevo",
+        "Santiago",
+        "Port Moresby"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Bosnia and Herzegovina?",
+      "options": [
+        "Ashgabat",
+        "Sarajevo",
+        "Santiago",
+        "Port Moresby"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-BA",
+    "category": "capitais",
+    "pt": {
+      "question": "Sarajevo é a capital de qual país?",
+      "options": [
+        "Croácia",
+        "Suriname",
+        "Bósnia e Herzegovina",
+        "Quirguistão"
+      ]
+    },
+    "en": {
+      "question": "Sarajevo is the capital of which country?",
+      "options": [
+        "Croatia",
+        "Suriname",
+        "Bosnia and Herzegovina",
+        "Kyrgyzstan"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-BG",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Bulgária?",
+      "options": [
+        "Luanda",
+        "Cidade do Vaticano",
+        "Sófia",
+        "Tbilisi"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Bulgaria?",
+      "options": [
+        "Luanda",
+        "Vatican City",
+        "Sofia",
+        "Tbilisi"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-BG",
+    "category": "capitais",
+    "pt": {
+      "question": "Sófia é a capital de qual país?",
+      "options": [
+        "Tonga",
+        "Eritreia",
+        "Vaticano",
+        "Bulgária"
+      ]
+    },
+    "en": {
+      "question": "Sofia is the capital of which country?",
+      "options": [
+        "Tonga",
+        "Eritrea",
+        "Vatican City",
+        "Bulgaria"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-HR",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Croácia?",
+      "options": [
+        "Reykjavik",
+        "Zagreb",
+        "Tbilisi",
+        "Riga"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Croatia?",
+      "options": [
+        "Reykjavik",
+        "Zagreb",
+        "Tbilisi",
+        "Riga"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-HR",
+    "category": "capitais",
+    "pt": {
+      "question": "Zagreb é a capital de qual país?",
+      "options": [
+        "Croácia",
+        "Coreia do Norte",
+        "Armênia",
+        "Afeganistão"
+      ]
+    },
+    "en": {
+      "question": "Zagreb is the capital of which country?",
+      "options": [
+        "Croatia",
+        "North Korea",
+        "Armenia",
+        "Afghanistan"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-CZ",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de República Tcheca?",
+      "options": [
+        "Praga",
+        "Berna",
+        "Bandar Seri Begawan",
+        "Juba"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Czech Republic?",
+      "options": [
+        "Prague",
+        "Bern",
+        "Bandar Seri Begawan",
+        "Juba"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-CZ",
+    "category": "capitais",
+    "pt": {
+      "question": "Praga é a capital de qual país?",
+      "options": [
+        "Islândia",
+        "República Tcheca",
+        "Cazaquistão",
+        "Moçambique"
+      ]
+    },
+    "en": {
+      "question": "Prague is the capital of which country?",
+      "options": [
+        "Iceland",
+        "Czech Republic",
+        "Kazakhstan",
+        "Mozambique"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-DK",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Dinamarca?",
+      "options": [
+        "Lima",
+        "Naypyidaw",
+        "Cartum",
+        "Copenhague"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Denmark?",
+      "options": [
+        "Lima",
+        "Naypyidaw",
+        "Khartoum",
+        "Copenhagen"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-DK",
+    "category": "capitais",
+    "pt": {
+      "question": "Copenhague é a capital de qual país?",
+      "options": [
+        "Dinamarca",
+        "Singapura",
+        "Marrocos",
+        "Togo"
+      ]
+    },
+    "en": {
+      "question": "Copenhagen is the capital of which country?",
+      "options": [
+        "Denmark",
+        "Singapore",
+        "Morocco",
+        "Togo"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-EE",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Estônia?",
+      "options": [
+        "Iaundé",
+        "Tallinn",
+        "Port Vila",
+        "Zagreb"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Estonia?",
+      "options": [
+        "Yaoundé",
+        "Tallinn",
+        "Port Vila",
+        "Zagreb"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-EE",
+    "category": "capitais",
+    "pt": {
+      "question": "Tallinn é a capital de qual país?",
+      "options": [
+        "Albânia",
+        "Granada",
+        "Estônia",
+        "Barbados"
+      ]
+    },
+    "en": {
+      "question": "Tallinn is the capital of which country?",
+      "options": [
+        "Albania",
+        "Grenada",
+        "Estonia",
+        "Barbados"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-FI",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Finlândia?",
+      "options": [
+        "Andorra-a-Velha",
+        "Helsinque",
+        "Funafuti",
+        "Moroni"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Finland?",
+      "options": [
+        "Andorra la Vella",
+        "Helsinki",
+        "Funafuti",
+        "Moroni"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-FI",
+    "category": "capitais",
+    "pt": {
+      "question": "Helsinque é a capital de qual país?",
+      "options": [
+        "Lesoto",
+        "Finlândia",
+        "Palau",
+        "Kuwait"
+      ]
+    },
+    "en": {
+      "question": "Helsinki is the capital of which country?",
+      "options": [
+        "Lesotho",
+        "Finland",
+        "Palau",
+        "Kuwait"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-FR",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de França?",
+      "options": [
+        "Canberra",
+        "Riga",
+        "Paris",
+        "Chisinau"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of France?",
+      "options": [
+        "Canberra",
+        "Riga",
+        "Paris",
+        "Chisinau"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-FR",
+    "category": "capitais",
+    "pt": {
+      "question": "Paris é a capital de qual país?",
+      "options": [
+        "França",
+        "Zâmbia",
+        "República Tcheca",
+        "Guiné Equatorial"
+      ]
+    },
+    "en": {
+      "question": "Paris is the capital of which country?",
+      "options": [
+        "France",
+        "Zambia",
+        "Czech Republic",
+        "Equatorial Guinea"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-DE",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Alemanha?",
+      "options": [
+        "Bratislava",
+        "Berlim",
+        "Iamussucro",
+        "Ancara"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Germany?",
+      "options": [
+        "Bratislava",
+        "Berlin",
+        "Yamoussoukro",
+        "Ankara"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-DE",
+    "category": "capitais",
+    "pt": {
+      "question": "Berlim é a capital de qual país?",
+      "options": [
+        "Mauritânia",
+        "Polônia",
+        "Alemanha",
+        "Granada"
+      ]
+    },
+    "en": {
+      "question": "Berlin is the capital of which country?",
+      "options": [
+        "Mauritania",
+        "Poland",
+        "Germany",
+        "Grenada"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-GR",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Grécia?",
+      "options": [
+        "Libreville",
+        "Naypyidaw",
+        "Phnom Penh",
+        "Atenas"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Greece?",
+      "options": [
+        "Libreville",
+        "Naypyidaw",
+        "Phnom Penh",
+        "Athens"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-GR",
+    "category": "capitais",
+    "pt": {
+      "question": "Atenas é a capital de qual país?",
+      "options": [
+        "Butão",
+        "Grécia",
+        "Suíça",
+        "Nepal"
+      ]
+    },
+    "en": {
+      "question": "Athens is the capital of which country?",
+      "options": [
+        "Bhutan",
+        "Greece",
+        "Switzerland",
+        "Nepal"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-HU",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Hungria?",
+      "options": [
+        "Castries",
+        "Budapeste",
+        "Colombo",
+        "Quito"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Hungary?",
+      "options": [
+        "Castries",
+        "Budapest",
+        "Colombo",
+        "Quito"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-HU",
+    "category": "capitais",
+    "pt": {
+      "question": "Budapeste é a capital de qual país?",
+      "options": [
+        "Croácia",
+        "Singapura",
+        "Uruguai",
+        "Hungria"
+      ]
+    },
+    "en": {
+      "question": "Budapest is the capital of which country?",
+      "options": [
+        "Croatia",
+        "Singapore",
+        "Uruguay",
+        "Hungary"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-IS",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Islândia?",
+      "options": [
+        "Port Louis",
+        "Campala",
+        "Reykjavik",
+        "Estocolmo"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Iceland?",
+      "options": [
+        "Port Louis",
+        "Kampala",
+        "Reykjavik",
+        "Stockholm"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-IS",
+    "category": "capitais",
+    "pt": {
+      "question": "Reykjavik é a capital de qual país?",
+      "options": [
+        "Bahrein",
+        "Guiné-Bissau",
+        "Islândia",
+        "Polônia"
+      ]
+    },
+    "en": {
+      "question": "Reykjavik is the capital of which country?",
+      "options": [
+        "Bahrain",
+        "Guinea-Bissau",
+        "Iceland",
+        "Poland"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-IE",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Irlanda?",
+      "options": [
+        "Iamussucro",
+        "Dublin",
+        "Argel",
+        "Cidade do Vaticano"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Ireland?",
+      "options": [
+        "Yamoussoukro",
+        "Dublin",
+        "Algiers",
+        "Vatican City"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-IE",
+    "category": "capitais",
+    "pt": {
+      "question": "Dublin é a capital de qual país?",
+      "options": [
+        "Maurícia",
+        "Grécia",
+        "Irlanda",
+        "Barbados"
+      ]
+    },
+    "en": {
+      "question": "Dublin is the capital of which country?",
+      "options": [
+        "Mauritius",
+        "Greece",
+        "Ireland",
+        "Barbados"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-IT",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Itália?",
+      "options": [
+        "Conacri",
+        "Nicósia",
+        "Wellington",
+        "Roma"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Italy?",
+      "options": [
+        "Conakry",
+        "Nicosia",
+        "Wellington",
+        "Rome"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-IT",
+    "category": "capitais",
+    "pt": {
+      "question": "Roma é a capital de qual país?",
+      "options": [
+        "Butão",
+        "México",
+        "Itália",
+        "Moçambique"
+      ]
+    },
+    "en": {
+      "question": "Rome is the capital of which country?",
+      "options": [
+        "Bhutan",
+        "Mexico",
+        "Italy",
+        "Mozambique"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-XK",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Kosovo?",
+      "options": [
+        "Pristina",
+        "Valeta",
+        "Honiara",
+        "Abuja"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Kosovo?",
+      "options": [
+        "Pristina",
+        "Valletta",
+        "Honiara",
+        "Abuja"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-XK",
+    "category": "capitais",
+    "pt": {
+      "question": "Pristina é a capital de qual país?",
+      "options": [
+        "Guiné",
+        "Quênia",
+        "Kosovo",
+        "Argentina"
+      ]
+    },
+    "en": {
+      "question": "Pristina is the capital of which country?",
+      "options": [
+        "Guinea",
+        "Kenya",
+        "Kosovo",
+        "Argentina"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-LV",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Letônia?",
+      "options": [
+        "Estocolmo",
+        "Lisboa",
+        "Riga",
+        "Praia"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Latvia?",
+      "options": [
+        "Stockholm",
+        "Lisbon",
+        "Riga",
+        "Praia"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-LV",
+    "category": "capitais",
+    "pt": {
+      "question": "Riga é a capital de qual país?",
+      "options": [
+        "Índia",
+        "Ilhas Salomão",
+        "Jamaica",
+        "Letônia"
+      ]
+    },
+    "en": {
+      "question": "Riga is the capital of which country?",
+      "options": [
+        "India",
+        "Solomon Islands",
+        "Jamaica",
+        "Latvia"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-LI",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Liechtenstein?",
+      "options": [
+        "Tbilisi",
+        "Vaduz",
+        "Port Louis",
+        "Praga"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Liechtenstein?",
+      "options": [
+        "Tbilisi",
+        "Vaduz",
+        "Port Louis",
+        "Prague"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-LI",
+    "category": "capitais",
+    "pt": {
+      "question": "Vaduz é a capital de qual país?",
+      "options": [
+        "Etiópia",
+        "Palestina",
+        "Burquina Faso",
+        "Liechtenstein"
+      ]
+    },
+    "en": {
+      "question": "Vaduz is the capital of which country?",
+      "options": [
+        "Ethiopia",
+        "Palestine",
+        "Burkina Faso",
+        "Liechtenstein"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-LT",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Lituânia?",
+      "options": [
+        "Podgorica",
+        "Vilnius",
+        "Tirana",
+        "Acra"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Lithuania?",
+      "options": [
+        "Podgorica",
+        "Vilnius",
+        "Tirana",
+        "Accra"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-LT",
+    "category": "capitais",
+    "pt": {
+      "question": "Vilnius é a capital de qual país?",
+      "options": [
+        "Gâmbia",
+        "Timor-Leste",
+        "Lituânia",
+        "Paraguai"
+      ]
+    },
+    "en": {
+      "question": "Vilnius is the capital of which country?",
+      "options": [
+        "Gambia",
+        "Timor-Leste",
+        "Lithuania",
+        "Paraguay"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-LU",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Luxemburgo?",
+      "options": [
+        "Conacri",
+        "Luxemburgo",
+        "Beirute",
+        "Antananarivo"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Luxembourg?",
+      "options": [
+        "Conakry",
+        "Luxembourg",
+        "Beirut",
+        "Antananarivo"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-LU",
+    "category": "capitais",
+    "pt": {
+      "question": "Luxemburgo é a capital de qual país?",
+      "options": [
+        "Papua-Nova Guiné",
+        "Rússia",
+        "Luxemburgo",
+        "Paraguai"
+      ]
+    },
+    "en": {
+      "question": "Luxembourg is the capital of which country?",
+      "options": [
+        "Papua New Guinea",
+        "Russia",
+        "Luxembourg",
+        "Paraguay"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-MT",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Malta?",
+      "options": [
+        "Victoria",
+        "Valeta",
+        "Nuaquechott",
+        "Bandar Seri Begawan"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Malta?",
+      "options": [
+        "Victoria",
+        "Valletta",
+        "Nouakchott",
+        "Bandar Seri Begawan"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-MT",
+    "category": "capitais",
+    "pt": {
+      "question": "Valeta é a capital de qual país?",
+      "options": [
+        "Camarões",
+        "Malta",
+        "Quirguistão",
+        "Trindade e Tobago"
+      ]
+    },
+    "en": {
+      "question": "Valletta is the capital of which country?",
+      "options": [
+        "Cameroon",
+        "Malta",
+        "Kyrgyzstan",
+        "Trinidad and Tobago"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-MD",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Moldávia?",
+      "options": [
+        "Victoria",
+        "Chisinau",
+        "Timphu",
+        "Praga"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Moldova?",
+      "options": [
+        "Victoria",
+        "Chisinau",
+        "Thimphu",
+        "Prague"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-MD",
+    "category": "capitais",
+    "pt": {
+      "question": "Chisinau é a capital de qual país?",
+      "options": [
+        "Dinamarca",
+        "Sérvia",
+        "Micronésia",
+        "Moldávia"
+      ]
+    },
+    "en": {
+      "question": "Chisinau is the capital of which country?",
+      "options": [
+        "Denmark",
+        "Serbia",
+        "Micronesia",
+        "Moldova"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-MC",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Mônaco?",
+      "options": [
+        "Bruxelas",
+        "Ndjamena",
+        "Mônaco",
+        "Suva"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Monaco?",
+      "options": [
+        "Brussels",
+        "N'Djamena",
+        "Monaco",
+        "Suva"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-MC",
+    "category": "capitais",
+    "pt": {
+      "question": "Mônaco é a capital de qual país?",
+      "options": [
+        "Ilhas Marshall",
+        "Mônaco",
+        "Colômbia",
+        "Jordânia"
+      ]
+    },
+    "en": {
+      "question": "Monaco is the capital of which country?",
+      "options": [
+        "Marshall Islands",
+        "Monaco",
+        "Colombia",
+        "Jordan"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-ME",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Montenegro?",
+      "options": [
+        "Assunção",
+        "Islamabade",
+        "Podgorica",
+        "Georgetown"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Montenegro?",
+      "options": [
+        "Asunción",
+        "Islamabad",
+        "Podgorica",
+        "Georgetown"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-ME",
+    "category": "capitais",
+    "pt": {
+      "question": "Podgorica é a capital de qual país?",
+      "options": [
+        "Montenegro",
+        "Benin",
+        "Uganda",
+        "Butão"
+      ]
+    },
+    "en": {
+      "question": "Podgorica is the capital of which country?",
+      "options": [
+        "Montenegro",
+        "Benin",
+        "Uganda",
+        "Bhutan"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-NL",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Países Baixos?",
+      "options": [
+        "Luanda",
+        "Abuja",
+        "Jerusalém",
+        "Amsterdã"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Netherlands?",
+      "options": [
+        "Luanda",
+        "Abuja",
+        "Jerusalem",
+        "Amsterdam"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-NL",
+    "category": "capitais",
+    "pt": {
+      "question": "Amsterdã é a capital de qual país?",
+      "options": [
+        "Benin",
+        "Moldávia",
+        "Países Baixos",
+        "Suíça"
+      ]
+    },
+    "en": {
+      "question": "Amsterdam is the capital of which country?",
+      "options": [
+        "Benin",
+        "Moldova",
+        "Netherlands",
+        "Switzerland"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-MK",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Macedônia do Norte?",
+      "options": [
+        "Windhoek",
+        "Suva",
+        "Cidade da Guatemala",
+        "Escópia"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of North Macedonia?",
+      "options": [
+        "Windhoek",
+        "Suva",
+        "Guatemala City",
+        "Skopje"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-MK",
+    "category": "capitais",
+    "pt": {
+      "question": "Escópia é a capital de qual país?",
+      "options": [
+        "Reino Unido",
+        "Macedônia do Norte",
+        "Emirados Árabes Unidos",
+        "Japão"
+      ]
+    },
+    "en": {
+      "question": "Skopje is the capital of which country?",
+      "options": [
+        "United Kingdom",
+        "North Macedonia",
+        "United Arab Emirates",
+        "Japan"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-NO",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Noruega?",
+      "options": [
+        "Oslo",
+        "Bucareste",
+        "Port Louis",
+        "Beirute"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Norway?",
+      "options": [
+        "Oslo",
+        "Bucharest",
+        "Port Louis",
+        "Beirut"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-NO",
+    "category": "capitais",
+    "pt": {
+      "question": "Oslo é a capital de qual país?",
+      "options": [
+        "Noruega",
+        "Reino Unido",
+        "Peru",
+        "Índia"
+      ]
+    },
+    "en": {
+      "question": "Oslo is the capital of which country?",
+      "options": [
+        "Norway",
+        "United Kingdom",
+        "Peru",
+        "India"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-PL",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Polônia?",
+      "options": [
+        "Islamabade",
+        "Naypyidaw",
+        "Varsóvia",
+        "Lima"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Poland?",
+      "options": [
+        "Islamabad",
+        "Naypyidaw",
+        "Warsaw",
+        "Lima"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-PL",
+    "category": "capitais",
+    "pt": {
+      "question": "Varsóvia é a capital de qual país?",
+      "options": [
+        "Mianmar",
+        "Polônia",
+        "Zimbábue",
+        "Panamá"
+      ]
+    },
+    "en": {
+      "question": "Warsaw is the capital of which country?",
+      "options": [
+        "Myanmar",
+        "Poland",
+        "Zimbabwe",
+        "Panama"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-PT",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Portugal?",
+      "options": [
+        "Bogotá",
+        "Lisboa",
+        "Bissau",
+        "Suva"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Portugal?",
+      "options": [
+        "Bogotá",
+        "Lisbon",
+        "Bissau",
+        "Suva"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-PT",
+    "category": "capitais",
+    "pt": {
+      "question": "Lisboa é a capital de qual país?",
+      "options": [
+        "México",
+        "Dominica",
+        "Portugal",
+        "Eslováquia"
+      ]
+    },
+    "en": {
+      "question": "Lisbon is the capital of which country?",
+      "options": [
+        "Mexico",
+        "Dominica",
+        "Portugal",
+        "Slovakia"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-RO",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Romênia?",
+      "options": [
+        "Malabo",
+        "Nassau",
+        "Bucareste",
+        "Gaborone"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Romania?",
+      "options": [
+        "Malabo",
+        "Nassau",
+        "Bucharest",
+        "Gaborone"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-RO",
+    "category": "capitais",
+    "pt": {
+      "question": "Bucareste é a capital de qual país?",
+      "options": [
+        "Malta",
+        "Brunei",
+        "Espanha",
+        "Romênia"
+      ]
+    },
+    "en": {
+      "question": "Bucharest is the capital of which country?",
+      "options": [
+        "Malta",
+        "Brunei",
+        "Spain",
+        "Romania"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-RU",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Rússia?",
+      "options": [
+        "Moroni",
+        "Bamaco",
+        "Mascate",
+        "Moscou"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Russia?",
+      "options": [
+        "Moroni",
+        "Bamako",
+        "Muscat",
+        "Moscow"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-RU",
+    "category": "capitais",
+    "pt": {
+      "question": "Moscou é a capital de qual país?",
+      "options": [
+        "Síria",
+        "Indonésia",
+        "Micronésia",
+        "Rússia"
+      ]
+    },
+    "en": {
+      "question": "Moscow is the capital of which country?",
+      "options": [
+        "Syria",
+        "Indonesia",
+        "Micronesia",
+        "Russia"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-SM",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de San Marino?",
+      "options": [
+        "San Marino",
+        "Santiago",
+        "Riga",
+        "Vaduz"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of San Marino?",
+      "options": [
+        "San Marino",
+        "Santiago",
+        "Riga",
+        "Vaduz"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-SM",
+    "category": "capitais",
+    "pt": {
+      "question": "San Marino é a capital de qual país?",
+      "options": [
+        "Guiné Equatorial",
+        "Catar",
+        "Bielorrússia",
+        "San Marino"
+      ]
+    },
+    "en": {
+      "question": "San Marino is the capital of which country?",
+      "options": [
+        "Equatorial Guinea",
+        "Qatar",
+        "Belarus",
+        "San Marino"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-RS",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Sérvia?",
+      "options": [
+        "Belgrado",
+        "Doha",
+        "Singapura",
+        "Viena"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Serbia?",
+      "options": [
+        "Belgrade",
+        "Doha",
+        "Singapore",
+        "Vienna"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-RS",
+    "category": "capitais",
+    "pt": {
+      "question": "Belgrado é a capital de qual país?",
+      "options": [
+        "El Salvador",
+        "Sudão do Sul",
+        "Geórgia",
+        "Sérvia"
+      ]
+    },
+    "en": {
+      "question": "Belgrade is the capital of which country?",
+      "options": [
+        "El Salvador",
+        "South Sudan",
+        "Georgia",
+        "Serbia"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-SK",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Eslováquia?",
+      "options": [
+        "Bogotá",
+        "Bratislava",
+        "Ottawa",
+        "Varsóvia"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Slovakia?",
+      "options": [
+        "Bogotá",
+        "Bratislava",
+        "Ottawa",
+        "Warsaw"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-SK",
+    "category": "capitais",
+    "pt": {
+      "question": "Bratislava é a capital de qual país?",
+      "options": [
+        "Bahamas",
+        "Geórgia",
+        "Eslováquia",
+        "Estônia"
+      ]
+    },
+    "en": {
+      "question": "Bratislava is the capital of which country?",
+      "options": [
+        "Bahamas",
+        "Georgia",
+        "Slovakia",
+        "Estonia"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-SI",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Eslovênia?",
+      "options": [
+        "Colombo",
+        "Zagreb",
+        "Liubliana",
+        "Dodoma"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Slovenia?",
+      "options": [
+        "Colombo",
+        "Zagreb",
+        "Ljubljana",
+        "Dodoma"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-SI",
+    "category": "capitais",
+    "pt": {
+      "question": "Liubliana é a capital de qual país?",
+      "options": [
+        "Egito",
+        "Eslovênia",
+        "Guiné-Bissau",
+        "Chade"
+      ]
+    },
+    "en": {
+      "question": "Ljubljana is the capital of which country?",
+      "options": [
+        "Egypt",
+        "Slovenia",
+        "Guinea-Bissau",
+        "Chad"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-ES",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Espanha?",
+      "options": [
+        "Gitega",
+        "Madri",
+        "Malabo",
+        "Castries"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Spain?",
+      "options": [
+        "Gitega",
+        "Madrid",
+        "Malabo",
+        "Castries"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-ES",
+    "category": "capitais",
+    "pt": {
+      "question": "Madri é a capital de qual país?",
+      "options": [
+        "Bangladesh",
+        "Uzbequistão",
+        "Líbia",
+        "Espanha"
+      ]
+    },
+    "en": {
+      "question": "Madrid is the capital of which country?",
+      "options": [
+        "Bangladesh",
+        "Uzbekistan",
+        "Libya",
+        "Spain"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-SE",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Suécia?",
+      "options": [
+        "Escópia",
+        "Mônaco",
+        "Estocolmo",
+        "Singapura"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Sweden?",
+      "options": [
+        "Skopje",
+        "Monaco",
+        "Stockholm",
+        "Singapore"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-SE",
+    "category": "capitais",
+    "pt": {
+      "question": "Estocolmo é a capital de qual país?",
+      "options": [
+        "Suécia",
+        "Romênia",
+        "Alemanha",
+        "Barbados"
+      ]
+    },
+    "en": {
+      "question": "Stockholm is the capital of which country?",
+      "options": [
+        "Sweden",
+        "Romania",
+        "Germany",
+        "Barbados"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-CH",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Suíça?",
+      "options": [
+        "Basseterre",
+        "Berna",
+        "Dublin",
+        "Juba"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Switzerland?",
+      "options": [
+        "Basseterre",
+        "Bern",
+        "Dublin",
+        "Juba"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-CH",
+    "category": "capitais",
+    "pt": {
+      "question": "Berna é a capital de qual país?",
+      "options": [
+        "Namíbia",
+        "Síria",
+        "Suriname",
+        "Suíça"
+      ]
+    },
+    "en": {
+      "question": "Bern is the capital of which country?",
+      "options": [
+        "Namibia",
+        "Syria",
+        "Suriname",
+        "Switzerland"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-UA",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Ucrânia?",
+      "options": [
+        "Estocolmo",
+        "Bogotá",
+        "Harare",
+        "Kiev"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Ukraine?",
+      "options": [
+        "Stockholm",
+        "Bogotá",
+        "Harare",
+        "Kyiv"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-UA",
+    "category": "capitais",
+    "pt": {
+      "question": "Kiev é a capital de qual país?",
+      "options": [
+        "Argélia",
+        "Ilhas Marshall",
+        "Libéria",
+        "Ucrânia"
+      ]
+    },
+    "en": {
+      "question": "Kyiv is the capital of which country?",
+      "options": [
+        "Algeria",
+        "Marshall Islands",
+        "Liberia",
+        "Ukraine"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-GB",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Reino Unido?",
+      "options": [
+        "Doha",
+        "Tallinn",
+        "Londres",
+        "Nairóbi"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of United Kingdom?",
+      "options": [
+        "Doha",
+        "Tallinn",
+        "London",
+        "Nairobi"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-GB",
+    "category": "capitais",
+    "pt": {
+      "question": "Londres é a capital de qual país?",
+      "options": [
+        "Jamaica",
+        "República Centro-Africana",
+        "Etiópia",
+        "Reino Unido"
+      ]
+    },
+    "en": {
+      "question": "London is the capital of which country?",
+      "options": [
+        "Jamaica",
+        "Central African Republic",
+        "Ethiopia",
+        "United Kingdom"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-VA",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Vaticano?",
+      "options": [
+        "Washington, D.C.",
+        "Cidade do Vaticano",
+        "Budapeste",
+        "Riga"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Vatican City?",
+      "options": [
+        "Washington, D.C.",
+        "Vatican City",
+        "Budapest",
+        "Riga"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-VA",
+    "category": "capitais",
+    "pt": {
+      "question": "Cidade do Vaticano é a capital de qual país?",
+      "options": [
+        "Laos",
+        "Noruega",
+        "Vaticano",
+        "Seicheles"
+      ]
+    },
+    "en": {
+      "question": "Vatican City is the capital of which country?",
+      "options": [
+        "Laos",
+        "Norway",
+        "Vatican City",
+        "Seychelles"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-AU",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Austrália?",
+      "options": [
+        "Iamussucro",
+        "Brazzaville",
+        "Canberra",
+        "Nova Délhi"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Australia?",
+      "options": [
+        "Yamoussoukro",
+        "Brazzaville",
+        "Canberra",
+        "New Delhi"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-AU",
+    "category": "capitais",
+    "pt": {
+      "question": "Canberra é a capital de qual país?",
+      "options": [
+        "Quirguistão",
+        "Argélia",
+        "Bahrein",
+        "Austrália"
+      ]
+    },
+    "en": {
+      "question": "Canberra is the capital of which country?",
+      "options": [
+        "Kyrgyzstan",
+        "Algeria",
+        "Bahrain",
+        "Australia"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-FJ",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Fiji?",
+      "options": [
+        "Suva",
+        "Cidade do Panamá",
+        "Jacarta",
+        "Ramallah"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Fiji?",
+      "options": [
+        "Suva",
+        "Panama City",
+        "Jakarta",
+        "Ramallah"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-FJ",
+    "category": "capitais",
+    "pt": {
+      "question": "Suva é a capital de qual país?",
+      "options": [
+        "Montenegro",
+        "Guiné-Bissau",
+        "Fiji",
+        "Áustria"
+      ]
+    },
+    "en": {
+      "question": "Suva is the capital of which country?",
+      "options": [
+        "Montenegro",
+        "Guinea-Bissau",
+        "Fiji",
+        "Austria"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-KI",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Kiribati?",
+      "options": [
+        "Bridgetown",
+        "Quito",
+        "Zagreb",
+        "Tarawa"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Kiribati?",
+      "options": [
+        "Bridgetown",
+        "Quito",
+        "Zagreb",
+        "Tarawa"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-KI",
+    "category": "capitais",
+    "pt": {
+      "question": "Tarawa é a capital de qual país?",
+      "options": [
+        "Gana",
+        "Kiribati",
+        "Rússia",
+        "Venezuela"
+      ]
+    },
+    "en": {
+      "question": "Tarawa is the capital of which country?",
+      "options": [
+        "Ghana",
+        "Kiribati",
+        "Russia",
+        "Venezuela"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-a-MH",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Ilhas Marshall?",
+      "options": [
+        "Banjul",
+        "Canberra",
+        "Jacarta",
+        "Majuro"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Marshall Islands?",
+      "options": [
+        "Banjul",
+        "Canberra",
+        "Jakarta",
+        "Majuro"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-MH",
+    "category": "capitais",
+    "pt": {
+      "question": "Majuro é a capital de qual país?",
+      "options": [
+        "Mongólia",
+        "Tuvalu",
+        "Ilhas Marshall",
+        "Malawi"
+      ]
+    },
+    "en": {
+      "question": "Majuro is the capital of which country?",
+      "options": [
+        "Mongolia",
+        "Tuvalu",
+        "Marshall Islands",
+        "Malawi"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-a-FM",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Micronésia?",
+      "options": [
+        "Roseau",
+        "Budapeste",
+        "Basseterre",
+        "Palikir"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Micronesia?",
+      "options": [
+        "Roseau",
+        "Budapest",
+        "Basseterre",
+        "Palikir"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-FM",
+    "category": "capitais",
+    "pt": {
+      "question": "Palikir é a capital de qual país?",
+      "options": [
+        "Micronésia",
+        "Bélgica",
+        "Bósnia e Herzegovina",
+        "Indonésia"
+      ]
+    },
+    "en": {
+      "question": "Palikir is the capital of which country?",
+      "options": [
+        "Micronesia",
+        "Belgium",
+        "Bosnia and Herzegovina",
+        "Indonesia"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-NR",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Nauru?",
+      "options": [
+        "Yaren",
+        "Monróvia",
+        "Nairóbi",
+        "Zagreb"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Nauru?",
+      "options": [
+        "Yaren",
+        "Monrovia",
+        "Nairobi",
+        "Zagreb"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-NR",
+    "category": "capitais",
+    "pt": {
+      "question": "Yaren é a capital de qual país?",
+      "options": [
+        "Nauru",
+        "Japão",
+        "República Dominicana",
+        "Chipre"
+      ]
+    },
+    "en": {
+      "question": "Yaren is the capital of which country?",
+      "options": [
+        "Nauru",
+        "Japan",
+        "Dominican Republic",
+        "Cyprus"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-NZ",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Nova Zelândia?",
+      "options": [
+        "Wellington",
+        "Brasília",
+        "Madri",
+        "Brazzaville"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of New Zealand?",
+      "options": [
+        "Wellington",
+        "Brasília",
+        "Madrid",
+        "Brazzaville"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-NZ",
+    "category": "capitais",
+    "pt": {
+      "question": "Wellington é a capital de qual país?",
+      "options": [
+        "Nova Zelândia",
+        "Nicarágua",
+        "Burundi",
+        "Estados Unidos"
+      ]
+    },
+    "en": {
+      "question": "Wellington is the capital of which country?",
+      "options": [
+        "New Zealand",
+        "Nicaragua",
+        "Burundi",
+        "United States"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-PW",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Palau?",
+      "options": [
+        "Amã",
+        "Palikir",
+        "Dublin",
+        "Ngerulmud"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Palau?",
+      "options": [
+        "Amman",
+        "Palikir",
+        "Dublin",
+        "Ngerulmud"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-PW",
+    "category": "capitais",
+    "pt": {
+      "question": "Ngerulmud é a capital de qual país?",
+      "options": [
+        "Palau",
+        "Antígua e Barbuda",
+        "Israel",
+        "Papua-Nova Guiné"
+      ]
+    },
+    "en": {
+      "question": "Ngerulmud is the capital of which country?",
+      "options": [
+        "Palau",
+        "Antigua and Barbuda",
+        "Israel",
+        "Papua New Guinea"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-PG",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Papua-Nova Guiné?",
+      "options": [
+        "Mogadíscio",
+        "Lomé",
+        "Campala",
+        "Port Moresby"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Papua New Guinea?",
+      "options": [
+        "Mogadishu",
+        "Lomé",
+        "Kampala",
+        "Port Moresby"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-PG",
+    "category": "capitais",
+    "pt": {
+      "question": "Port Moresby é a capital de qual país?",
+      "options": [
+        "Papua-Nova Guiné",
+        "República do Congo",
+        "Bahrein",
+        "Nepal"
+      ]
+    },
+    "en": {
+      "question": "Port Moresby is the capital of which country?",
+      "options": [
+        "Papua New Guinea",
+        "Republic of the Congo",
+        "Bahrain",
+        "Nepal"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-WS",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Samoa?",
+      "options": [
+        "Apia",
+        "Budapeste",
+        "Ulan Bator",
+        "Pretória"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Samoa?",
+      "options": [
+        "Apia",
+        "Budapest",
+        "Ulaanbaatar",
+        "Pretoria"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-b-WS",
+    "category": "capitais",
+    "pt": {
+      "question": "Apia é a capital de qual país?",
+      "options": [
+        "Senegal",
+        "Dominica",
+        "Venezuela",
+        "Samoa"
+      ]
+    },
+    "en": {
+      "question": "Apia is the capital of which country?",
+      "options": [
+        "Senegal",
+        "Dominica",
+        "Venezuela",
+        "Samoa"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-SB",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Ilhas Salomão?",
+      "options": [
+        "Gitega",
+        "Bratislava",
+        "Ancara",
+        "Honiara"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Solomon Islands?",
+      "options": [
+        "Gitega",
+        "Bratislava",
+        "Ankara",
+        "Honiara"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-SB",
+    "category": "capitais",
+    "pt": {
+      "question": "Honiara é a capital de qual país?",
+      "options": [
+        "Somália",
+        "Países Baixos",
+        "Islândia",
+        "Ilhas Salomão"
+      ]
+    },
+    "en": {
+      "question": "Honiara is the capital of which country?",
+      "options": [
+        "Somalia",
+        "Netherlands",
+        "Iceland",
+        "Solomon Islands"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-a-TO",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Tonga?",
+      "options": [
+        "Buenos Aires",
+        "Nuku'alofa",
+        "Islamabade",
+        "Manágua"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Tonga?",
+      "options": [
+        "Buenos Aires",
+        "Nuku'alofa",
+        "Islamabad",
+        "Managua"
+      ]
+    },
+    "answer": 1
+  },
+  {
+    "id": "cap-b-TO",
+    "category": "capitais",
+    "pt": {
+      "question": "Nuku'alofa é a capital de qual país?",
+      "options": [
+        "Tonga",
+        "Angola",
+        "Portugal",
+        "Timor-Leste"
+      ]
+    },
+    "en": {
+      "question": "Nuku'alofa is the capital of which country?",
+      "options": [
+        "Tonga",
+        "Angola",
+        "Portugal",
+        "Timor-Leste"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-TV",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Tuvalu?",
+      "options": [
+        "Saint George's",
+        "Oslo",
+        "Funafuti",
+        "Roseau"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Tuvalu?",
+      "options": [
+        "Saint George's",
+        "Oslo",
+        "Funafuti",
+        "Roseau"
+      ]
+    },
+    "answer": 2
+  },
+  {
+    "id": "cap-b-TV",
+    "category": "capitais",
+    "pt": {
+      "question": "Funafuti é a capital de qual país?",
+      "options": [
+        "Tuvalu",
+        "Turcomenistão",
+        "Canadá",
+        "Egito"
+      ]
+    },
+    "en": {
+      "question": "Funafuti is the capital of which country?",
+      "options": [
+        "Tuvalu",
+        "Turkmenistan",
+        "Canada",
+        "Egypt"
+      ]
+    },
+    "answer": 0
+  },
+  {
+    "id": "cap-a-VU",
+    "category": "capitais",
+    "pt": {
+      "question": "Qual é a capital de Vanuatu?",
+      "options": [
+        "Bagdá",
+        "Wellington",
+        "Tbilisi",
+        "Port Vila"
+      ]
+    },
+    "en": {
+      "question": "What is the capital of Vanuatu?",
+      "options": [
+        "Baghdad",
+        "Wellington",
+        "Tbilisi",
+        "Port Vila"
+      ]
+    },
+    "answer": 3
+  },
+  {
+    "id": "cap-b-VU",
+    "category": "capitais",
+    "pt": {
+      "question": "Port Vila é a capital de qual país?",
+      "options": [
+        "Vanuatu",
+        "Austrália",
+        "Ilhas Marshall",
+        "Uruguai"
+      ]
+    },
+    "en": {
+      "question": "Port Vila is the capital of which country?",
+      "options": [
+        "Vanuatu",
+        "Australia",
+        "Marshall Islands",
+        "Uruguay"
+      ]
+    },
+    "answer": 0
+  }
+]
