@@ -7,6 +7,7 @@
   --primary-dark: #2540a6;
   --correct: #1f9d55;
   --wrong: #d64545;
+  --rogue: #8b46c9;
   --border: #e1e5ee;
   --radius: 14px;
   --shadow: 0 8px 24px rgba(28, 34, 48, 0.08);
@@ -295,4 +296,258 @@ body {
   display: flex;
   gap: 12px;
   flex-wrap: wrap;
+}
+
+/* ----- selecao de modo ----- */
+
+.mode-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+}
+
+@media (max-width: 620px) {
+  .mode-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.mode-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 5px solid var(--primary);
+  border-radius: var(--radius);
+  padding: 20px 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  cursor: pointer;
+  text-align: left;
+  color: var(--text);
+  box-shadow: var(--shadow);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.mode-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 28px rgba(28, 34, 48, 0.14);
+}
+
+.mode-card-rogue {
+  border-left-color: var(--rogue);
+}
+
+.mode-card-rogue .category-count {
+  color: var(--rogue);
+}
+
+.link-btn {
+  align-self: flex-start;
+  background: none;
+  border: none;
+  padding: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.link-btn:hover {
+  color: var(--primary);
+}
+
+.link-btn.danger:hover {
+  color: var(--wrong);
+}
+
+/* ----- hud e telas do modo roguelite ----- */
+
+.rogue-hud,
+.stat-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+.hud-chip {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 6px 12px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text);
+  white-space: nowrap;
+}
+
+.hud-lives {
+  letter-spacing: 1px;
+}
+
+.hud-shield {
+  border-color: var(--primary);
+  color: var(--primary-dark);
+}
+
+.info-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px;
+  box-shadow: var(--shadow);
+}
+
+.info-title {
+  margin: 0 0 8px;
+  font-size: 1rem;
+}
+
+.info-list {
+  margin: 0;
+  padding-left: 20px;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.hint-box {
+  margin: 0;
+  padding: 10px 14px;
+  border-radius: var(--radius);
+  background: rgba(52, 87, 213, 0.08);
+  border: 1px solid rgba(52, 87, 213, 0.2);
+  font-size: 0.92rem;
+}
+
+.option-btn.removed {
+  opacity: 0.25;
+  text-decoration: line-through;
+}
+
+.storage-warning {
+  margin: 0;
+  padding: 10px 14px;
+  border-radius: var(--radius);
+  background: rgba(214, 69, 69, 0.08);
+  border: 1px solid rgba(214, 69, 69, 0.25);
+  color: var(--wrong);
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+
+/* ----- loja e melhorias ----- */
+
+.shop-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.shop-card {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  box-shadow: var(--shadow);
+}
+
+.shop-card-off {
+  opacity: 0.55;
+}
+
+.shop-icon {
+  font-size: 1.6rem;
+  flex-shrink: 0;
+}
+
+.shop-body {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  flex: 1;
+  min-width: 0;
+}
+
+.shop-name {
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.shop-desc,
+.upgrade-level {
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.shop-note {
+  color: var(--wrong);
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+
+.shop-buy {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  flex-shrink: 0;
+  background: var(--primary);
+  color: #fff;
+  border: none;
+  border-radius: var(--radius);
+  padding: 10px 14px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.shop-buy:hover:not(:disabled) {
+  background: var(--primary-dark);
+}
+
+.shop-buy:disabled {
+  background: var(--border);
+  color: var(--muted);
+  cursor: not-allowed;
+}
+
+.shop-price {
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+
+.shop-vouchers {
+  margin: 0;
+  font-weight: 600;
+  color: var(--primary-dark);
+  font-size: 0.9rem;
+}
+
+.upgrade-max {
+  flex-shrink: 0;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--correct);
+}
+
+.pips {
+  display: flex;
+  gap: 5px;
+  margin-top: 4px;
+}
+
+.pip {
+  width: 22px;
+  height: 6px;
+  border-radius: 999px;
+  background: var(--border);
+}
+
+.pip-on {
+  background: var(--rogue);
 }

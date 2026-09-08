@@ -13,7 +13,33 @@ Categorias disponíveis:
 - Política & Cultura
 - Todos (mistura as três anteriores)
 
-Cada partida sorteia 10 perguntas da categoria escolhida, com 4 alternativas cada. No fim da rodada aparece a pontuação e dá pra jogar de novo ou trocar de categoria. Não tem login nem histórico salvo, tudo fica só na memória da página.
+O jogo tem dois modos, escolhidos na tela inicial. Eles não compartilham estado: o que acontece em um não afeta o outro.
+
+### Modo clássico
+
+Cada partida sorteia 10 perguntas da categoria escolhida, com 4 alternativas cada. No fim da rodada aparece a pontuação e dá pra jogar de novo ou trocar de categoria. Não tem vidas, loja nem progressão, tudo fica só na memória da página.
+
+### Modo roguelite
+
+Um modo de sobrevivência com perguntas de todas as categorias misturadas:
+
+- A run começa com 3 vidas. Cada erro custa uma vida e a run acaba quando elas zeram.
+- Cada acerto rende **energia**, a moeda da run. A partir do terceiro acerto seguido entra um bônus de sequência, que cresce até +3 por acerto.
+- Entre uma pergunta e outra dá pra abrir a **loja de facilidades** e gastar energia em cartas (elimina duas alternativas erradas), dica, pular a pergunta, escudo (absorve o próximo erro) e recuperar uma vida. O preço de cada item sobe a cada compra dentro da mesma run.
+- No fim da run, uma fatia da energia acumulada vira **cristais**, a moeda permanente.
+
+### Progressão permanente
+
+Os cristais ficam salvos no navegador e são gastos na tela de progressão, acessível pela tela inicial. São quatro melhorias, de três níveis cada:
+
+| Melhoria | Efeito por nível |
+| --- | --- |
+| Resistência | Uma vida extra no começo da run |
+| Kit inicial | Um vale para levar uma facilidade grátis da loja |
+| Pechincha | 10% de desconto nos itens da loja |
+| Refino | +5 pontos na fatia de energia que vira cristal |
+
+O progresso é gravado no `localStorage`, em uma única chave (`triviaMaster.save`) com um objeto JSON versionado. Continua sem login, sem backend e sem banco de dados. Se o navegador bloquear o armazenamento local (janela anônima, por exemplo), o jogo avisa na tela de progressão e segue funcionando com o progresso valendo só enquanto a aba estiver aberta.
 
 ## Rodando localmente
 
@@ -30,8 +56,10 @@ Depois é só abrir `http://localhost:8000` no navegador.
 ```
 index.html
 css/style.css
-js/i18n.js
-js/app.js
+js/i18n.js       (textos da interface em PT e EN)
+js/storage.js    (leitura e gravação do progresso permanente)
+js/rogue.js      (modo roguelite: run, loja e melhorias)
+js/app.js        (telas iniciais, modo clássico e roteamento)
 data/bandeiras.json
 data/capitais.json
 data/politica-cultura.json

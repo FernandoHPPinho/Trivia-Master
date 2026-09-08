@@ -54,6 +54,9 @@ function poolForCategory(category) {
 
 function setLang(lang) {
   state.lang = lang;
+  const save = SaveStore.get();
+  save.lang = lang;
+  SaveStore.save();
   render();
 }
 
@@ -70,8 +73,52 @@ function renderHeader() {
   `;
 }
 
+// Ligar o seletor de idioma e a unica coisa que toda tela precisa repetir, entao
+// vale um helper. Trocar de idioma so redesenha a tela atual, sem mexer no estado.
+function bindLangButtons() {
+  document.querySelectorAll(".lang-btn").forEach((btn) => {
+    btn.addEventListener("click", () => setLang(btn.dataset.lang));
+  });
+}
+
+// Tela inicial: escolha entre os dois modos, que nao compartilham estado.
 function renderHome() {
   state.screen = "home";
+  const strings = t();
+  const save = SaveStore.get();
+
+  app.innerHTML = `
+    ${renderHeader()}
+    <main class="screen home-screen">
+      <p class="subtitle">${strings.subtitle}</p>
+      <h2 class="section-title">${strings.chooseMode}</h2>
+      <div class="mode-grid">
+        <button class="mode-card" id="mode-classic">
+          <span class="category-icon">🎯</span>
+          <span class="category-name">${strings.classicMode}</span>
+          <span class="category-desc">${strings.classicModeDesc}</span>
+          <span class="category-count">${strings.classicModeTag}</span>
+        </button>
+        <button class="mode-card mode-card-rogue" id="mode-rogue">
+          <span class="category-icon">⚔️</span>
+          <span class="category-name">${strings.rogueMode}</span>
+          <span class="category-desc">${strings.rogueModeDesc}</span>
+          <span class="category-count">${strings.rogueModeTag} · 💎 ${save.crystals}</span>
+        </button>
+      </div>
+      <button class="secondary-btn" id="mode-upgrades">💎 ${strings.openUpgrades}</button>
+    </main>
+  `;
+
+  bindLangButtons();
+  document.getElementById("mode-classic").addEventListener("click", renderCategories);
+  document.getElementById("mode-rogue").addEventListener("click", renderRogueIntro);
+  document.getElementById("mode-upgrades").addEventListener("click", renderUpgrades);
+}
+
+// Tela de categorias do modo classico.
+function renderCategories() {
+  state.screen = "categories";
   const strings = t();
   const cards = CATEGORY_ORDER.map((cat) => {
     const pool = poolForCategory(cat);
@@ -88,15 +135,14 @@ function renderHome() {
   app.innerHTML = `
     ${renderHeader()}
     <main class="screen home-screen">
-      <p class="subtitle">${strings.subtitle}</p>
+      <button class="link-btn" id="go-home">← ${strings.back}</button>
       <h2 class="section-title">${strings.chooseCategory}</h2>
       <div class="category-grid">${cards}</div>
     </main>
   `;
 
-  document.querySelectorAll(".lang-btn").forEach((btn) => {
-    btn.addEventListener("click", () => setLang(btn.dataset.lang));
-  });
+  bindLangButtons();
+  document.getElementById("go-home").addEventListener("click", renderHome);
 
   document.querySelectorAll(".category-card").forEach((card) => {
     card.addEventListener("click", () => startGame(card.dataset.category));
@@ -167,11 +213,7 @@ function renderQuestion() {
     </main>
   `;
 
-  document.querySelectorAll(".lang-btn").forEach((btn) => {
-    btn.addEventListener("click", () => {
-      setLang(btn.dataset.lang);
-    });
-  });
+  bindLangButtons();
 
   document.querySelectorAll(".option-btn").forEach((btn) => {
     btn.addEventListener("click", () => selectOption(parseInt(btn.dataset.index, 10)));
@@ -219,29 +261,52 @@ function renderResult() {
       <div class="result-actions">
         <button class="primary-btn" id="play-again">${strings.playAgain}</button>
         <button class="secondary-btn" id="change-category">${strings.changeCategory}</button>
+        <button class="link-btn" id="back-home">${strings.back}</button>
       </div>
     </main>
   `;
 
-  document.querySelectorAll(".lang-btn").forEach((btn) => {
-    btn.addEventListener("click", () => setLang(btn.dataset.lang));
-  });
+  bindLangButtons();
 
   document.getElementById("play-again").addEventListener("click", () => startGame(state.category));
-  document.getElementById("change-category").addEventListener("click", renderHome);
+  document.getElementById("change-category").addEventListener("click", renderCategories);
+  document.getElementById("back-home").addEventListener("click", renderHome);
 }
 
 function render() {
-  if (state.screen === "question") {
-    renderQuestion();
-  } else if (state.screen === "result") {
-    renderResult();
-  } else {
-    renderHome();
+  switch (state.screen) {
+    case "categories":
+      renderCategories();
+      break;
+    case "question":
+      renderQuestion();
+      break;
+    case "result":
+      renderResult();
+      break;
+    case "rogue-intro":
+      renderRogueIntro();
+      break;
+    case "rogue-question":
+      renderRogueQuestion();
+      break;
+    case "rogue-shop":
+      renderRogueShop();
+      break;
+    case "rogue-over":
+      renderRogueOver();
+      break;
+    case "upgrades":
+      renderUpgrades();
+      break;
+    default:
+      renderHome();
   }
 }
 
 async function init() {
+  const save = SaveStore.get();
+  state.lang = save.lang;
   app.innerHTML = `${renderHeader()}<main class="screen loading-screen"><p>${t().loading}</p></main>`;
   await loadData();
   renderHome();
